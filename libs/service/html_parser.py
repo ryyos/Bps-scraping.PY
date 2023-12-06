@@ -71,7 +71,6 @@ class Scrapper:
             tables = self.__parser.ex(html=html, selector='#tablex')
             if len(tables.find(selector='thead tr')) > 2:
                 
-                print('masuk lebih dari 2')
                 __headers = []
                 for head in tables.find(selector='thead tr:first-child th'):
                     __headers.append(re.sub(r'\s+', ' ', head.text.strip()))
@@ -95,7 +94,6 @@ class Scrapper:
                             } for index_layer2, layer2 in enumerate(__key_layer2)
                         }
                     }
-                    # print(__data_table)
                 
                     
                     existing_data = next((item for item in __temporary if item.get(__headers[0]) == __data_table[__headers[0]]), None)
@@ -142,13 +140,6 @@ class Scrapper:
                     else:
                         __temporary.append(__data_table)
 
-
-
-        with open('private/json/data.json', 'w') as file:
-            json.dump(__temporary, file, indent=2)
-
-        print('done')
-        sleep(10)
         return[__urls_tables, __temporary]
 
                 
@@ -164,6 +155,13 @@ class Scrapper:
                 'url_tables': results[0],
                 'data_tables': results[1]
             })
+
+            
+        with open('private/json/data.json', 'w') as file:
+            json.dump(self.__results, file, indent=2)
+
+        print('done')
+        sleep(10)
 
 
 
