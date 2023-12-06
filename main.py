@@ -42,7 +42,7 @@ class Main:
 
         for type in self.__types:
 
-            # os.mkdir(f'data/{type.upper()}')
+            os.mkdir(f'data/{type.upper()}')
 
             for p in sideBar.find(f'#{type} p'):
 
@@ -52,16 +52,16 @@ class Main:
                 __name_file = self.__get_name(side)
                 __url_scrap = self.__filter_url(url=side)
 
+                
                 __result = {
                     'Type': type.upper(),
                     'times': time.now(),
-                    'datas': self.__scrapper.ex(req_url=__url_scrap)
+                    'datas': self.__scrapper.ex(req_url=__url_scrap, type=type, title=__name_file)
                 }
                 
-                self.__logs.ex(type=type, url=__url_scrap)
 
-                # with open(f'{type.upper()}/{__name_file.upper()}', 'w') as file:
-                #     json.dump(__result, file, indent=2)
+                with open(f'{type.upper()}/{__name_file.upper()}', 'w') as file:
+                    json.dump(__result, file, indent=2)
 
 
     def ex(self, main_url):

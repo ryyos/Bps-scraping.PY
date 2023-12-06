@@ -6,10 +6,12 @@ from time import sleep
 from requests import Response
 from pyquery import PyQuery
 from libs.utils.parser import HtmlParser
+from libs.utils.logs import Logs
 
 class Scrapper:
     def __init__(self) -> None:
         self.__parser = HtmlParser()
+        self.__logs = Logs()
         self.__main_url = 'https://www.archive.bps.go.id'
         self.__results = dict()
         self.__results['data'] = []
@@ -52,7 +54,7 @@ class Scrapper:
 
         return '/'.join(pieces_url)
 
-    def extract_data(self, urlReqs: str):
+    def extract_data(self, urlReqs: str, log_type, log_title, log_base_url):
         __urls_tables = dict()
         __temporary = []
         __urls_tables = []
@@ -60,6 +62,9 @@ class Scrapper:
 
         while True:
             __url = self.create_url(urlReqs=urlReqs, newValue=__url_val)
+
+            self.__logs.ex(type=log_type,title= log_title, base_url=log_base_url, child_url=__url)
+
             response: Response = requests.get(url=__url)
             html: PyQuery = PyQuery(response.text)
 
@@ -147,12 +152,16 @@ class Scrapper:
 
 
 
-    def ex(self, req_url):
+    def ex(self, req_url, type, title):
 
         urls = self.filter_url(req_url)
         for index, url in enumerate(urls):
             if 'indicator' not in url: continue
-            results = self.extract_data(urlReqs=url)
+
+            
+
+            results = self.extract_data(urlReqs=url, log_type=type, log_base_url=url, log_title=title)
+            
             self.__results['data'][index].update({
                 'url_tables': results[0],
                 'data_tables': results[1]

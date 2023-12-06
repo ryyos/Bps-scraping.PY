@@ -4,13 +4,14 @@ class Logs:
     def __init__(self) -> None:
         pass
 
-    def ex(self, type, url) -> None:
+    def ex(self, type, title, base_url, child_url) -> None:
         log = f"""
 Type: {type}
-Base_url: {url}
+Title: {title}
+Base_url: {base_url}
+scrapping_url: {child_url}
 Status: success
 Time: {time.now()}
-
             """
         
         print(log)
