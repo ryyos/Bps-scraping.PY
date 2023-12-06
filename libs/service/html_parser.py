@@ -60,7 +60,6 @@ class Scrapper:
 
         while True:
             __url = self.create_url(urlReqs=urlReqs, newValue=__url_val)
-            print(__url)
             response: Response = requests.get(url=__url)
             html: PyQuery = PyQuery(response.text)
 
@@ -152,7 +151,6 @@ class Scrapper:
 
         urls = self.filter_url(req_url)
         for index, url in enumerate(urls):
-            print('Outer --> ' ,url)
             if 'indicator' not in url: continue
             results = self.extract_data(urlReqs=url)
             self.__results['data'][index].update({

@@ -6,6 +6,8 @@ from requests import Response
 from pyquery import PyQuery
 from libs import HtmlParser
 from libs import Scrapper
+from libs import Logs
+from datetime import datetime as time
 # parser = Scrapper()
 # parser.execute("https://www.archive.bps.go.id/subject/2/komunikasi.html#subjekViewTab3")
 # parser.execute("https://www.archive.bps.go.id/subject/7/energi.html#subjekViewTab3")
@@ -14,6 +16,7 @@ class Main:
     def __init__(self) -> None:
         self.__scrapper = Scrapper()
         self.__paerser = HtmlParser()
+        self.__logs = Logs()
         self.__types = ['sosial', 'ekonomi', 'pertanian']
         self.__main_url = 'https://www.archive.bps.go.id'
         pass
@@ -45,13 +48,21 @@ class Main:
 
                 side = self.__paerser.ex(html=p, selector='a').attr('href')
                 if side == None: break
-                self.__get_name(side).upper()
 
-            self.__scrapper.ex(req_url=self.__filter_url(url=side))
+                __name_file = self.__get_name(side)
+                __url_scrap = self.__filter_url(url=side)
 
-        
+                __result = {
+                    'Type': type.upper(),
+                    'times': time.now(),
+                    'datas': self.__scrapper.ex(req_url=__url_scrap)
+                }
+                
+                self.__logs.ex(type=type, url=__url_scrap)
 
-        pass
+                # with open(f'{type.upper()}/{__name_file.upper()}', 'w') as file:
+                #     json.dump(__result, file, indent=2)
+
 
     def ex(self, main_url):
         urls = self.main(main_url=main_url)
