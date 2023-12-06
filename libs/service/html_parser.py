@@ -17,7 +17,8 @@ class Scrapper:
 
 
     def filter_data(self, data) -> str:
-        return data.replace(',', '.').replace('\\u200', ' ')
+        return data.replace(',', '.').replace('\u2009', '').replace(' ', '')
+    
     
 
     def filter_url(self, url):
