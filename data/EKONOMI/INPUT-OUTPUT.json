@@ -1,0 +1,330 @@
+{
+  "Type": "EKONOMI",
+  "times": "2023-12-06 22:59:15.177014",
+  "datas": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Struktur Output Menurut Sektor Ekonomi, 1995-2005",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/105/46/1/struktur-output-menurut-sektor-ekonomi.html"
+        ],
+        "data_tables": [
+          {
+            "Sektor Ekonomi": "Pertanian, Peternakan, Kehutanan, dan Perikanan",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "121706.60",
+                "2000": "307436.00",
+                "2005": "490879.70"
+              },
+              "Distribusi (%)": {
+                "1995": "12.24",
+                "2000": "11.38",
+                "2005": "8.63"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Pertambangan dan Penggalian",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "47564.60",
+                "2000": "196815.20",
+                "2005": "387251.30"
+              },
+              "Distribusi (%)": {
+                "1995": "4.79",
+                "2000": "7.29",
+                "2005": "6.81"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Industri Pengolahan",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "355146.40",
+                "2000": "1052451.30",
+                "2005": "2128143.90"
+              },
+              "Distribusi (%)": {
+                "1995": "35.73",
+                "2000": "38.96",
+                "2005": "37.41"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Listrik, Gas, dan Air Bersih",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "12049.90",
+                "2000": "30637.70",
+                "2005": "88893.50"
+              },
+              "Distribusi (%)": {
+                "1995": "1.21",
+                "2000": "1.13",
+                "2005": "1.56"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Bangunan",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "103644.70",
+                "2000": "227677.10",
+                "2005": "578441.80"
+              },
+              "Distribusi (%)": {
+                "1995": "10.43",
+                "2000": "8.43",
+                "2005": "10.17"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Perdagangan, Hotel, dan Restoran",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "126790.90",
+                "2000": "396214.30",
+                "2005": "730934.60"
+              },
+              "Distribusi (%)": {
+                "1995": "12.76",
+                "2000": "14.67",
+                "2005": "12.85"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Pengangkutan dan Komunikasi",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "59660.80",
+                "2000": "151272.20",
+                "2005": "398425.50"
+              },
+              "Distribusi (%)": {
+                "1995": "6.00",
+                "2000": "5.60",
+                "2005": "7.00"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Keuangan, Real Estat, dan Jasa Perusahaan",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "87025.50",
+                "2000": "161353.90",
+                "2005": "352188.00"
+              },
+              "Distribusi (%)": {
+                "1995": "8.76",
+                "2000": "5.97",
+                "2005": "6.19"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Jasa-jasa",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "80341.50",
+                "2000": "177242.30",
+                "2005": "533115.90"
+              },
+              "Distribusi (%)": {
+                "1995": "8.08",
+                "2000": "6.56",
+                "2005": "9.37"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Jumlah",
+            "Struktur Output Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "993930.80",
+                "2000": "2701099.80",
+                "2005": "5688274.30"
+              },
+              "Distribusi (%)": {
+                "1995": "100.00",
+                "2000": "100.00",
+                "2005": "100.00"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi, 1995-2005",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/105/47/1/struktur-nilai-tambah-bruto-ntb-menurut-sektor-ekonomi.html"
+        ],
+        "data_tables": [
+          {
+            "Sektor Ekonomi": "Pertanian, Peternakan, Kehutanan, dan Perikanan",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "89161.90",
+                "2000": "227081.00",
+                "2005": "375614.90"
+              },
+              "Distribusi (%)": {
+                "1995": "16.43",
+                "2000": "16.34",
+                "2005": "12.97"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Pertambangan dan Penggalian",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "41109.20",
+                "2000": "167692.20",
+                "2005": "317169.60"
+              },
+              "Distribusi (%)": {
+                "1995": "7.57",
+                "2000": "12.07",
+                "2005": "10.95"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Industri Pengolahan",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "131037.80",
+                "2000": "375348.30",
+                "2005": "795680.90"
+              },
+              "Distribusi (%)": {
+                "1995": "24.14",
+                "2000": "27.01",
+                "2005": "27.47"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Listrik, Gas, dan Air Bersih",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "5780.20",
+                "2000": "8393.70",
+                "2005": "26910.80"
+              },
+              "Distribusi (%)": {
+                "1995": "1.06",
+                "2000": "0.60",
+                "2005": "0.93"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Bangunan",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "35748.20",
+                "2000": "76573.40",
+                "2005": "206862.20"
+              },
+              "Distribusi (%)": {
+                "1995": "6.59",
+                "2000": "5.51",
+                "2005": "7.14"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Perdagangan, Hotel, dan Restoran",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "90566.50",
+                "2000": "248939.70",
+                "2005": "453238.90"
+              },
+              "Distribusi (%)": {
+                "1995": "16.69",
+                "2000": "17.91",
+                "2005": "15.65"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Pengangkutan dan Komunikasi",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "37155.50",
+                "2000": "65012.10",
+                "2005": "194422.50"
+              },
+              "Distribusi (%)": {
+                "1995": "6.85",
+                "2000": "4.68",
+                "2005": "6.71"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Keuangan, Real Estat, dan Jasa Perusahaan",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "62589.10",
+                "2000": "159962.10",
+                "2005": "239391.50"
+              },
+              "Distribusi (%)": {
+                "1995": "11.53",
+                "2000": "11.51",
+                "2005": "8.26"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Jasa-jasa",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "49607.10",
+                "2000": "60767.30",
+                "2005": "287653.80"
+              },
+              "Distribusi (%)": {
+                "1995": "9.14",
+                "2000": "4.37",
+                "2005": "9.93"
+              }
+            }
+          },
+          {
+            "Sektor Ekonomi": "Jumlah",
+            "Struktur Nilai Tambah Bruto (NTB) Menurut Sektor Ekonomi": {
+              "Nilai (miliar rupiah)": {
+                "1995": "542755.50",
+                "2000": "1389769.80",
+                "2005": "2896945.00"
+              },
+              "Distribusi (%)": {
+                "1995": "100.00",
+                "2000": "100.00",
+                "2005": "100.00"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

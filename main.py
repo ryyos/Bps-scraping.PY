@@ -8,13 +8,9 @@ from libs import HtmlParser
 from libs import Scrapper
 from libs import Logs
 from datetime import datetime as time
-# parser = Scrapper()
-# parser.execute("https://www.archive.bps.go.id/subject/2/komunikasi.html#subjekViewTab3")
-# parser.execute("https://www.archive.bps.go.id/subject/7/energi.html#subjekViewTab3")
 
 class Main:
     def __init__(self) -> None:
-        self.__scrapper = Scrapper()
         self.__paerser = HtmlParser()
         self.__logs = Logs()
         self.__types = ['sosial', 'ekonomi', 'pertanian']
@@ -42,9 +38,10 @@ class Main:
 
         for type in self.__types:
 
-            os.mkdir(f'data/{type.upper()}')
-
+            # os.mkdir(f'data/{type.upper()}')
+            print(type)
             for p in sideBar.find(f'#{type} p'):
+                __scrapper = Scrapper()
 
                 side = self.__paerser.ex(html=p, selector='a').attr('href')
                 if side == None: break
@@ -53,16 +50,17 @@ class Main:
                 __url_scrap = self.__filter_url(url=side)
                 print(__url_scrap)
 
+
                 
                 __result = {
                     'Type': type.upper(),
                     'times': str(time.now()),
-                    'datas': self.__scrapper.ex(req_url=__url_scrap, type=type, title=__name_file)
+                    'datas': __scrapper.ex(req_url=__url_scrap, type=type, title=__name_file)
                 }
                 
 
-                with open(f'data/{type.upper()}/{__name_file.upper()}.json', 'w') as file:
-                    json.dump(__result, file, indent=2)
+                # with open(f'data/{type.upper()}/{__name_file.upper()}.json', 'w') as file:
+                #     json.dump(__result, file, indent=2)
 
 
     def ex(self, main_url) -> None:

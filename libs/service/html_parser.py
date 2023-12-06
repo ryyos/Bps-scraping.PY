@@ -8,6 +8,7 @@ from pyquery import PyQuery
 from libs.utils.parser import HtmlParser
 from libs.utils.logs import Logs
 
+
 class Scrapper:
     def __init__(self) -> None:
         self.__parser = HtmlParser()
@@ -15,6 +16,7 @@ class Scrapper:
         self.__main_url = 'https://www.archive.bps.go.id'
         self.__results = dict()
         self.__results['data'] = []
+        self.__urls = []
         pass
 
 
@@ -24,12 +26,15 @@ class Scrapper:
     
 
     def filter_url(self, url):
-        __urls = []
+        
 
         response = requests.get(url)
         html = PyQuery(response.text)
         for no, html in enumerate(html.find('#listTabel1 tr')):
             if(self.__parser.ex(html=html, selector='td:nth-child(2)').text() == ""): continue
+            href_element = self.__parser.ex(html=html, selector='td:nth-child(2) a').attr('href')
+            if 'indicator' not in href_element: continue
+            # print(href_element)
             
             self.__results['data'].append({
                 'id' : no,
@@ -38,11 +43,9 @@ class Scrapper:
                 'keterangan' : self.__parser.ex(html=html, selector='td:nth-child(4)').text()
             })
 
-            href_element = self.__parser.ex(html=html, selector='td:nth-child(2) a').attr('href')
-            __urls.append(f'{self.__main_url}{href_element}' if self.__main_url not in str(href_element) else href_element)
+            self.__urls.append(f'{self.__main_url}{href_element}' if self.__main_url not in str(href_element) else href_element)
             no +=1
-
-        return __urls
+        return self.__urls
 
 
     def create_url(self, urlReqs: str, newValue: int) -> str:
@@ -62,7 +65,7 @@ class Scrapper:
 
         while True:
             __url = self.create_url(urlReqs=urlReqs, newValue=__url_val)
-
+            
             self.__logs.ex(type=log_type,title= log_title, base_url=log_base_url, child_url=__url)
 
             response: Response = requests.get(url=__url)
@@ -121,7 +124,7 @@ class Scrapper:
             else:
 
                 __headers = []
-                for head in tables.find(selector = 'thead tr:first-child th'):
+                for head in tables.find(selector = 'thead tr:first-child th'):  
                     __headers.append(re.sub(r'\s+', ' ', head.text.strip()))
 
 
@@ -156,7 +159,6 @@ class Scrapper:
 
         urls = self.filter_url(req_url)
         for index, url in enumerate(urls):
-            if 'indicator' not in url: continue
 
             
             try:

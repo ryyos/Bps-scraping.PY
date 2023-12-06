@@ -1,0 +1,5930 @@
+{
+  "Type": "PERTANIAN",
+  "times": "2023-12-06 23:31:18.493499",
+  "datas": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Kelompok Kayu, 2004-2021",
+        "update": "09 Dec 2022",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/2175/1/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-kelompok-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/2175/2/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-kelompok-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/2175/3/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-kelompok-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/2175/4/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-kelompok-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/2175/5/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-kelompok-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/2175/6/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-kelompok-kayu.html"
+        ],
+        "data_tables": [
+          {
+            "Kelompok Kayu": "Kelompok Meranti",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Kelompok Kayu (M3)": {
+              "2019": "3961000",
+              "2020": "3390140",
+              "2021": "4833969",
+              "2016": "4322196",
+              "2017": "3956352",
+              "2018": "3841029",
+              "2013": "3448486",
+              "2014": "4125167",
+              "2015": "4727416",
+              "2010": "5237067",
+              "2011": "4602148",
+              "2012": "3794121",
+              "2007": "5364235",
+              "2008": "5198426",
+              "2009": "4970986",
+              "2004": "4864651",
+              "2005": "5907790",
+              "2006": "5227135"
+            }
+          },
+          {
+            "Kelompok Kayu": "Kelompok Rimba Campuran",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Kelompok Kayu (M3)": {
+              "2019": "2211048",
+              "2020": "1864824",
+              "2021": "1198207",
+              "2016": "1290843",
+              "2017": "1419640",
+              "2018": "2598091",
+              "2013": "1386436",
+              "2014": "1298567",
+              "2015": "1117664",
+              "2010": "2027312",
+              "2011": "1687911",
+              "2012": "1478125",
+              "2007": "2937650",
+              "2008": "2682449",
+              "2009": "2300857",
+              "2004": "3139645",
+              "2005": "2738680",
+              "2006": "2547463"
+            }
+          },
+          {
+            "Kelompok Kayu": "Kelompok Kayu Indah",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Kelompok Kayu (M3)": {
+              "2019": "2763",
+              "2020": "5786",
+              "2021": "23348",
+              "2016": "34132",
+              "2017": "97822",
+              "2018": "4390",
+              "2013": "17959",
+              "2014": "23307",
+              "2015": "34300",
+              "2010": "76890",
+              "2011": "83350",
+              "2012": "69866",
+              "2007": "201048",
+              "2008": "177859",
+              "2009": "127406",
+              "2004": "154107",
+              "2005": "123192",
+              "2006": "126796"
+            }
+          },
+          {
+            "Kelompok Kayu": "Jumlah",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Kelompok Kayu (M3)": {
+              "2019": "6174811",
+              "2020": "5260750",
+              "2021": "6055524",
+              "2016": "5647171",
+              "2017": "5473814",
+              "2018": "6443510",
+              "2013": "4852881",
+              "2014": "5447041",
+              "2015": "5879380",
+              "2010": "7341269",
+              "2011": "6373409",
+              "2012": "5342112",
+              "2007": "8502933",
+              "2008": "8058734",
+              "2009": "7399249",
+              "2004": "8158403",
+              "2005": "8769662",
+              "2006": "7901394"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau 2 , 2019-2021",
+        "update": "08 Dec 2022",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1973/1/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-pulau-2-.html"
+        ],
+        "data_tables": [
+          {
+            "Pulau (Hutan)": "SUMATERA",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau 2 (M3)": {
+              "2019": "687252",
+              "2020": "691527",
+              "2021": "741899"
+            }
+          },
+          {
+            "Pulau (Hutan)": "JAWA",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau 2 (M3)": {
+              "2019": "-",
+              "2020": "0",
+              "2021": "0"
+            }
+          },
+          {
+            "Pulau (Hutan)": "KALIMANTAN",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau 2 (M3)": {
+              "2019": "3930767",
+              "2020": "3157824",
+              "2021": "3581054"
+            }
+          },
+          {
+            "Pulau (Hutan)": "BALI, NUSA TENGGARA, DAN SULAWESI",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau 2 (M3)": {
+              "2019": "41507",
+              "2020": "8724",
+              "2021": "3142"
+            }
+          },
+          {
+            "Pulau (Hutan)": "MALUKU DAN PAPUA",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau 2 (M3)": {
+              "2019": "1515284",
+              "2020": "1402675",
+              "2021": "1729429"
+            }
+          },
+          {
+            "Pulau (Hutan)": "INDONESIA",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau 2 (M3)": {
+              "2019": "6174811",
+              "2020": "5260750",
+              "2021": "6055524"
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku 2 , 2019-2021",
+        "update": "08 Dec 2022",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1972/1/jumlah-perusahaan-hak-pengusahaan-hutan-menurut-pulau-berdasarkan-sk-berlaku-2-.html"
+        ],
+        "data_tables": [
+          {
+            "Pulau (Hutan)": "SUMATERA",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku 2": {
+              "2019": "22",
+              "2020": "20",
+              "2021": "18"
+            }
+          },
+          {
+            "Pulau (Hutan)": "JAWA",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku 2": {
+              "2019": "-",
+              "2020": "0",
+              "2021": "0"
+            }
+          },
+          {
+            "Pulau (Hutan)": "KALIMANTAN",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku 2": {
+              "2019": "167",
+              "2020": "165",
+              "2021": "163"
+            }
+          },
+          {
+            "Pulau (Hutan)": "BALI, NUSA TENGGARA, DAN SULAWESI",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku 2": {
+              "2019": "14",
+              "2020": "12",
+              "2021": "11"
+            }
+          },
+          {
+            "Pulau (Hutan)": "MALUKU DAN PAPUA",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku 2": {
+              "2019": "71",
+              "2020": "65",
+              "2021": "64"
+            }
+          },
+          {
+            "Pulau (Hutan)": "INDONESIA",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku 2": {
+              "2019": "274",
+              "2020": "262",
+              "2021": "256"
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi, 2011-2021",
+        "update": "08 Dec 2022",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1851/1/produksi-perusahaan-pembudidaya-tanaman-kehutanan-menurut-jenis-produksi.html",
+          "https://www.archive.bps.go.id/indicator/60/1851/2/produksi-perusahaan-pembudidaya-tanaman-kehutanan-menurut-jenis-produksi.html",
+          "https://www.archive.bps.go.id/indicator/60/1851/3/produksi-perusahaan-pembudidaya-tanaman-kehutanan-menurut-jenis-produksi.html",
+          "https://www.archive.bps.go.id/indicator/60/1851/4/produksi-perusahaan-pembudidaya-tanaman-kehutanan-menurut-jenis-produksi.html"
+        ],
+        "data_tables": [
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "A. JUMLAH KAYU BULAT (M3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "41457584",
+              "2020": "46487679",
+              "2021": "47562910",
+              "2016": "28545026",
+              "2017": "36907366",
+              "2018": "41360644",
+              "2013": "19285879",
+              "2014": "18106262",
+              "2015": "23229295",
+              "2011": "12059172",
+              "2012": "12527430"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "1. Akasia-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "31509228",
+              "2020": "31987072",
+              "2021": "30377156",
+              "2016": "22565885",
+              "2017": "30985351",
+              "2018": "31528241",
+              "2013": "12804738",
+              "2014": "11750148",
+              "2015": "18827812",
+              "2011": "8023083",
+              "2012": "8855000"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "2. Damar-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "11948",
+              "2020": "10094",
+              "2021": "15212",
+              "2016": "7083",
+              "2017": "2970",
+              "2018": "8844",
+              "2013": "13167",
+              "2014": "11042",
+              "2015": "15467",
+              "2011": "7977",
+              "2012": "29153"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "3. Eukaliptus-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "8689309",
+              "2020": "13350735",
+              "2021": "15806928",
+              "2016": "1434199",
+              "2017": "3536770",
+              "2018": "7953573",
+              "2013": "2752534",
+              "2014": "2695745",
+              "2015": "1320958",
+              "2011": "1323170",
+              "2012": "1210744"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "4. Jati-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "397043",
+              "2020": "472725",
+              "2021": "482510",
+              "2016": "241731",
+              "2017": "315246",
+              "2018": "377016",
+              "2013": "558352",
+              "2014": "431892",
+              "2015": "371427",
+              "2011": "687368",
+              "2012": "382000"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "5. Karet-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "7051",
+              "2020": "19007",
+              "2021": "97714",
+              "2016": "126721",
+              "2017": "36489",
+              "2018": "37368",
+              "2013": "247759",
+              "2014": "257206",
+              "2015": "257791",
+              "2011": "747929",
+              "2012": "253720"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "6. Mahoni-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "80835",
+              "2020": "77875",
+              "2021": "94134",
+              "2016": "42801",
+              "2017": "34660",
+              "2018": "80693",
+              "2013": "392837",
+              "2014": "77442",
+              "2015": "17012",
+              "2011": "24986",
+              "2012": "158601"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "7. Meranti-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "260965",
+              "2020": "70963",
+              "2021": "53468",
+              "2016": "63983",
+              "2017": "55685",
+              "2018": "479153",
+              "2013": "181991",
+              "2014": "106796",
+              "2015": "216571",
+              "2011": "43763",
+              "2012": "21157"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "8. Pinus-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "169002",
+              "2020": "201402",
+              "2021": "240020",
+              "2016": "99651",
+              "2017": "165544",
+              "2018": "145896",
+              "2013": "31937",
+              "2014": "159639",
+              "2015": "50459",
+              "2011": "215113",
+              "2012": "116009"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "9. Rasamala-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "1684",
+              "2020": "0",
+              "2021": "0",
+              "2016": "8346",
+              "2017": "3519",
+              "2018": "3556",
+              "2013": "7699",
+              "2014": "7551",
+              "2015": "7452",
+              "2011": "15849",
+              "2012": "16808"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "10. Rimba Campuran-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "101323",
+              "2020": "99620",
+              "2021": "77567",
+              "2016": "2113239",
+              "2017": "1117848",
+              "2018": "262729",
+              "2013": "1504025",
+              "2014": "1591671",
+              "2015": "1649815",
+              "2011": "792068",
+              "2012": "1345523"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "11. Sengon-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "62270",
+              "2020": "97848",
+              "2021": "152014",
+              "2016": "100335",
+              "2017": "72753",
+              "2018": "101350",
+              "2013": "29187",
+              "2014": "36865",
+              "2015": "46657",
+              "2011": "110199",
+              "2012": "76114"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "12. Sonokeling-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "12604",
+              "2020": "15901",
+              "2021": "8220",
+              "2016": "6228",
+              "2017": "2445",
+              "2018": "5289",
+              "2013": "38756",
+              "2014": "23256",
+              "2015": "13399",
+              "2011": "2713",
+              "2012": "744"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "13. Lainnya-kayu bulat (m3)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "154321",
+              "2020": "84437",
+              "2021": "157967",
+              "2016": "1734824",
+              "2017": "578086",
+              "2018": "376936",
+              "2013": "722898",
+              "2014": "957008",
+              "2015": "434475",
+              "2011": "64954",
+              "2012": "61857"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "B. KAYU BAKAR (SM)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "7639",
+              "2020": "2827",
+              "2021": "4064",
+              "2016": "9820",
+              "2017": "9348",
+              "2018": "10929",
+              "2013": "1047746",
+              "2014": "133367",
+              "2015": "128447",
+              "2011": "158290",
+              "2012": "167863"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "C. GETAH/RESIN (KG)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "76412559",
+              "2020": "103554563",
+              "2021": "110688119",
+              "2016": "45280193",
+              "2017": "77706026",
+              "2018": "73065482",
+              "2013": "17626225",
+              "2014": "19149430",
+              "2015": "51287476",
+              "2011": "31986157",
+              "2012": "33920826"
+            }
+          },
+          {
+            "Jenis Produksi Perusahaan Pembudidaya Tanaman Kehutanan": "D. DAUN KAYU PUTIH (KG)",
+            "Produksi Perusahaan Pembudidaya Tanaman Kehutanan menurut Jenis Produksi": {
+              "2019": "35946612",
+              "2020": "54024933",
+              "2021": "51800068",
+              "2016": "20896368",
+              "2017": "28398958",
+              "2018": "27567530",
+              "2013": "25207759",
+              "2014": "21271702",
+              "2015": "40514739",
+              "2011": "23334137",
+              "2012": "17309982"
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Jumlah Perusahaan Pembudidaya Tanaman Kehutanan menurut Pulau, 2011-2021",
+        "update": "08 Dec 2022",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1850/1/jumlah-perusahaan-pembudidaya-tanaman-kehutanan-menurut-pulau.html",
+          "https://www.archive.bps.go.id/indicator/60/1850/2/jumlah-perusahaan-pembudidaya-tanaman-kehutanan-menurut-pulau.html",
+          "https://www.archive.bps.go.id/indicator/60/1850/3/jumlah-perusahaan-pembudidaya-tanaman-kehutanan-menurut-pulau.html",
+          "https://www.archive.bps.go.id/indicator/60/1850/4/jumlah-perusahaan-pembudidaya-tanaman-kehutanan-menurut-pulau.html"
+        ],
+        "data_tables": [
+          {
+            "Pulau (Hutan)": "SUMATERA",
+            "Jumlah Perusahaan Pembudidaya Tanaman Kehutanan menurut Pulau": {
+              "2019": "111",
+              "2020": "113",
+              "2021": "111",
+              "2016": "94",
+              "2017": "106",
+              "2018": "108",
+              "2013": "90",
+              "2014": "94",
+              "2015": "100",
+              "2011": "77",
+              "2012": "75"
+            }
+          },
+          {
+            "Pulau (Hutan)": "JAWA",
+            "Jumlah Perusahaan Pembudidaya Tanaman Kehutanan menurut Pulau": {
+              "2019": "70",
+              "2020": "71",
+              "2021": "67",
+              "2016": "64",
+              "2017": "74",
+              "2018": "72",
+              "2013": "70",
+              "2014": "73",
+              "2015": "66",
+              "2011": "60",
+              "2012": "68"
+            }
+          },
+          {
+            "Pulau (Hutan)": "NUSA TENGGARA",
+            "Jumlah Perusahaan Pembudidaya Tanaman Kehutanan menurut Pulau": {
+              "2019": "7",
+              "2020": "7",
+              "2021": "7",
+              "2016": "7",
+              "2017": "5",
+              "2018": "6",
+              "2013": "-",
+              "2014": "3",
+              "2015": "3",
+              "2011": "-",
+              "2012": "3"
+            }
+          },
+          {
+            "Pulau (Hutan)": "KALIMANTAN",
+            "Jumlah Perusahaan Pembudidaya Tanaman Kehutanan menurut Pulau": {
+              "2019": "100",
+              "2020": "108",
+              "2021": "111",
+              "2016": "72",
+              "2017": "87",
+              "2018": "84",
+              "2013": "69",
+              "2014": "71",
+              "2015": "74",
+              "2011": "60",
+              "2012": "56"
+            }
+          },
+          {
+            "Pulau (Hutan)": "SULAWESI",
+            "Jumlah Perusahaan Pembudidaya Tanaman Kehutanan menurut Pulau": {
+              "2019": "9",
+              "2020": "10",
+              "2021": "10",
+              "2016": "4",
+              "2017": "10",
+              "2018": "9",
+              "2013": "1",
+              "2014": "2",
+              "2015": "2",
+              "2011": "2",
+              "2012": "5"
+            }
+          },
+          {
+            "Pulau (Hutan)": "MALUKU DAN PAPUA",
+            "Jumlah Perusahaan Pembudidaya Tanaman Kehutanan menurut Pulau": {
+              "2019": "6",
+              "2020": "9",
+              "2021": "8",
+              "2016": "6",
+              "2017": "6",
+              "2018": "6",
+              "2013": "5",
+              "2014": "5",
+              "2015": "6",
+              "2011": "7",
+              "2012": "6"
+            }
+          },
+          {
+            "Pulau (Hutan)": "INDONESIA",
+            "Jumlah Perusahaan Pembudidaya Tanaman Kehutanan menurut Pulau": {
+              "2019": "303",
+              "2020": "318",
+              "2021": "314",
+              "2016": "247",
+              "2017": "288",
+              "2018": "285",
+              "2013": "235",
+              "2014": "248",
+              "2015": "251",
+              "2011": "206",
+              "2012": "213"
+            }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Produksi Kayu Bulat Menurut Provinsi, 2012-2021",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/2165/1/produksi-kayu-bulat-menurut-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/60/2165/2/produksi-kayu-bulat-menurut-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/60/2165/3/produksi-kayu-bulat-menurut-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/60/2165/4/produksi-kayu-bulat-menurut-provinsi.html"
+        ],
+        "data_tables": [
+          {
+            "Provinsi": "ACEH",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "7339.87",
+              "2020": "6871.76",
+              "2021": "16064.00",
+              "2016": "25093.18",
+              "2017": "11213.42",
+              "2018": "5311.34",
+              "2013": "16782.86",
+              "2014": "4893.86",
+              "2015": "8078.66",
+              "2012": "186274.64"
+            }
+          },
+          {
+            "Provinsi": "SUMATERA UTARA",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "1081120.30",
+              "2020": "1647804.81",
+              "2021": "1689227.00",
+              "2016": "2244412.91",
+              "2017": "946832.09",
+              "2018": "1474817.23",
+              "2013": "1191982.58",
+              "2014": "1884589.70",
+              "2015": "2594245.53",
+              "2012": "1510760.89"
+            }
+          },
+          {
+            "Provinsi": "SUMATERA BARAT",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "160024.90",
+              "2020": "160607.77",
+              "2021": "121884.59",
+              "2016": "123314.35",
+              "2017": "110186.29",
+              "2018": "137196.13",
+              "2013": "233647.52",
+              "2014": "248670.86",
+              "2015": "177192.96",
+              "2012": "422408.48"
+            }
+          },
+          {
+            "Provinsi": "RIAU",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "19964365.32",
+              "2020": "23286290.64",
+              "2021": "24239074.00",
+              "2016": "15728922.09",
+              "2017": "19401465.38",
+              "2018": "20329757.96",
+              "2013": "13643960.30",
+              "2014": "12479343.33",
+              "2015": "16310316.26",
+              "2012": "14224345.15"
+            }
+          },
+          {
+            "Provinsi": "JAMBI",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "5221276.99",
+              "2020": "6039957.46",
+              "2021": "5369335.00",
+              "2016": "3619285.70",
+              "2017": "4091397.55",
+              "2018": "4973298.44",
+              "2013": "5479325.46",
+              "2014": "2031252.63",
+              "2015": "1696007.22",
+              "2012": "5759364.80"
+            }
+          },
+          {
+            "Provinsi": "SUMATERA SELATAN",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "9581473.60",
+              "2020": "10476098.09",
+              "2021": "10297622.00",
+              "2016": "3986349.39",
+              "2017": "6289546.06",
+              "2018": "7696629.74",
+              "2013": "3603328.91",
+              "2014": "4517174.38",
+              "2015": "5464946.35",
+              "2012": "3785940.89"
+            }
+          },
+          {
+            "Provinsi": "BENGKULU",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "9243.73",
+              "2020": "11848.46",
+              "2021": "9210.00",
+              "2016": "28428.29",
+              "2017": "4471.42",
+              "2018": "5340.72",
+              "2013": "24413.93",
+              "2014": "40006.36",
+              "2015": "36799.54",
+              "2012": "18981.18"
+            }
+          },
+          {
+            "Provinsi": "LAMPUNG",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "107989.50",
+              "2020": "26112.48",
+              "2021": "85216.40",
+              "2016": "150380.32",
+              "2017": "223018.99",
+              "2018": "282222.17",
+              "2013": "2782962.24",
+              "2014": "189259.69",
+              "2015": "207442.89",
+              "2012": "250151.48"
+            }
+          },
+          {
+            "Provinsi": "KEP. BANGKA BELITUNG",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "11808.66",
+              "2020": "55214.21",
+              "2021": "32224.81",
+              "2016": "35219.48",
+              "2017": "16798.96",
+              "2018": "25742.79",
+              "2013": "11653.27",
+              "2014": "1867.12",
+              "2015": "24092.82",
+              "2012": "11262.82"
+            }
+          },
+          {
+            "Provinsi": "KEP. RIAU",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "21491.18",
+              "2020": "20513.24",
+              "2021": "19399.00",
+              "2016": "11598.63",
+              "2017": "13019.22",
+              "2018": "17446.39",
+              "2013": "10335.49",
+              "2014": "14764.72",
+              "2015": "11827.45",
+              "2012": "8477.74"
+            }
+          },
+          {
+            "Provinsi": "DKI JAKARTA",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "0.00",
+              "2020": "0.00",
+              "2021": "0.00",
+              "2016": "0.00",
+              "2017": "0.00",
+              "2018": "6231.54",
+              "2013": "0.00",
+              "2014": "0.00",
+              "2015": "0.00",
+              "2012": "0.00"
+            }
+          },
+          {
+            "Provinsi": "JAWA BARAT",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "1743006.16",
+              "2020": "1059243.11",
+              "2021": "1649986.14",
+              "2016": "195507.60",
+              "2017": "72404.33",
+              "2018": "118489.80",
+              "2013": "561109.90",
+              "2014": "197081.30",
+              "2015": "324346.27",
+              "2012": "1179710.56"
+            }
+          },
+          {
+            "Provinsi": "JAWA TENGAH",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "2835217.85",
+              "2020": "2834624.08",
+              "2021": "2884223.32",
+              "2016": "1557414.70",
+              "2017": "2839150.32",
+              "2018": "2879479.78",
+              "2013": "1073125.49",
+              "2014": "1307984.54",
+              "2015": "2113252.50",
+              "2012": "2934731.48"
+            }
+          },
+          {
+            "Provinsi": "DI YOGYAKARTA",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "60670.05",
+              "2020": "35473.04",
+              "2021": "97995.37",
+              "2016": "118545.39",
+              "2017": "121049.12",
+              "2018": "135458.80",
+              "2013": "731651.08",
+              "2014": "112180.04",
+              "2015": "169831.98",
+              "2012": "117099.64"
+            }
+          },
+          {
+            "Provinsi": "JAWA TIMUR",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "4157819.56",
+              "2020": "3796824.25",
+              "2021": "4171354.83",
+              "2016": "2050242.39",
+              "2017": "1888524.21",
+              "2018": "3390519.94",
+              "2013": "4714044.49",
+              "2014": "2311614.56",
+              "2015": "2087628.86",
+              "2012": "1445243.52"
+            }
+          },
+          {
+            "Provinsi": "BANTEN",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "76554.79",
+              "2020": "36386.64",
+              "2021": "18414.00",
+              "2016": "237738.90",
+              "2017": "231552.52",
+              "2018": "21545.06",
+              "2013": "317149.12",
+              "2014": "249835.32",
+              "2015": "242749.69",
+              "2012": "178331.66"
+            }
+          },
+          {
+            "Provinsi": "BALI",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "29478.91",
+              "2020": "0.00",
+              "2021": "0.00",
+              "2016": "15895.10",
+              "2017": "21144.24",
+              "2018": "23149.12",
+              "2013": "9073.91",
+              "2014": "14779.85",
+              "2015": "18100.51",
+              "2012": "800172.94"
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA BARAT",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "39162.25",
+              "2020": "24856.76",
+              "2021": "19862.89",
+              "2016": "15940.30",
+              "2017": "21030.71",
+              "2018": "39784.04",
+              "2013": "47781.14",
+              "2014": "4761.39",
+              "2015": "10814.95",
+              "2012": "545170.02"
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA TIMUR",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "14444.01",
+              "2020": "0.00",
+              "2021": "0.00",
+              "2016": "8008.25",
+              "2017": "5989.30",
+              "2018": "17014.29",
+              "2013": "2004.28",
+              "2014": "7321.16",
+              "2015": "8958.98",
+              "2012": "5280.14"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN BARAT",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "1083664.51",
+              "2020": "880495.95",
+              "2021": "921407.00",
+              "2016": "971223.50",
+              "2017": "1372415.52",
+              "2018": "1376922.44",
+              "2013": "2095809.17",
+              "2014": "359950.03",
+              "2015": "674502.11",
+              "2012": "1037408.61"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TENGAH",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "3433890.42",
+              "2020": "2856230.07",
+              "2021": "3367978.00",
+              "2016": "3122406.89",
+              "2017": "3066269.22",
+              "2018": "3630671.10",
+              "2013": "3221098.17",
+              "2014": "4488086.82",
+              "2015": "3818418.09",
+              "2012": "2415661.38"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN SELATAN",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "119229.69",
+              "2020": "70745.25",
+              "2021": "49519.00",
+              "2016": "369806.00",
+              "2017": "347630.99",
+              "2018": "49648.36",
+              "2013": "317401.89",
+              "2014": "404425.30",
+              "2015": "348062.15",
+              "2012": "98662.02"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TIMUR",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "4862408.93",
+              "2020": "4578103.41",
+              "2021": "5831404.29",
+              "2016": "3941135.78",
+              "2017": "4312167.18",
+              "2018": "5227107.76",
+              "2013": "4419635.90",
+              "2014": "5858788.77",
+              "2015": "3470547.72",
+              "2012": "4294562.44"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN UTARA",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "1150018.17",
+              "2020": "1321405.07",
+              "2021": "1384998.00",
+              "2016": "1772752.45",
+              "2017": "1861092.40",
+              "2018": "1688961.91",
+              "2013": "-",
+              "2014": "-",
+              "2015": "2221074.69",
+              "2012": "-"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI UTARA",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "274.37",
+              "2020": "67.95",
+              "2021": "4126.00",
+              "2016": "4161.96",
+              "2017": "6099.87",
+              "2018": "2838.87",
+              "2013": "1306932.57",
+              "2014": "7755.17",
+              "2015": "5576.64",
+              "2012": "19893.78"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGAH",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "111325.03",
+              "2020": "66981.27",
+              "2021": "87756.72",
+              "2016": "76454.96",
+              "2017": "46681.00",
+              "2018": "73834.56",
+              "2013": "101695.63",
+              "2014": "69480.94",
+              "2015": "74663.13",
+              "2012": "111062.96"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI SELATAN",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "10674.50",
+              "2020": "88290.00",
+              "2021": "88721.96",
+              "2016": "77977.24",
+              "2017": "64571.11",
+              "2018": "18575.12",
+              "2013": "67855.21",
+              "2014": "112175.14",
+              "2015": "92851.08",
+              "2012": "127566.11"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGGARA",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "50060.90",
+              "2020": "40187.54",
+              "2021": "53102.40",
+              "2016": "42519.84",
+              "2017": "43682.93",
+              "2018": "55579.58",
+              "2013": "53627.69",
+              "2014": "57104.87",
+              "2015": "44317.43",
+              "2012": "165185.68"
+            }
+          },
+          {
+            "Provinsi": "GORONTALO",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "4318.84",
+              "2020": "13096.99",
+              "2021": "9053.26",
+              "2016": "12127.75",
+              "2017": "13982.87",
+              "2018": "27817.03",
+              "2013": "31734.16",
+              "2014": "65103.55",
+              "2015": "17632.02",
+              "2012": "11897.43"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI BARAT",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "5403.07",
+              "2020": "478.38",
+              "2021": "745.00",
+              "2016": "10028.41",
+              "2017": "1258.13",
+              "2018": "4667.61",
+              "2013": "9967.97",
+              "2014": "4963.03",
+              "2015": "8958.99",
+              "2012": "12528.98"
+            }
+          },
+          {
+            "Provinsi": "MALUKU",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "409990.90",
+              "2020": "230684.12",
+              "2021": "265392.40",
+              "2016": "268861.01",
+              "2017": "289514.97",
+              "2018": "384885.54",
+              "2013": "323751.64",
+              "2014": "156049.05",
+              "2015": "236516.77",
+              "2012": "332780.58"
+            }
+          },
+          {
+            "Provinsi": "MALUKU UTARA",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "210256.24",
+              "2020": "137567.78",
+              "2021": "165781.83",
+              "2016": "155216.67",
+              "2017": "162882.41",
+              "2018": "121145.94",
+              "2013": "129339.42",
+              "2014": "156470.18",
+              "2015": "188150.14",
+              "2012": "147055.00"
+            }
+          },
+          {
+            "Provinsi": "PAPUA BARAT",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "714260.81",
+              "2020": "690043.90",
+              "2021": "842031.00",
+              "2016": "497821.98",
+              "2017": "468952.25",
+              "2018": "703004.64",
+              "2013": "322446.66",
+              "2014": "406184.99",
+              "2015": "316524.63",
+              "2012": "546647.01"
+            }
+          },
+          {
+            "Provinsi": "PAPUA",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "641950.22",
+              "2020": "524926.30",
+              "2021": "630494.00",
+              "2016": "776194.32",
+              "2017": "763650.42",
+              "2018": "577859.51",
+              "2013": "959354.94",
+              "2014": "841551.75",
+              "2015": "841798.18",
+              "2012": "606855.43"
+            }
+          },
+          {
+            "Provinsi": "INDONESIA",
+            "Produksi Kayu Bulat Menurut Provinsi (M3)": {
+              "2019": "57930214.23",
+              "2020": "61018030.78",
+              "2021": "64423604.21",
+              "2016": "42250985.73",
+              "2017": "49129645.38",
+              "2018": "55522955.25",
+              "2013": "47814982.99",
+              "2014": "38605470.39",
+              "2015": "43866227.17",
+              "2012": "43311475.43"
+            }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Produksi Kayu Hutan, 2000-2020",
+        "update": "14 Jan 2022",
+        "keterangan": "Statistik Sektoral",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/167/1/produksi-kayu-hutan.html",
+          "https://www.archive.bps.go.id/indicator/60/167/2/produksi-kayu-hutan.html",
+          "https://www.archive.bps.go.id/indicator/60/167/3/produksi-kayu-hutan.html",
+          "https://www.archive.bps.go.id/indicator/60/167/4/produksi-kayu-hutan.html",
+          "https://www.archive.bps.go.id/indicator/60/167/5/produksi-kayu-hutan.html",
+          "https://www.archive.bps.go.id/indicator/60/167/6/produksi-kayu-hutan.html",
+          "https://www.archive.bps.go.id/indicator/60/167/7/produksi-kayu-hutan.html"
+        ],
+        "data_tables": [
+          {
+            "Jenis Kayu Hutan": "Kayu Bulat",
+            "Produksi Kayu Hutan (M3)": {
+              "2018": "47966365",
+              "2019": "45840236",
+              "2020": "-",
+              "2015": "38853618",
+              "2016": "38076624",
+              "2017": "43681718",
+              "2012": "6537195",
+              "2013": "33410808",
+              "2014": "31899666",
+              "2009": "34320536",
+              "2010": "41973668",
+              "2011": "42706657",
+              "2006": "34092484",
+              "2007": "32197046",
+              "2008": "32000786",
+              "2003": "11423501",
+              "2004": "13548938",
+              "2005": "31965725",
+              "2000": "13798240",
+              "2001": "11432501",
+              "2002": "9004105"
+            }
+          },
+          {
+            "Jenis Kayu Hutan": "Kayu Gergajian",
+            "Produksi Kayu Hutan (M3)": {
+              "2018": "2078551",
+              "2019": "2529113",
+              "2020": "2581435",
+              "2015": "1765080",
+              "2016": "1873777",
+              "2017": "1912366",
+              "2012": "1100096",
+              "2013": "992867",
+              "2014": "1458624",
+              "2009": "710208",
+              "2010": "898576",
+              "2011": "967318",
+              "2006": "679247",
+              "2007": "587402",
+              "2008": "530688",
+              "2003": "762604",
+              "2004": "432967",
+              "2005": "1471614",
+              "2000": "2789543",
+              "2001": "674868",
+              "2002": "623495"
+            }
+          },
+          {
+            "Jenis Kayu Hutan": "Kayu Lapis",
+            "Produksi Kayu Hutan (M3)": {
+              "2018": "4213557",
+              "2019": "4157686",
+              "2020": "3862923",
+              "2015": "3640631",
+              "2016": "3683640",
+              "2017": "3761198",
+              "2012": "3310863",
+              "2013": "3261970",
+              "2014": "3579113",
+              "2009": "3004950",
+              "2010": "3324889",
+              "2011": "3302843",
+              "2006": "3811794",
+              "2007": "3454350",
+              "2008": "3353479",
+              "2003": "6110556",
+              "2004": "4514392",
+              "2005": "4533749",
+              "2000": "4442735",
+              "2001": "2101485",
+              "2002": "1694405"
+            }
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu, 2004-2020",
+        "update": "02 Nov 2021",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/502/1/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-jenis-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/502/2/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-jenis-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/502/3/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-jenis-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/502/4/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-jenis-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/502/5/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-jenis-kayu.html",
+          "https://www.archive.bps.go.id/indicator/60/502/6/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-jenis-kayu.html"
+        ],
+        "data_tables": [
+          {
+            "Jenis Kayu Bulat": "Agathis",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "11078",
+              "2019": "12915",
+              "2020": "10021",
+              "2015": "2173",
+              "2016": "1952",
+              "2017": "3264",
+              "2012": "4707",
+              "2013": "453",
+              "2014": "453",
+              "2009": "6034",
+              "2010": "5853",
+              "2011": "6380",
+              "2006": "1612",
+              "2007": "26132",
+              "2008": "18121",
+              "2004": "32134",
+              "2005": "29888"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Bakau",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "1178",
+              "2019": "3976",
+              "2020": "45271",
+              "2015": "14165",
+              "2016": "31276",
+              "2017": "19969",
+              "2012": "0",
+              "2013": "139521",
+              "2014": "110144",
+              "2009": "110205",
+              "2010": "160989",
+              "2011": "0",
+              "2006": "155582",
+              "2007": "52913",
+              "2008": "0",
+              "2004": "290475",
+              "2005": "0"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Bangkirai",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "294456",
+              "2019": "320859",
+              "2020": "165876",
+              "2015": "112541",
+              "2016": "74285",
+              "2017": "113711",
+              "2012": "112141",
+              "2013": "44244",
+              "2014": "71864",
+              "2009": "77818",
+              "2010": "82063",
+              "2011": "99244",
+              "2006": "66136",
+              "2007": "73207",
+              "2008": "77127",
+              "2004": "48776",
+              "2005": "64733"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Benuang",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "33073",
+              "2019": "48660",
+              "2020": "38894",
+              "2015": "15145",
+              "2016": "11667",
+              "2017": "11218",
+              "2012": "5122",
+              "2013": "6098",
+              "2014": "18223",
+              "2009": "36450",
+              "2010": "36109",
+              "2011": "0",
+              "2006": "6655",
+              "2007": "9549",
+              "2008": "39945",
+              "2004": "14861",
+              "2005": "8029"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Damar",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "24",
+              "2019": "148",
+              "2020": "200",
+              "2015": "0",
+              "2016": "-",
+              "2017": "-",
+              "2012": "0",
+              "2013": "0",
+              "2014": "0",
+              "2009": "1491",
+              "2010": "525",
+              "2011": "0",
+              "2006": "1625",
+              "2007": "3830",
+              "2008": "2409",
+              "2004": "2777",
+              "2005": "3543"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Duabanga",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "3236",
+              "2019": "2523",
+              "2020": "5772",
+              "2015": "35",
+              "2016": "29",
+              "2017": "705",
+              "2012": "30",
+              "2013": "14",
+              "2014": "14",
+              "2009": "0",
+              "2010": "0",
+              "2011": "0",
+              "2006": "0",
+              "2007": "0",
+              "2008": "0",
+              "2004": "32393",
+              "2005": "0"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Indah",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "4390",
+              "2019": "2763",
+              "2020": "5786",
+              "2015": "34300",
+              "2016": "34132",
+              "2017": "97822",
+              "2012": "41466",
+              "2013": "17959",
+              "2014": "23307",
+              "2009": "59699",
+              "2010": "45307",
+              "2011": "48094",
+              "2006": "45209",
+              "2007": "108083",
+              "2008": "85434",
+              "2004": "72980",
+              "2005": "57799"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Jelutung",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "1875",
+              "2019": "1912",
+              "2020": "1248",
+              "2015": "777",
+              "2016": "907",
+              "2017": "650",
+              "2012": "16",
+              "2013": "70",
+              "2014": "471",
+              "2009": "17431",
+              "2010": "21340",
+              "2011": "0",
+              "2006": "18580",
+              "2007": "24539",
+              "2008": "24813",
+              "2004": "22226",
+              "2005": "1201"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Kapur",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "166650",
+              "2019": "155637",
+              "2020": "111228",
+              "2015": "78972",
+              "2016": "35111",
+              "2017": "56745",
+              "2012": "233432",
+              "2013": "31878",
+              "2014": "22486",
+              "2009": "268621",
+              "2010": "250500",
+              "2011": "209827",
+              "2006": "390958",
+              "2007": "261523",
+              "2008": "281591",
+              "2004": "307602",
+              "2005": "323635"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Kruing",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "587838",
+              "2019": "591721",
+              "2020": "331444",
+              "2015": "327803",
+              "2016": "241965",
+              "2017": "328421",
+              "2012": "255099",
+              "2013": "272201",
+              "2014": "262685",
+              "2009": "369933",
+              "2010": "342897",
+              "2011": "168467",
+              "2006": "308901",
+              "2007": "375459",
+              "2008": "372044",
+              "2004": "242706",
+              "2005": "372573"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Meranti",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "2591162",
+              "2019": "2678459",
+              "2020": "2631021",
+              "2015": "4169157",
+              "2016": "3929223",
+              "2017": "3402315",
+              "2012": "3160592",
+              "2013": "3082766",
+              "2014": "3742965",
+              "2009": "4062671",
+              "2010": "4385510",
+              "2011": "4091990",
+              "2006": "4377991",
+              "2007": "4460637",
+              "2008": "4231197",
+              "2004": "4135592",
+              "2005": "5049694"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Mersawa",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "78339",
+              "2019": "93656",
+              "2020": "67845",
+              "2015": "11238",
+              "2016": "7281",
+              "2017": "9036",
+              "2012": "6675",
+              "2013": "5659",
+              "2014": "9775",
+              "2009": "105334",
+              "2010": "100886",
+              "2011": "3657",
+              "2006": "12675",
+              "2007": "22761",
+              "2008": "106304",
+              "2004": "20103",
+              "2005": "14957"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Nyatoh",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "70513",
+              "2019": "55859",
+              "2020": "43820",
+              "2015": "16272",
+              "2016": "14526",
+              "2017": "23885",
+              "2012": "18460",
+              "2013": "8904",
+              "2014": "10566",
+              "2009": "39141",
+              "2010": "35449",
+              "2011": "22337",
+              "2006": "23587",
+              "2007": "53551",
+              "2008": "41595",
+              "2004": "31434",
+              "2005": "26345"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Palapi",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "21012",
+              "2019": "19058",
+              "2020": "6181",
+              "2015": "5159",
+              "2016": "5280",
+              "2017": "8083",
+              "2012": "802",
+              "2013": "292",
+              "2014": "2585",
+              "2009": "15756",
+              "2010": "7222",
+              "2011": "0",
+              "2006": "20522",
+              "2007": "54185",
+              "2008": "35767",
+              "2004": "17598",
+              "2005": "15176"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Ramin",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "-",
+              "2019": "-",
+              "2020": "0",
+              "2015": "0",
+              "2016": "-",
+              "2017": "-",
+              "2012": "28400",
+              "2013": "0",
+              "2014": "0",
+              "2009": "67707",
+              "2010": "31583",
+              "2011": "35256",
+              "2006": "81587",
+              "2007": "92965",
+              "2008": "92425",
+              "2004": "81127",
+              "2005": "65393"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Resak",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "18082",
+              "2019": "30776",
+              "2020": "21256",
+              "2015": "3324",
+              "2016": "11666",
+              "2017": "10242",
+              "2012": "2197",
+              "2013": "2019",
+              "2014": "1317",
+              "2009": "6756",
+              "2010": "4822",
+              "2011": "246",
+              "2006": "4548",
+              "2007": "8411",
+              "2008": "7458",
+              "2004": "3703",
+              "2005": "6045"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Rimba Campuran",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "2214444",
+              "2019": "381402",
+              "2020": "192681",
+              "2015": "574545",
+              "2016": "574400",
+              "2017": "733999",
+              "2012": "623201",
+              "2013": "486877",
+              "2014": "518357",
+              "2009": "1249338",
+              "2010": "869666",
+              "2011": "739554",
+              "2006": "1475917",
+              "2007": "1813744",
+              "2008": "1546896",
+              "2004": "1684351",
+              "2005": "1571497"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Lainnya",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "346160",
+              "2019": "1774487",
+              "2020": "1582206",
+              "2015": "513774",
+              "2016": "673471",
+              "2017": "653749",
+              "2012": "849772",
+              "2013": "753926",
+              "2014": "651829",
+              "2009": "904864",
+              "2010": "960548",
+              "2011": "948357",
+              "2006": "909309",
+              "2007": "1061444",
+              "2008": "1095608",
+              "2004": "1117565",
+              "2005": "1159154"
+            }
+          },
+          {
+            "Jenis Kayu Bulat": "Indonesia",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Jenis Kayu (M3)": {
+              "2018": "6443510",
+              "2019": "6174811",
+              "2020": "5260750",
+              "2015": "5879380",
+              "2016": "5647171",
+              "2017": "5473814",
+              "2012": "5342112",
+              "2013": "4852881",
+              "2014": "5447041",
+              "2009": "7399249",
+              "2010": "7341269",
+              "2011": "6373409",
+              "2006": "7901394",
+              "2007": "8502933",
+              "2008": "8058734",
+              "2004": "8158403",
+              "2005": "8769662"
+            }
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Luas Kegiatan Reboisasi, 2000-2019",
+        "update": "11 Jan 2021",
+        "keterangan": "Statistik Sektoral",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/84/1/luas-kegiatan-reboisasi.html",
+          "https://www.archive.bps.go.id/indicator/60/84/2/luas-kegiatan-reboisasi.html",
+          "https://www.archive.bps.go.id/indicator/60/84/3/luas-kegiatan-reboisasi.html",
+          "https://www.archive.bps.go.id/indicator/60/84/4/luas-kegiatan-reboisasi.html",
+          "https://www.archive.bps.go.id/indicator/60/84/5/luas-kegiatan-reboisasi.html",
+          "https://www.archive.bps.go.id/indicator/60/84/6/luas-kegiatan-reboisasi.html",
+          "https://www.archive.bps.go.id/indicator/60/84/7/luas-kegiatan-reboisasi.html"
+        ],
+        "data_tables": [
+          {
+            "Provinsi": "ACEH",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "460.00",
+              "2018": "885.00",
+              "2019": "14143.00",
+              "2014": "500.00",
+              "2015": "900.00",
+              "2016": "575.00",
+              "2011": "2815.00",
+              "2012": "5000.00",
+              "2013": "500.00",
+              "2008": "590.00",
+              "2009": "-",
+              "2010": "1500.00",
+              "2005": "713.00",
+              "2006": "5150.00",
+              "2007": "184.00",
+              "2002": "1710.00",
+              "2003": "20.00",
+              "2004": "2672.00",
+              "2000": "1048.00",
+              "2001": "1400.00"
+            }
+          },
+          {
+            "Provinsi": "SUMATERA UTARA",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "1183.00",
+              "2018": "1047.00",
+              "2019": "17207.00",
+              "2014": "1050.00",
+              "2015": "800.00",
+              "2016": "-",
+              "2011": "11410.00",
+              "2012": "7005.00",
+              "2013": "6500.00",
+              "2008": "24126.00",
+              "2009": "1785.00",
+              "2010": "4829.00",
+              "2005": "1109.00",
+              "2006": "7545.00",
+              "2007": "10279.00",
+              "2002": "841.00",
+              "2003": "1984.00",
+              "2004": "11424.00",
+              "2000": "450.00",
+              "2001": "1012.00"
+            }
+          },
+          {
+            "Provinsi": "SUMATERA BARAT",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "580.00",
+              "2018": "1140.00",
+              "2019": "1551.00",
+              "2014": "200.00",
+              "2015": "1073.00",
+              "2016": "450.00",
+              "2011": "500.00",
+              "2012": "745.00",
+              "2013": "1500.00",
+              "2008": "4542.00",
+              "2009": "1022.00",
+              "2010": "2687.00",
+              "2005": "3756.00",
+              "2006": "5057.00",
+              "2007": "10179.00",
+              "2002": "-",
+              "2003": "905.00",
+              "2004": "19486.00",
+              "2000": "1000.00",
+              "2001": "150.00"
+            }
+          },
+          {
+            "Provinsi": "RIAU",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "560.00",
+              "2018": "400.00",
+              "2019": "14749.00",
+              "2014": "850.00",
+              "2015": "-",
+              "2016": "375.00",
+              "2011": "3615.00",
+              "2012": "2562.00",
+              "2013": "1500.00",
+              "2008": "3750.00",
+              "2009": "1725.00",
+              "2010": "6000.00",
+              "2005": "1361.00",
+              "2006": "6295.00",
+              "2007": "160.00",
+              "2002": "-",
+              "2003": "2210.00",
+              "2004": "13140.00",
+              "2000": "150.00",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "JAMBI",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "1000.00",
+              "2018": "1130.00",
+              "2019": "1000.00",
+              "2014": "800.00",
+              "2015": "-",
+              "2016": "-",
+              "2011": "3690.00",
+              "2012": "7750.00",
+              "2013": "6350.00",
+              "2008": "-",
+              "2009": "-",
+              "2010": "515.00",
+              "2005": "1108.00",
+              "2006": "5183.00",
+              "2007": "3546.00",
+              "2002": "-",
+              "2003": "695.00",
+              "2004": "5101.00",
+              "2000": "200.00",
+              "2001": "2495.00"
+            }
+          },
+          {
+            "Provinsi": "SUMATERA SELATAN",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "660.00",
+              "2018": "550.00",
+              "2019": "17629.00",
+              "2014": "400.00",
+              "2015": "200.00",
+              "2016": "107.00",
+              "2011": "1760.00",
+              "2012": "5000.00",
+              "2013": "3500.00",
+              "2008": "2500.00",
+              "2009": "-",
+              "2010": "1530.00",
+              "2005": "70.00",
+              "2006": "5684.00",
+              "2007": "-",
+              "2002": "1238.00",
+              "2003": "150.00",
+              "2004": "3219.00",
+              "2000": "100.00",
+              "2001": "1834.00"
+            }
+          },
+          {
+            "Provinsi": "BENGKULU",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "295.00",
+              "2018": "675.00",
+              "2019": "771.00",
+              "2014": "2050.00",
+              "2015": "200.00",
+              "2016": "325.00",
+              "2011": "5300.00",
+              "2012": "5000.00",
+              "2013": "6000.00",
+              "2008": "450.00",
+              "2009": "1765.00",
+              "2010": "5014.00",
+              "2005": "1294.00",
+              "2006": "3741.00",
+              "2007": "-",
+              "2002": "580.00",
+              "2003": "321.00",
+              "2004": "534.00",
+              "2000": "-",
+              "2001": "580.00"
+            }
+          },
+          {
+            "Provinsi": "LAMPUNG",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "600.00",
+              "2018": "125.00",
+              "2019": "16500.00",
+              "2014": "1750.00",
+              "2015": "900.00",
+              "2016": "604.00",
+              "2011": "15000.00",
+              "2012": "8800.00",
+              "2013": "8300.00",
+              "2008": "35528.00",
+              "2009": "46920.00",
+              "2010": "7500.00",
+              "2005": "-",
+              "2006": "12162.00",
+              "2007": "2844.00",
+              "2002": "-",
+              "2003": "7670.00",
+              "2004": "37250.00",
+              "2000": "450.00",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "KEP. BANGKA BELITUNG",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "335.00",
+              "2018": "350.00",
+              "2019": "500.00",
+              "2014": "-",
+              "2015": "-",
+              "2016": "150.00",
+              "2011": "-",
+              "2012": "-",
+              "2013": "-",
+              "2008": "220.00",
+              "2009": "375.00",
+              "2010": "60.00",
+              "2005": "200.00",
+              "2006": "3200.00",
+              "2007": "-",
+              "2002": "-",
+              "2003": "50.00",
+              "2004": "800.00",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "KEP. RIAU",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "293.00",
+              "2018": "200.00",
+              "2019": "400.00",
+              "2014": "100.00",
+              "2015": "200.00",
+              "2016": "258.00",
+              "2011": "-",
+              "2012": "-",
+              "2013": "850.00",
+              "2008": "3325.00",
+              "2009": "5188.00",
+              "2010": "900.00",
+              "2005": "-",
+              "2006": "1455.00",
+              "2007": "902.00",
+              "2002": "-",
+              "2003": "-",
+              "2004": "-",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "DKI JAKARTA",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "-",
+              "2018": "-",
+              "2019": "-",
+              "2014": "-",
+              "2015": "-",
+              "2016": "-",
+              "2011": "-",
+              "2012": "270.00",
+              "2013": "-",
+              "2008": "9749.00",
+              "2009": "37.00",
+              "2010": "-",
+              "2005": "-",
+              "2006": "600.00",
+              "2007": "-",
+              "2002": "-",
+              "2003": "-",
+              "2004": "-",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "JAWA BARAT",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "19837.00",
+              "2018": "4505.00",
+              "2019": "18241.00",
+              "2014": "350.00",
+              "2015": "-",
+              "2016": "-",
+              "2011": "5600.00",
+              "2012": "2949.00",
+              "2013": "1750.00",
+              "2008": "2978.00",
+              "2009": "3245.00",
+              "2010": "10964.00",
+              "2005": "-",
+              "2006": "15241.00",
+              "2007": "1411.00",
+              "2002": "150.00",
+              "2003": "-",
+              "2004": "49156.00",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "JAWA TENGAH",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "1375.00",
+              "2018": "1160.00",
+              "2019": "12057.00",
+              "2014": "70.00",
+              "2015": "-",
+              "2016": "-",
+              "2011": "200.00",
+              "2012": "1363.00",
+              "2013": "821.00",
+              "2008": "5323.00",
+              "2009": "7050.00",
+              "2010": "3730.00",
+              "2005": "-",
+              "2006": "1000.00",
+              "2007": "2483.00",
+              "2002": "-",
+              "2003": "-",
+              "2004": "53661.00",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "DI YOGYAKARTA",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "-",
+              "2018": "750.00",
+              "2019": "-",
+              "2014": "30.00",
+              "2015": "-",
+              "2016": "-",
+              "2011": "453.00",
+              "2012": "125.00",
+              "2013": "135.00",
+              "2008": "1273.00",
+              "2009": "283.00",
+              "2010": "5377.00",
+              "2005": "-",
+              "2006": "1550.00",
+              "2007": "1519.00",
+              "2002": "275.00",
+              "2003": "-",
+              "2004": "5260.00",
+              "2000": "64.00",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "JAWA TIMUR",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "640.00",
+              "2018": "1625.00",
+              "2019": "19343.00",
+              "2014": "100.00",
+              "2015": "-",
+              "2016": "-",
+              "2011": "1500.00",
+              "2012": "650.00",
+              "2013": "500.00",
+              "2008": "17689.00",
+              "2009": "15998.00",
+              "2010": "4533.00",
+              "2005": "2599.00",
+              "2006": "100.00",
+              "2007": "200.00",
+              "2002": "-",
+              "2003": "-",
+              "2004": "55106.00",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "BANTEN",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "-",
+              "2018": "125.00",
+              "2019": "9.00",
+              "2014": "225.00",
+              "2015": "-",
+              "2016": "-",
+              "2011": "-",
+              "2012": "175.00",
+              "2013": "1250.00",
+              "2008": "4310.00",
+              "2009": "260.00",
+              "2010": "3560.00",
+              "2005": "-",
+              "2006": "6185.00",
+              "2007": "4700.00",
+              "2002": "-",
+              "2003": "750.00",
+              "2004": "2725.00",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "BALI",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "250.00",
+              "2018": "415.00",
+              "2019": "750.00",
+              "2014": "300.00",
+              "2015": "300.00",
+              "2016": "300.00",
+              "2011": "200.00",
+              "2012": "200.00",
+              "2013": "1000.00",
+              "2008": "966.00",
+              "2009": "530.00",
+              "2010": "636.00",
+              "2005": "300.00",
+              "2006": "4350.00",
+              "2007": "2950.00",
+              "2002": "375.00",
+              "2003": "81.00",
+              "2004": "3075.00",
+              "2000": "350.00",
+              "2001": "100.00"
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA BARAT",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "606.00",
+              "2018": "1005.00",
+              "2019": "3100.00",
+              "2014": "550.00",
+              "2015": "1125.00",
+              "2016": "330.00",
+              "2011": "500.00",
+              "2012": "3000.00",
+              "2013": "4000.00",
+              "2008": "14488.00",
+              "2009": "3991.00",
+              "2010": "1000.00",
+              "2005": "1395.00",
+              "2006": "12865.00",
+              "2007": "6950.00",
+              "2002": "-",
+              "2003": "1785.00",
+              "2004": "9105.00",
+              "2000": "900.00",
+              "2001": "804.00"
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA TIMUR",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "450.00",
+              "2018": "1260.00",
+              "2019": "6000.00",
+              "2014": "700.00",
+              "2015": "900.00",
+              "2016": "350.00",
+              "2011": "3500.00",
+              "2012": "4552.00",
+              "2013": "3900.00",
+              "2008": "21193.00",
+              "2009": "1340.00",
+              "2010": "975.00",
+              "2005": "-",
+              "2006": "13015.00",
+              "2007": "1183.00",
+              "2002": "1535.00",
+              "2003": "1620.00",
+              "2004": "7905.00",
+              "2000": "1324.00",
+              "2001": "500.00"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN BARAT",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "650.00",
+              "2018": "382.00",
+              "2019": "11000.00",
+              "2014": "800.00",
+              "2015": "-",
+              "2016": "-",
+              "2011": "5000.00",
+              "2012": "5000.00",
+              "2013": "7000.00",
+              "2008": "9527.00",
+              "2009": "1457.00",
+              "2010": "6325.00",
+              "2005": "200.00",
+              "2006": "14785.00",
+              "2007": "415.00",
+              "2002": "831.00",
+              "2003": "-",
+              "2004": "5705.00",
+              "2000": "-",
+              "2001": "722.00"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TENGAH",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "254.00",
+              "2018": "775.00",
+              "2019": "400.00",
+              "2014": "750.00",
+              "2015": "900.00",
+              "2016": "97.00",
+              "2011": "5000.00",
+              "2012": "5000.00",
+              "2013": "6000.00",
+              "2008": "15544.00",
+              "2009": "3422.00",
+              "2010": "7750.00",
+              "2005": "1224.00",
+              "2006": "19832.00",
+              "2007": "528.00",
+              "2002": "5158.00",
+              "2003": "2743.00",
+              "2004": "10644.00",
+              "2000": "500.00",
+              "2001": "500.00"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN SELATAN",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "302.00",
+              "2018": "400.00",
+              "2019": "8300.00",
+              "2014": "500.00",
+              "2015": "300.00",
+              "2016": "-",
+              "2011": "650.00",
+              "2012": "666.00",
+              "2013": "1300.00",
+              "2008": "1200.00",
+              "2009": "-",
+              "2010": "4825.00",
+              "2005": "1635.00",
+              "2006": "6805.00",
+              "2007": "73.00",
+              "2002": "1870.00",
+              "2003": "973.00",
+              "2004": "9760.00",
+              "2000": "-",
+              "2001": "2350.00"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TIMUR",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "370.00",
+              "2018": "532.00",
+              "2019": "3700.00",
+              "2014": "800.00",
+              "2015": "200.00",
+              "2016": "400.00",
+              "2011": "1700.00",
+              "2012": "2000.00",
+              "2013": "2700.00",
+              "2008": "1200.00",
+              "2009": "-",
+              "2010": "5125.00",
+              "2005": "800.00",
+              "2006": "4151.00",
+              "2007": "2645.00",
+              "2002": "10685.00",
+              "2003": "7949.00",
+              "2004": "5675.00",
+              "2000": "100.00",
+              "2001": "550.00"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN UTARA",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "-",
+              "2018": "-",
+              "2019": "-",
+              "2014": "-",
+              "2015": "-",
+              "2016": "-",
+              "2011": "-",
+              "2012": "-",
+              "2013": "-",
+              "2008": "-",
+              "2009": "-",
+              "2010": "-",
+              "2005": "-",
+              "2006": "-",
+              "2007": "-",
+              "2002": "-",
+              "2003": "-",
+              "2004": "-",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI UTARA",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "350.00",
+              "2018": "632.00",
+              "2019": "400.00",
+              "2014": "700.00",
+              "2015": "-",
+              "2016": "252.00",
+              "2011": "1350.00",
+              "2012": "1100.00",
+              "2013": "1300.00",
+              "2008": "12205.00",
+              "2009": "1590.00",
+              "2010": "1400.00",
+              "2005": "1035.00",
+              "2006": "4851.00",
+              "2007": "1785.00",
+              "2002": "3000.00",
+              "2003": "780.00",
+              "2004": "1729.00",
+              "2000": "50.00",
+              "2001": "50.00"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGAH",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "490.00",
+              "2018": "835.00",
+              "2019": "200.00",
+              "2014": "425.00",
+              "2015": "-",
+              "2016": "106.00",
+              "2011": "3000.00",
+              "2012": "3000.00",
+              "2013": "2750.00",
+              "2008": "507.00",
+              "2009": "-",
+              "2010": "1008.00",
+              "2005": "1573.00",
+              "2006": "7454.00",
+              "2007": "690.00",
+              "2002": "-",
+              "2003": "10712.00",
+              "2004": "610.00",
+              "2000": "200.00",
+              "2001": "1000.00"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI SELATAN",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "915.00",
+              "2018": "1357.00",
+              "2019": "19600.00",
+              "2014": "5500.00",
+              "2015": "150.00",
+              "2016": "-",
+              "2011": "7000.00",
+              "2012": "6000.00",
+              "2013": "11000.00",
+              "2008": "26545.00",
+              "2009": "4872.00",
+              "2010": "4150.00",
+              "2005": "2602.00",
+              "2006": "21834.00",
+              "2007": "7543.00",
+              "2002": "5512.00",
+              "2003": "10737.00",
+              "2004": "13304.00",
+              "2000": "1700.00",
+              "2001": "3267.00"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGGARA",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "250.00",
+              "2018": "485.00",
+              "2019": "300.00",
+              "2014": "2000.00",
+              "2015": "460.00",
+              "2016": "400.00",
+              "2011": "5000.00",
+              "2012": "6425.00",
+              "2013": "7000.00",
+              "2008": "12365.00",
+              "2009": "8200.00",
+              "2010": "2150.00",
+              "2005": "219.00",
+              "2006": "14723.00",
+              "2007": "755.00",
+              "2002": "100.00",
+              "2003": "180.00",
+              "2004": "3641.00",
+              "2000": "-",
+              "2001": "1000.00"
+            }
+          },
+          {
+            "Provinsi": "GORONTALO",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "490.00",
+              "2018": "425.00",
+              "2019": "12300.00",
+              "2014": "500.00",
+              "2015": "200.00",
+              "2016": "-",
+              "2011": "2500.00",
+              "2012": "2650.00",
+              "2013": "2500.00",
+              "2008": "3155.00",
+              "2009": "-",
+              "2010": "1253.00",
+              "2005": "300.00",
+              "2006": "8179.00",
+              "2007": "8950.00",
+              "2002": "-",
+              "2003": "50.00",
+              "2004": "7005.00",
+              "2000": "-",
+              "2001": "1050.00"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI BARAT",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "400.00",
+              "2018": "300.00",
+              "2019": "2000.00",
+              "2014": "2037.00",
+              "2015": "1100.00",
+              "2016": "544.00",
+              "2011": "-",
+              "2012": "500.00",
+              "2013": "6750.00",
+              "2008": "8463.00",
+              "2009": "-",
+              "2010": "1000.00",
+              "2005": "-",
+              "2006": "5839.00",
+              "2007": "2250.00",
+              "2002": "-",
+              "2003": "-",
+              "2004": "-",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "MALUKU",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "325.00",
+              "2018": "400.00",
+              "2019": "2050.00",
+              "2014": "300.00",
+              "2015": "-",
+              "2016": "275.00",
+              "2011": "3000.00",
+              "2012": "3000.00",
+              "2013": "1500.00",
+              "2008": "12975.00",
+              "2009": "150.00",
+              "2010": "1000.00",
+              "2005": "1800.00",
+              "2006": "7210.00",
+              "2007": "100.00",
+              "2002": "500.00",
+              "2003": "1185.00",
+              "2004": "700.00",
+              "2000": "400.00",
+              "2001": "400.00"
+            }
+          },
+          {
+            "Provinsi": "MALUKU UTARA",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "205.00",
+              "2018": "275.00",
+              "2019": "500.00",
+              "2014": "250.00",
+              "2015": "-",
+              "2016": "218.00",
+              "2011": "500.00",
+              "2012": "500.00",
+              "2013": "500.00",
+              "2008": "5348.00",
+              "2009": "1043.00",
+              "2010": "3930.00",
+              "2005": "600.00",
+              "2006": "13450.00",
+              "2007": "506.00",
+              "2002": "-",
+              "2003": "350.00",
+              "2004": "446.00",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "PAPUA BARAT",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "223.00",
+              "2018": "500.00",
+              "2019": "300.00",
+              "2014": "1000.00",
+              "2015": "400.00",
+              "2016": "401.00",
+              "2011": "5000.00",
+              "2012": "5000.00",
+              "2013": "3000.00",
+              "2008": "1290.00",
+              "2009": "-",
+              "2010": "2027.00",
+              "2005": "295.00",
+              "2006": "250.00",
+              "2007": "-",
+              "2002": "-",
+              "2003": "-",
+              "2004": "26.00",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "PAPUA",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "775.00",
+              "2018": "525.00",
+              "2019": "1000.00",
+              "2014": "575.00",
+              "2015": "200.00",
+              "2016": "550.00",
+              "2011": "5000.00",
+              "2012": "5000.00",
+              "2013": "4000.00",
+              "2008": "3742.00",
+              "2009": "794.00",
+              "2010": "1045.00",
+              "2005": "775.00",
+              "2006": "6301.00",
+              "2007": "488.00",
+              "2002": "1073.00",
+              "2003": "762.00",
+              "2004": "302.00",
+              "2000": "-",
+              "2001": "-"
+            }
+          },
+          {
+            "Provinsi": "INDONESIA",
+            "Luas Kegiatan Reboisasi (Hektar)": {
+              "2017": "35123.00",
+              "2018": "25170.00",
+              "2019": "206000.00",
+              "2014": "26162.00",
+              "2015": "10508.00",
+              "2016": "7067.00",
+              "2011": "100743.00",
+              "2012": "100987.00",
+              "2013": "105656.00",
+              "2008": "267066.00",
+              "2009": "113042.00",
+              "2010": "100738.00",
+              "2005": "26963.00",
+              "2006": "246042.00",
+              "2007": "76218.00",
+              "2002": "35433.00",
+              "2003": "54762.00",
+              "2004": "339166.00",
+              "2000": "9636.00",
+              "2001": "19764.00"
+            }
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Luas dan Penyebaran Lahan Kritis Menurut Provinsi, 2006-2018",
+        "update": "10 Jul 2020",
+        "keterangan": "Statistik Sektoral",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/588/1/luas-dan-penyebaran-lahan-kritis-menurut-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/60/588/2/luas-dan-penyebaran-lahan-kritis-menurut-provinsi.html"
+        ],
+        "data_tables": [
+          {
+            "Provinsi": "ACEH",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "623665",
+                "2013": "474664",
+                "2018": "126238",
+                "2006": "395680"
+              },
+              "Sangat Kritis": {
+                "2011": "121290",
+                "2013": "150694",
+                "2018": "190399",
+                "2006": "67343"
+              },
+              "Jumlah": {
+                "2011": "744954",
+                "2013": "625358",
+                "2018": "316637",
+                "2006": "463023"
+              }
+            }
+          },
+          {
+            "Provinsi": "SUMATERA UTARA",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "854610",
+                "2013": "580944",
+                "2018": "836530",
+                "2006": "1526959"
+              },
+              "Sangat Kritis": {
+                "2011": "280731",
+                "2013": "478523",
+                "2018": "502280",
+                "2006": "434767"
+              },
+              "Jumlah": {
+                "2011": "1135341",
+                "2013": "1059467",
+                "2018": "1338810",
+                "2006": "1961726"
+              }
+            }
+          },
+          {
+            "Provinsi": "SUMATERA BARAT",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "419524",
+                "2013": "485907",
+                "2018": "174748",
+                "2006": "239433"
+              },
+              "Sangat Kritis": {
+                "2011": "90453",
+                "2013": "144788",
+                "2018": "477221",
+                "2006": "169598"
+              },
+              "Jumlah": {
+                "2011": "509977",
+                "2013": "630695",
+                "2018": "651970",
+                "2006": "409031"
+              }
+            }
+          },
+          {
+            "Provinsi": "RIAU",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "739935",
+                "2013": "1737809",
+                "2018": "435709",
+                "2006": "2306659"
+              },
+              "Sangat Kritis": {
+                "2011": "100723",
+                "2013": "151813",
+                "2018": "275164",
+                "2006": "108356"
+              },
+              "Jumlah": {
+                "2011": "840658",
+                "2013": "1889622",
+                "2018": "710873",
+                "2006": "2415015"
+              }
+            }
+          },
+          {
+            "Provinsi": "JAMBI",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "341685",
+                "2013": "515192",
+                "2018": "111855",
+                "2006": "614117"
+              },
+              "Sangat Kritis": {
+                "2011": "1078917",
+                "2013": "264582",
+                "2018": "102130",
+                "2006": "4774"
+              },
+              "Jumlah": {
+                "2011": "1420602",
+                "2013": "779774",
+                "2018": "213985",
+                "2006": "618891"
+              }
+            }
+          },
+          {
+            "Provinsi": "SUMATERA SELATAN",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "3668355",
+                "2013": "299172",
+                "2018": "602938",
+                "2006": "2085364"
+              },
+              "Sangat Kritis": {
+                "2011": "217707",
+                "2013": "13692",
+                "2018": "130818",
+                "2006": "739485"
+              },
+              "Jumlah": {
+                "2011": "3886062",
+                "2013": "312864",
+                "2018": "733756",
+                "2006": "2824849"
+              }
+            }
+          },
+          {
+            "Provinsi": "BENGKULU",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "531470",
+                "2013": "586026",
+                "2018": "120598",
+                "2006": "545219"
+              },
+              "Sangat Kritis": {
+                "2011": "111117",
+                "2013": "135648",
+                "2018": "28289",
+                "2006": "163730"
+              },
+              "Jumlah": {
+                "2011": "642587",
+                "2013": "721674",
+                "2018": "148887",
+                "2006": "708949"
+              }
+            }
+          },
+          {
+            "Provinsi": "LAMPUNG",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "512168",
+                "2013": "238322",
+                "2018": "381933",
+                "2006": "339055"
+              },
+              "Sangat Kritis": {
+                "2011": "77061",
+                "2013": "84602",
+                "2018": "21977",
+                "2006": "186408"
+              },
+              "Jumlah": {
+                "2011": "589229",
+                "2013": "322924",
+                "2018": "403910",
+                "2006": "525463"
+              }
+            }
+          },
+          {
+            "Provinsi": "KEP. BANGKA BELITUNG",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "88212",
+                "2013": "155388",
+                "2018": "20426",
+                "2006": "261615"
+              },
+              "Sangat Kritis": {
+                "2011": "26624",
+                "2013": "60720",
+                "2018": "261",
+                "2006": "314843"
+              },
+              "Jumlah": {
+                "2011": "114836",
+                "2013": "216108",
+                "2018": "20687",
+                "2006": "576458"
+              }
+            }
+          },
+          {
+            "Provinsi": "KEP. RIAU",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "24519",
+                "2013": "224031",
+                "2018": "4269",
+                "2006": "-"
+              },
+              "Sangat Kritis": {
+                "2011": "230230",
+                "2013": "114177",
+                "2018": "3961",
+                "2006": "-"
+              },
+              "Jumlah": {
+                "2011": "254749",
+                "2013": "338208",
+                "2018": "8230",
+                "2006": "-"
+              }
+            }
+          },
+          {
+            "Provinsi": "DKI JAKARTA",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "-",
+                "2013": "-",
+                "2018": "-",
+                "2006": "-"
+              },
+              "Sangat Kritis": {
+                "2011": "-",
+                "2013": "-",
+                "2018": "-",
+                "2006": "-"
+              },
+              "Jumlah": {
+                "2011": "-",
+                "2013": "-",
+                "2018": "-",
+                "2006": "-"
+              }
+            }
+          },
+          {
+            "Provinsi": "JAWA BARAT",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "415806",
+                "2013": "302014",
+                "2018": "231445",
+                "2006": "140895"
+              },
+              "Sangat Kritis": {
+                "2011": "68139",
+                "2013": "40952",
+                "2018": "679748",
+                "2006": "19487"
+              },
+              "Jumlah": {
+                "2011": "483944",
+                "2013": "342966",
+                "2018": "911192",
+                "2006": "160382"
+              }
+            }
+          },
+          {
+            "Provinsi": "JAWA TENGAH",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "149976",
+                "2013": "105633",
+                "2018": "158374",
+                "2006": "233300"
+              },
+              "Sangat Kritis": {
+                "2011": "9877",
+                "2013": "5210",
+                "2018": "217359",
+                "2006": "28226"
+              },
+              "Jumlah": {
+                "2011": "159853",
+                "2013": "110843",
+                "2018": "375733",
+                "2006": "261526"
+              }
+            }
+          },
+          {
+            "Provinsi": "DI YOGYAKARTA",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "33088",
+                "2013": "25272",
+                "2018": "78333",
+                "2006": "43549"
+              },
+              "Sangat Kritis": {
+                "2011": "471",
+                "2013": "845",
+                "2018": "790",
+                "2006": "1110"
+              },
+              "Jumlah": {
+                "2011": "33559",
+                "2013": "26117",
+                "2018": "79123",
+                "2006": "44659"
+              }
+            }
+          },
+          {
+            "Provinsi": "JAWA TIMUR",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "506336",
+                "2013": "485042",
+                "2018": "86937",
+                "2006": "533841"
+              },
+              "Sangat Kritis": {
+                "2011": "102577",
+                "2013": "736877",
+                "2018": "345289",
+                "2006": "247115"
+              },
+              "Jumlah": {
+                "2011": "608913",
+                "2013": "1221919",
+                "2018": "432225",
+                "2006": "780956"
+              }
+            }
+          },
+          {
+            "Provinsi": "BANTEN",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "56753",
+                "2013": "33239",
+                "2018": "236325",
+                "2006": "51982"
+              },
+              "Sangat Kritis": {
+                "2011": "10750",
+                "2013": "3716",
+                "2018": "94083",
+                "2006": "90427"
+              },
+              "Jumlah": {
+                "2011": "67503",
+                "2013": "36955",
+                "2018": "330407",
+                "2006": "142409"
+              }
+            }
+          },
+          {
+            "Provinsi": "BALI",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "45112",
+                "2013": "43087",
+                "2018": "44611",
+                "2006": "51639"
+              },
+              "Sangat Kritis": {
+                "2011": "2940",
+                "2013": "2910",
+                "2018": "2284",
+                "2006": "4281"
+              },
+              "Jumlah": {
+                "2011": "48052",
+                "2013": "45997",
+                "2018": "46895",
+                "2006": "55920"
+              }
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA BARAT",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "68611",
+                "2013": "154358",
+                "2018": "55158",
+                "2006": "236899"
+              },
+              "Sangat Kritis": {
+                "2011": "23248",
+                "2013": "23219",
+                "2018": "10641",
+                "2006": "68833"
+              },
+              "Jumlah": {
+                "2011": "91859",
+                "2013": "177577",
+                "2018": "65799",
+                "2006": "305732"
+              }
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA TIMUR",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "1006526",
+                "2013": "942976",
+                "2018": "831330",
+                "2006": "2234587"
+              },
+              "Sangat Kritis": {
+                "2011": "35162",
+                "2013": "17878",
+                "2018": "9585",
+                "2006": "985224"
+              },
+              "Jumlah": {
+                "2011": "1041688",
+                "2013": "960854",
+                "2018": "840914",
+                "2006": "3219811"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN BARAT",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "2844134",
+                "2013": "752711",
+                "2018": "996541",
+                "2006": "1840181"
+              },
+              "Sangat Kritis": {
+                "2011": "325357",
+                "2013": "106864",
+                "2018": "19090",
+                "2006": "16124"
+              },
+              "Jumlah": {
+                "2011": "3169491",
+                "2013": "859575",
+                "2018": "1015631",
+                "2006": "1856305"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TENGAH",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "3498036",
+                "2013": "4785299",
+                "2018": "768756",
+                "2006": "1939144"
+              },
+              "Sangat Kritis": {
+                "2011": "1138854",
+                "2013": "359405",
+                "2018": "92484",
+                "2006": "1267743"
+              },
+              "Jumlah": {
+                "2011": "4636890",
+                "2013": "5144704",
+                "2018": "861240",
+                "2006": "3206887"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN SELATAN",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "708130",
+                "2013": "508941",
+                "2018": "286459",
+                "2006": "511821"
+              },
+              "Sangat Kritis": {
+                "2011": "78781",
+                "2013": "132645",
+                "2018": "225135",
+                "2006": "54771"
+              },
+              "Jumlah": {
+                "2011": "786911",
+                "2013": "641586",
+                "2018": "511594",
+                "2006": "566592"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TIMUR",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "314464",
+                "2013": "847590",
+                "2018": "156839",
+                "2006": "1015616"
+              },
+              "Sangat Kritis": {
+                "2011": "4372",
+                "2013": "63230",
+                "2018": "118433",
+                "2006": "38074"
+              },
+              "Jumlah": {
+                "2011": "318836",
+                "2013": "910820",
+                "2018": "275272",
+                "2006": "1053690"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN UTARA",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "-",
+                "2013": "245215",
+                "2018": "163520",
+                "2006": "-"
+              },
+              "Sangat Kritis": {
+                "2011": "-",
+                "2013": "29125",
+                "2018": "36214",
+                "2006": "-"
+              },
+              "Jumlah": {
+                "2011": "-",
+                "2013": "274340",
+                "2018": "199734",
+                "2006": "-"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI UTARA",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "242354",
+                "2013": "189816",
+                "2018": "197748",
+                "2006": "229226"
+              },
+              "Sangat Kritis": {
+                "2011": "33702",
+                "2013": "79395",
+                "2018": "92034",
+                "2006": "28040"
+              },
+              "Jumlah": {
+                "2011": "276056",
+                "2013": "269211",
+                "2018": "289782",
+                "2006": "257266"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGAH",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "293638",
+                "2013": "347955",
+                "2018": "164305",
+                "2006": "113179"
+              },
+              "Sangat Kritis": {
+                "2011": "24131",
+                "2013": "104277",
+                "2018": "100569",
+                "2006": "103308"
+              },
+              "Jumlah": {
+                "2011": "317769",
+                "2013": "452232",
+                "2018": "264874",
+                "2006": "216487"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI SELATAN",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "810504",
+                "2013": "388509",
+                "2018": "155587",
+                "2006": "223806"
+              },
+              "Sangat Kritis": {
+                "2011": "109948",
+                "2013": "144152",
+                "2018": "294019",
+                "2006": "325312"
+              },
+              "Jumlah": {
+                "2011": "920452",
+                "2013": "532661",
+                "2018": "449606",
+                "2006": "549118"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGGARA",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "617519",
+                "2013": "631628",
+                "2018": "409624",
+                "2006": "919467"
+              },
+              "Sangat Kritis": {
+                "2011": "267944",
+                "2013": "313477",
+                "2018": "15031",
+                "2006": "365134"
+              },
+              "Jumlah": {
+                "2011": "885463",
+                "2013": "945105",
+                "2018": "424655",
+                "2006": "1284601"
+              }
+            }
+          },
+          {
+            "Provinsi": "GORONTALO",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "184652",
+                "2013": "319393",
+                "2018": "73443",
+                "2006": "202790"
+              },
+              "Sangat Kritis": {
+                "2011": "72524",
+                "2013": "247244",
+                "2018": "258855",
+                "2006": "62988"
+              },
+              "Jumlah": {
+                "2011": "257176",
+                "2013": "566637",
+                "2018": "332298",
+                "2006": "265778"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI BARAT",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "105546",
+                "2013": "263404",
+                "2018": "74085",
+                "2006": "21514"
+              },
+              "Sangat Kritis": {
+                "2011": "8414",
+                "2013": "55749",
+                "2018": "14336",
+                "2006": "5624"
+              },
+              "Jumlah": {
+                "2011": "113960",
+                "2013": "319153",
+                "2018": "88421",
+                "2006": "27138"
+              }
+            }
+          },
+          {
+            "Provinsi": "MALUKU",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "490521",
+                "2013": "471015",
+                "2018": "299577",
+                "2006": "488315"
+              },
+              "Sangat Kritis": {
+                "2011": "271803",
+                "2013": "257761",
+                "2018": "30",
+                "2006": "123904"
+              },
+              "Jumlah": {
+                "2011": "762324",
+                "2013": "728776",
+                "2018": "299607",
+                "2006": "612219"
+              }
+            }
+          },
+          {
+            "Provinsi": "MALUKU UTARA",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "447669",
+                "2013": "322948",
+                "2018": "372940",
+                "2006": "259360"
+              },
+              "Sangat Kritis": {
+                "2011": "163438",
+                "2013": "97153",
+                "2018": "14949",
+                "2006": "291390"
+              },
+              "Jumlah": {
+                "2011": "611106",
+                "2013": "420101",
+                "2018": "387889",
+                "2006": "550750"
+              }
+            }
+          },
+          {
+            "Provinsi": "PAPUA BARAT",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "410601",
+                "2013": "128244",
+                "2018": "427504",
+                "2006": "1041638"
+              },
+              "Sangat Kritis": {
+                "2011": "76742",
+                "2013": "50997",
+                "2018": "9784",
+                "2006": "263132"
+              },
+              "Jumlah": {
+                "2011": "487343",
+                "2013": "179241",
+                "2018": "437288",
+                "2006": "1304770"
+              }
+            }
+          },
+          {
+            "Provinsi": "PAPUA",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "971464",
+                "2013": "1973165",
+                "2018": "369042",
+                "2006": "2659384"
+              },
+              "Sangat Kritis": {
+                "2011": "105235",
+                "2013": "266064",
+                "2018": "169481",
+                "2006": "311016"
+              },
+              "Jumlah": {
+                "2011": "1076699",
+                "2013": "2239229",
+                "2018": "538523",
+                "2006": "2970400"
+              }
+            }
+          },
+          {
+            "Provinsi": "INDONESIA",
+            "Luas dan Penyebaran Lahan Kritis Menurut Provinsi (Hektar)": {
+              "Kritis": {
+                "2011": "22025581",
+                "2013": "19564911",
+                "2018": "9453729",
+                "2006": "23306233"
+              },
+              "Sangat Kritis": {
+                "2011": "5269260",
+                "2013": "4738384",
+                "2018": "4552721",
+                "2006": "6890568"
+              },
+              "Jumlah": {
+                "2011": "27294842",
+                "2013": "24303294",
+                "2018": "14006450",
+                "2006": "30196802"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi, 2014-2018",
+        "update": "10 Jul 2020",
+        "keterangan": "Statistik Sektoral",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1304/1/luas-penutupan-lahan-indonesa-di-dalam-dan-di-luar-kawasan-hutan-menurut-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/60/1304/2/luas-penutupan-lahan-indonesa-di-dalam-dan-di-luar-kawasan-hutan-menurut-provinsi.html"
+        ],
+        "data_tables": [
+          {
+            "Provinsi": "ACEH",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "3352.8",
+                "2017": "3352.8",
+                "2018": "3349.7",
+                "2014": "3346.9",
+                "2015": "3346.9"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "2294.5",
+                "2017": "2294.5",
+                "2018": "2297.6",
+                "2014": "2300.4",
+                "2015": "2300.4"
+              },
+              "Jumlah": {
+                "2016": "5647.3",
+                "2017": "5647.3",
+                "2018": "5647.3",
+                "2014": "5647.3",
+                "2015": "5647.3"
+              }
+            }
+          },
+          {
+            "Provinsi": "SUMATERA UTARA",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "3055.8",
+                "2017": "3055.8",
+                "2018": "3055.8",
+                "2014": "3055.8",
+                "2015": "3055.8"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "4046.2",
+                "2017": "4046.2",
+                "2018": "4046.2",
+                "2014": "4046.2",
+                "2015": "4046.2"
+              },
+              "Jumlah": {
+                "2016": "7102.0",
+                "2017": "7102.0",
+                "2018": "7102.0",
+                "2014": "7102.0",
+                "2015": "7102.0"
+              }
+            }
+          },
+          {
+            "Provinsi": "SUMATERA BARAT",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "2342.9",
+                "2017": "2342.9",
+                "2018": "2342.9",
+                "2014": "2342.9",
+                "2015": "2342.9"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "1841.0",
+                "2017": "1841.0",
+                "2018": "1841.0",
+                "2014": "1841.0",
+                "2015": "1841.0"
+              },
+              "Jumlah": {
+                "2016": "4183.9",
+                "2017": "4183.9",
+                "2018": "4183.9",
+                "2014": "4183.9",
+                "2015": "4183.9"
+              }
+            }
+          },
+          {
+            "Provinsi": "RIAU",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "5407.0",
+                "2017": "5407.0",
+                "2018": "5407.0",
+                "2014": "5499.7",
+                "2015": "5499.7"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "3475.8",
+                "2017": "3475.8",
+                "2018": "3475.8",
+                "2014": "3383.1",
+                "2015": "3383.1"
+              },
+              "Jumlah": {
+                "2016": "8882.8",
+                "2017": "8882.8",
+                "2018": "8882.8",
+                "2014": "8882.8",
+                "2015": "8882.8"
+              }
+            }
+          },
+          {
+            "Provinsi": "JAMBI",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "2098.5",
+                "2017": "2098.5",
+                "2018": "2098.5",
+                "2014": "2098.5",
+                "2015": "2098.5"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "2733.8",
+                "2017": "2733.8",
+                "2018": "2733.8",
+                "2014": "2733.8",
+                "2015": "2733.8"
+              },
+              "Jumlah": {
+                "2016": "4832.3",
+                "2017": "4832.3",
+                "2018": "4832.3",
+                "2014": "4832.3",
+                "2015": "4832.3"
+              }
+            }
+          },
+          {
+            "Provinsi": "SUMATERA SELATAN",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "3408.8",
+                "2017": "3408.8",
+                "2018": "3407.7",
+                "2014": "3418.2",
+                "2015": "3418.2"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "5218.1",
+                "2017": "5218.1",
+                "2018": "5219.2",
+                "2014": "5208.7",
+                "2015": "5208.7"
+              },
+              "Jumlah": {
+                "2016": "8626.9",
+                "2017": "8626.9",
+                "2018": "8626.9",
+                "2014": "8626.9",
+                "2015": "8626.9"
+              }
+            }
+          },
+          {
+            "Provinsi": "BENGKULU",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "924.6",
+                "2017": "924.6",
+                "2018": "924.6",
+                "2014": "924.6",
+                "2015": "924.6"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "1078.3",
+                "2017": "1078.3",
+                "2018": "1078.3",
+                "2014": "1078.3",
+                "2015": "1078.3"
+              },
+              "Jumlah": {
+                "2016": "2002.9",
+                "2017": "2002.9",
+                "2018": "2002.9",
+                "2014": "2002.9",
+                "2015": "2002.9"
+              }
+            }
+          },
+          {
+            "Provinsi": "LAMPUNG",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "1004.7",
+                "2017": "1004.7",
+                "2018": "1004.7",
+                "2014": "1004.7",
+                "2015": "1004.7"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "2430.6",
+                "2017": "2430.6",
+                "2018": "2430.6",
+                "2014": "2430.6",
+                "2015": "2430.6"
+              },
+              "Jumlah": {
+                "2016": "3435.4",
+                "2017": "3435.4",
+                "2018": "3435.4",
+                "2014": "3435.4",
+                "2015": "3435.4"
+              }
+            }
+          },
+          {
+            "Provinsi": "KEP. BANGKA BELITUNG",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "654.6",
+                "2017": "643.6",
+                "2018": "643.6",
+                "2014": "654.6",
+                "2015": "654.6"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "1005.2",
+                "2017": "1016.1",
+                "2018": "1016.1",
+                "2014": "1005.2",
+                "2015": "1005.2"
+              },
+              "Jumlah": {
+                "2016": "1659.7",
+                "2017": "1659.7",
+                "2018": "1659.7",
+                "2014": "1659.7",
+                "2015": "1659.7"
+              }
+            }
+          },
+          {
+            "Provinsi": "KEP. RIAU",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "382.1",
+                "2017": "382.1",
+                "2018": "381.8",
+                "2014": "590.0",
+                "2015": "382.1"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "434.9",
+                "2017": "434.9",
+                "2018": "435.2",
+                "2014": "227.0",
+                "2015": "434.9"
+              },
+              "Jumlah": {
+                "2016": "817.0",
+                "2017": "817.0",
+                "2018": "817.0",
+                "2014": "817.0",
+                "2015": "817.0"
+              }
+            }
+          },
+          {
+            "Provinsi": "DKI JAKARTA",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "0.5",
+                "2017": "0.5",
+                "2018": "0.5",
+                "2014": "0.5",
+                "2015": "0.5"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "64.9",
+                "2017": "64.9",
+                "2018": "64.9",
+                "2014": "64.9",
+                "2015": "64.9"
+              },
+              "Jumlah": {
+                "2016": "65.3",
+                "2017": "65.3",
+                "2018": "65.3",
+                "2014": "65.3",
+                "2015": "65.3"
+              }
+            }
+          },
+          {
+            "Provinsi": "JAWA BARAT",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "816.6",
+                "2017": "816.6",
+                "2018": "816.6",
+                "2014": "816.6",
+                "2015": "816.6"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "2882.0",
+                "2017": "2882.0",
+                "2018": "2882.0",
+                "2014": "2882.0",
+                "2015": "2882.0"
+              },
+              "Jumlah": {
+                "2016": "3698.6",
+                "2017": "3698.6",
+                "2018": "3698.6",
+                "2014": "3698.6",
+                "2015": "3698.6"
+              }
+            }
+          },
+          {
+            "Provinsi": "JAWA TENGAH",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "647.1",
+                "2017": "647.1",
+                "2018": "647.1",
+                "2014": "647.1",
+                "2015": "647.1"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "2809.4",
+                "2017": "2809.4",
+                "2018": "2809.4",
+                "2014": "2809.4",
+                "2015": "2809.4"
+              },
+              "Jumlah": {
+                "2016": "3456.6",
+                "2017": "3456.6",
+                "2018": "3456.6",
+                "2014": "3456.6",
+                "2015": "3456.6"
+              }
+            }
+          },
+          {
+            "Provinsi": "DI YOGYAKARTA",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "16.8",
+                "2017": "16.8",
+                "2018": "16.8",
+                "2014": "16.8",
+                "2015": "16.8"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "302.6",
+                "2017": "302.6",
+                "2018": "302.6",
+                "2014": "302.6",
+                "2015": "302.6"
+              },
+              "Jumlah": {
+                "2016": "3194.0",
+                "2017": "319.4",
+                "2018": "319.4",
+                "2014": "319.4",
+                "2015": "319.4"
+              }
+            }
+          },
+          {
+            "Provinsi": "JAWA TIMUR",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "1357.6",
+                "2017": "1357.6",
+                "2018": "1357.6",
+                "2014": "1357.6",
+                "2015": "1357.6"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "3480.0",
+                "2017": "3480.0",
+                "2018": "3480.0",
+                "2014": "3480.0",
+                "2015": "3480.0"
+              },
+              "Jumlah": {
+                "2016": "4837.7",
+                "2017": "4837.7",
+                "2018": "4837.7",
+                "2014": "4837.7",
+                "2015": "4837.7"
+              }
+            }
+          },
+          {
+            "Provinsi": "BANTEN",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "201.8",
+                "2017": "201.8",
+                "2018": "201.8",
+                "2014": "201.8",
+                "2015": "201.8"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "737.4",
+                "2017": "737.4",
+                "2018": "737.4",
+                "2014": "737.4",
+                "2015": "737.4"
+              },
+              "Jumlah": {
+                "2016": "939.2",
+                "2017": "939.2",
+                "2018": "939.2",
+                "2014": "939.2",
+                "2015": "939.2"
+              }
+            }
+          },
+          {
+            "Provinsi": "BALI",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "127.3",
+                "2017": "127.3",
+                "2018": "127.3",
+                "2014": "127.3",
+                "2015": "127.3"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "439.6",
+                "2017": "439.6",
+                "2018": "439.6",
+                "2014": "439.6",
+                "2015": "439.6"
+              },
+              "Jumlah": {
+                "2016": "566.9",
+                "2017": "566.9",
+                "2018": "566.9",
+                "2014": "566.9",
+                "2015": "566.9"
+              }
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA BARAT",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "1035.8",
+                "2017": "1035.8",
+                "2018": "1035.8",
+                "2014": "1035.8",
+                "2015": "1035.8"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "944.3",
+                "2017": "944.3",
+                "2018": "944.3",
+                "2014": "944.3",
+                "2015": "944.3"
+              },
+              "Jumlah": {
+                "2016": "1980.2",
+                "2017": "1980.2",
+                "2018": "1980.2",
+                "2014": "1980.2",
+                "2015": "1980.2"
+              }
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA TIMUR",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "1485.9",
+                "2017": "1485.9",
+                "2018": "1485.9",
+                "2014": "1528.3",
+                "2015": "1528.3"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "3236.6",
+                "2017": "3236.6",
+                "2018": "3236.6",
+                "2014": "3194.3",
+                "2015": "3194.3"
+              },
+              "Jumlah": {
+                "2016": "4722.5",
+                "2017": "4722.5",
+                "2018": "4722.5",
+                "2014": "4722.5",
+                "2015": "4722.5"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN BARAT",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "8198.7",
+                "2017": "8198.7",
+                "2018": "8198.7",
+                "2014": "8198.7",
+                "2015": "8198.7"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "6374.1",
+                "2017": "6374.1",
+                "2018": "6374.1",
+                "2014": "6374.1",
+                "2015": "6374.1"
+              },
+              "Jumlah": {
+                "2016": "14572.8",
+                "2017": "14572.8",
+                "2018": "14572.8",
+                "2014": "14572.8",
+                "2015": "14572.8"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TENGAH",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "12697.2",
+                "2017": "12697.2",
+                "2018": "12697.2",
+                "2014": "12697.2",
+                "2015": "12697.2"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "2569.0",
+                "2017": "2569.0",
+                "2018": "2569.0",
+                "2014": "2569.0",
+                "2015": "2569.0"
+              },
+              "Jumlah": {
+                "2016": "15266.2",
+                "2017": "15266.2",
+                "2018": "15266.2",
+                "2014": "15266.2",
+                "2015": "15266.2"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN SELATAN",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "1780.0",
+                "2017": "1780.0",
+                "2018": "1780.0",
+                "2014": "1780.0",
+                "2015": "1780.0"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "1934.0",
+                "2017": "1934.0",
+                "2018": "1934.0",
+                "2014": "1934.0",
+                "2015": "1934.0"
+              },
+              "Jumlah": {
+                "2016": "3713.9",
+                "2017": "3713.9",
+                "2018": "3713.9",
+                "2014": "3713.9",
+                "2015": "3713.9"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TIMUR",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "13855.8",
+                "2017": "13833.1",
+                "2018": "13833.1",
+                "2014": "13855.8",
+                "2015": "13855.8"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "5649.0",
+                "2017": "5671.7",
+                "2018": "5671.7",
+                "2014": "5649.0",
+                "2015": "5649.0"
+              },
+              "Jumlah": {
+                "2016": "19504.8",
+                "2017": "19504.8",
+                "2018": "19504.8",
+                "2014": "19504.8",
+                "2015": "19504.8"
+              }
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN UTARA",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "-",
+                "2017": "-",
+                "2018": "-",
+                "2014": "-",
+                "2015": "-"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "-",
+                "2017": "-",
+                "2018": "-",
+                "2014": "-",
+                "2015": "-"
+              },
+              "Jumlah": {
+                "2016": "-",
+                "2017": "-",
+                "2018": "-",
+                "2014": "-",
+                "2015": "-"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI UTARA",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "694.9",
+                "2017": "694.9",
+                "2018": "694.9",
+                "2014": "694.9",
+                "2015": "694.9"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "744.6",
+                "2017": "744.6",
+                "2018": "744.6",
+                "2014": "744.6",
+                "2015": "744.6"
+              },
+              "Jumlah": {
+                "2016": "1439.5",
+                "2017": "1439.5",
+                "2018": "1439.5",
+                "2014": "1439.5",
+                "2015": "1439.5"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGAH",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "3934.6",
+                "2017": "3934.6",
+                "2018": "3934.6",
+                "2014": "3934.6",
+                "2015": "3934.6"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "2100.1",
+                "2017": "2100.1",
+                "2018": "2100.1",
+                "2014": "2100.1",
+                "2015": "2100.1"
+              },
+              "Jumlah": {
+                "2016": "6034.7",
+                "2017": "6034.7",
+                "2018": "6034.7",
+                "2014": "6034.7",
+                "2015": "6034.7"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI SELATAN",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "2119.0",
+                "2017": "2119.0",
+                "2018": "2119.0",
+                "2014": "2119.0",
+                "2015": "2119.0"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "2379.4",
+                "2017": "2379.4",
+                "2018": "2379.4",
+                "2014": "2379.4",
+                "2015": "2379.4"
+              },
+              "Jumlah": {
+                "2016": "4498.4",
+                "2017": "4498.4",
+                "2018": "4498.4",
+                "2014": "4498.4",
+                "2015": "4498.4"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGGARA",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "2326.4",
+                "2017": "2326.4",
+                "2018": "2326.4",
+                "2014": "2326.4",
+                "2015": "2326.4"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "1285.2",
+                "2017": "1285.2",
+                "2018": "1285.2",
+                "2014": "1285.2",
+                "2015": "1285.2"
+              },
+              "Jumlah": {
+                "2016": "3611.6",
+                "2017": "3611.6",
+                "2018": "3611.6",
+                "2014": "3611.6",
+                "2015": "3611.6"
+              }
+            }
+          },
+          {
+            "Provinsi": "GORONTALO",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "824.7",
+                "2017": "824.7",
+                "2018": "824.7",
+                "2014": "824.7",
+                "2015": "824.7"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "373.8",
+                "2017": "373.8",
+                "2018": "373.8",
+                "2014": "373.8",
+                "2015": "373.8"
+              },
+              "Jumlah": {
+                "2016": "1198.5",
+                "2017": "1198.5",
+                "2018": "1198.5",
+                "2014": "1198.5",
+                "2015": "1198.5"
+              }
+            }
+          },
+          {
+            "Provinsi": "SULAWESI BARAT",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "1092.4",
+                "2017": "1092.4",
+                "2018": "1092.4",
+                "2014": "1092.4",
+                "2015": "1092.4"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "587.9",
+                "2017": "587.9",
+                "2018": "587.9",
+                "2014": "587.9",
+                "2015": "587.9"
+              },
+              "Jumlah": {
+                "2016": "1680.2",
+                "2017": "1680.2",
+                "2018": "1680.2",
+                "2014": "1680.2",
+                "2015": "1680.2"
+              }
+            }
+          },
+          {
+            "Provinsi": "MALUKU",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "3910.4",
+                "2017": "3910.4",
+                "2018": "3910.4",
+                "2014": "3910.4",
+                "2015": "3910.4"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "711.7",
+                "2017": "711.7",
+                "2018": "711.7",
+                "2014": "711.7",
+                "2015": "711.7"
+              },
+              "Jumlah": {
+                "2016": "4622.1",
+                "2017": "4622.1",
+                "2018": "4622.1",
+                "2014": "4622.1",
+                "2015": "4622.1"
+              }
+            }
+          },
+          {
+            "Provinsi": "MALUKU UTARA",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "2515.2",
+                "2017": "2515.2",
+                "2018": "2515.2",
+                "2014": "2515.2",
+                "2015": "2515.2"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "615.4",
+                "2017": "615.4",
+                "2018": "615.4",
+                "2014": "615.4",
+                "2015": "615.4"
+              },
+              "Jumlah": {
+                "2016": "3130.6",
+                "2017": "3130.6",
+                "2018": "3130.6",
+                "2014": "3130.6",
+                "2015": "3130.6"
+              }
+            }
+          },
+          {
+            "Provinsi": "PAPUA BARAT",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "8784.8",
+                "2017": "8784.8",
+                "2018": "8784.8",
+                "2014": "8784.8",
+                "2015": "8784.8"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "840.1",
+                "2017": "840.1",
+                "2018": "840.1",
+                "2014": "840.1",
+                "2015": "840.1"
+              },
+              "Jumlah": {
+                "2016": "9624.9",
+                "2017": "9624.9",
+                "2018": "9624.9",
+                "2014": "9624.9",
+                "2015": "9624.9"
+              }
+            }
+          },
+          {
+            "Provinsi": "PAPUA",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "29368.5",
+                "2017": "29368.5",
+                "2018": "29368.5",
+                "2014": "29368.5",
+                "2015": "29368.5"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "1708.4",
+                "2017": "1708.4",
+                "2018": "1708.4",
+                "2014": "1708.4",
+                "2015": "1708.4"
+              },
+              "Jumlah": {
+                "2016": "31076.9",
+                "2017": "31076.9",
+                "2018": "31076.9",
+                "2014": "31076.9",
+                "2015": "31076.9"
+              }
+            }
+          },
+          {
+            "Provinsi": "INDONESIA",
+            "Luas Penutupan Lahan Indonesa di Dalam dan di Luar Kawasan Hutan Menurut Provinsi (Ribu Hektar)": {
+              "Kawasan Hutan": {
+                "2016": "120423.8",
+                "2017": "120390.1",
+                "2018": "120385.7",
+                "2014": "120770.3",
+                "2015": "120562.4"
+              },
+              "Di Luar Kawasan Hutan/Areal Penggunaan Lain (APL)": {
+                "2016": "67328.0",
+                "2017": "67361.7",
+                "2018": "67366.2",
+                "2014": "66981.6",
+                "2015": "67189.5"
+              },
+              "Jumlah": {
+                "2016": "187751.9",
+                "2017": "187751.9",
+                "2018": "187751.9",
+                "2014": "187751.9",
+                "2015": "187751.9"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku, 2001-2018",
+        "update": "10 Jul 2020",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1725/1/jumlah-perusahaan-hak-pengusahaan-hutan-menurut-pulau-berdasarkan-sk-berlaku.html",
+          "https://www.archive.bps.go.id/indicator/60/1725/2/jumlah-perusahaan-hak-pengusahaan-hutan-menurut-pulau-berdasarkan-sk-berlaku.html",
+          "https://www.archive.bps.go.id/indicator/60/1725/3/jumlah-perusahaan-hak-pengusahaan-hutan-menurut-pulau-berdasarkan-sk-berlaku.html",
+          "https://www.archive.bps.go.id/indicator/60/1725/4/jumlah-perusahaan-hak-pengusahaan-hutan-menurut-pulau-berdasarkan-sk-berlaku.html",
+          "https://www.archive.bps.go.id/indicator/60/1725/5/jumlah-perusahaan-hak-pengusahaan-hutan-menurut-pulau-berdasarkan-sk-berlaku.html",
+          "https://www.archive.bps.go.id/indicator/60/1725/6/jumlah-perusahaan-hak-pengusahaan-hutan-menurut-pulau-berdasarkan-sk-berlaku.html"
+        ],
+        "data_tables": [
+          {
+            "Pulau (Hutan)": "SUMATERA",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku": {
+              "2016": "21",
+              "2017": "22",
+              "2018": "22",
+              "2013": "22",
+              "2014": "22",
+              "2015": "22",
+              "2010": "16",
+              "2011": "28",
+              "2012": "28",
+              "2007": "39",
+              "2008": "35",
+              "2009": "29",
+              "2004": "61",
+              "2005": "40",
+              "2006": "48",
+              "2001": "116",
+              "2002": "96",
+              "2003": "69"
+            }
+          },
+          {
+            "Pulau (Hutan)": "JAWA",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku": {
+              "2016": "-",
+              "2017": "-",
+              "2018": "-",
+              "2013": "-",
+              "2014": "-",
+              "2015": "-",
+              "2010": "-",
+              "2011": "-",
+              "2012": "-",
+              "2007": "-",
+              "2008": "-",
+              "2009": "-",
+              "2004": "-",
+              "2005": "-",
+              "2006": "-",
+              "2001": "-",
+              "2002": "-",
+              "2003": "-"
+            }
+          },
+          {
+            "Pulau (Hutan)": "KALIMANTAN",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku": {
+              "2016": "169",
+              "2017": "176",
+              "2018": "177",
+              "2013": "169",
+              "2014": "172",
+              "2015": "174",
+              "2010": "143",
+              "2011": "171",
+              "2012": "172",
+              "2007": "178",
+              "2008": "175",
+              "2009": "174",
+              "2004": "115",
+              "2005": "147",
+              "2006": "141",
+              "2001": "175",
+              "2002": "163",
+              "2003": "149"
+            }
+          },
+          {
+            "Pulau (Hutan)": "BALI, NUSA TENGGARA, DAN SULAWESI",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku": {
+              "2016": "13",
+              "2017": "19",
+              "2018": "19",
+              "2013": "18",
+              "2014": "18",
+              "2015": "18",
+              "2010": "19",
+              "2011": "22",
+              "2012": "21",
+              "2007": "30",
+              "2008": "28",
+              "2009": "25",
+              "2004": "22",
+              "2005": "28",
+              "2006": "26",
+              "2001": "31",
+              "2002": "28",
+              "2003": "25"
+            }
+          },
+          {
+            "Pulau (Hutan)": "MALUKU",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku": {
+              "2016": "25",
+              "2017": "22",
+              "2018": "22",
+              "2013": "22",
+              "2014": "23",
+              "2015": "23",
+              "2010": "23",
+              "2011": "27",
+              "2012": "26",
+              "2007": "28",
+              "2008": "25",
+              "2009": "27",
+              "2004": "20",
+              "2005": "24",
+              "2006": "24",
+              "2001": "31",
+              "2002": "24",
+              "2003": "20"
+            }
+          },
+          {
+            "Pulau (Hutan)": "PAPUA",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku": {
+              "2016": "40",
+              "2017": "43",
+              "2018": "43",
+              "2013": "43",
+              "2014": "42",
+              "2015": "40",
+              "2010": "47",
+              "2011": "47",
+              "2012": "49",
+              "2007": "49",
+              "2008": "45",
+              "2009": "49",
+              "2004": "29",
+              "2005": "46",
+              "2006": "36",
+              "2001": "51",
+              "2002": "40",
+              "2003": "31"
+            }
+          },
+          {
+            "Pulau (Hutan)": "INDONESIA",
+            "Jumlah Perusahaan Hak Pengusahaan Hutan Menurut Pulau Berdasarkan SK Berlaku": {
+              "2016": "268",
+              "2017": "282",
+              "2018": "283",
+              "2013": "274",
+              "2014": "277",
+              "2015": "277",
+              "2010": "248",
+              "2011": "295",
+              "2012": "296",
+              "2007": "324",
+              "2008": "308",
+              "2009": "304",
+              "2004": "247",
+              "2005": "285",
+              "2006": "275",
+              "2001": "404",
+              "2002": "351",
+              "2003": "294"
+            }
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Capaian Luas Perhutanan Sosial per Skema (1.000 Ha), 2017-2018",
+        "update": "24 Mar 2020",
+        "keterangan": "Statistik Sektoral",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1785/1/capaian-luas-perhutanan-sosial-per-skema-1-000-ha-.html"
+        ],
+        "data_tables": [
+          {
+            "Jenis Perhutanan Sosial": "Hutan Tanaman Rakyat",
+            "Capaian Luas Perhutanan Sosial per Skema (1.000 Ha)": {
+              "Jumlah": {
+                "2017": "244.03",
+                "2018": "331.72"
+              },
+              "Persentase": {
+                "2017": "19.92",
+                "2018": "13.43"
+              }
+            }
+          },
+          {
+            "Jenis Perhutanan Sosial": "Hutan Kemasyarakatan",
+            "Capaian Luas Perhutanan Sosial per Skema (1.000 Ha)": {
+              "Jumlah": {
+                "2017": "276.42",
+                "2018": "594.46"
+              },
+              "Persentase": {
+                "2017": "22.57",
+                "2018": "24.06"
+              }
+            }
+          },
+          {
+            "Jenis Perhutanan Sosial": "Hutan Desa",
+            "Capaian Luas Perhutanan Sosial per Skema (1.000 Ha)": {
+              "Jumlah": {
+                "2017": "588.59",
+                "2018": "1277.21"
+              },
+              "Persentase": {
+                "2017": "48.05",
+                "2018": "51.70"
+              }
+            }
+          },
+          {
+            "Jenis Perhutanan Sosial": "Hutan Adat",
+            "Capaian Luas Perhutanan Sosial per Skema (1.000 Ha)": {
+              "Jumlah": {
+                "2017": "21.92",
+                "2018": "28.29"
+              },
+              "Persentase": {
+                "2017": "1.79",
+                "2018": "1.15"
+              }
+            }
+          },
+          {
+            "Jenis Perhutanan Sosial": "Lainnya",
+            "Capaian Luas Perhutanan Sosial per Skema (1.000 Ha)": {
+              "Jumlah": {
+                "2017": "93.89",
+                "2018": "238.66"
+              },
+              "Persentase": {
+                "2017": "7.67",
+                "2018": "9.66"
+              }
+            }
+          },
+          {
+            "Jenis Perhutanan Sosial": "Jumlah",
+            "Capaian Luas Perhutanan Sosial per Skema (1.000 Ha)": {
+              "Jumlah": {
+                "2017": "1224.85",
+                "2018": "2470.34"
+              },
+              "Persentase": {
+                "2017": "100.00",
+                "2018": "100.00"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau, 2003-2018",
+        "update": "13 Feb 2020",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1723/1/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-pulau.html",
+          "https://www.archive.bps.go.id/indicator/60/1723/2/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-pulau.html",
+          "https://www.archive.bps.go.id/indicator/60/1723/3/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-pulau.html",
+          "https://www.archive.bps.go.id/indicator/60/1723/4/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-pulau.html",
+          "https://www.archive.bps.go.id/indicator/60/1723/5/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-pulau.html",
+          "https://www.archive.bps.go.id/indicator/60/1723/6/produksi-kayu-bulat-perusahaan-hak-pengusahaan-hutan-hph-menurut-pulau.html"
+        ],
+        "data_tables": [
+          {
+            "Pulau (Hutan)": "SUMATERA",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau (M3)": {
+              "2016": "191174",
+              "2017": "190255",
+              "2018": "240581",
+              "2013": "677111",
+              "2014": "394327",
+              "2015": "245574",
+              "2010": "443813",
+              "2011": "347287",
+              "2012": "279236",
+              "2007": "2200410",
+              "2008": "1967502",
+              "2009": "1293421",
+              "2004": "2192184",
+              "2005": "1662756",
+              "2006": "1422364",
+              "2003": "2424467"
+            }
+          },
+          {
+            "Pulau (Hutan)": "JAWA",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau (M3)": {
+              "2016": "-",
+              "2017": "-",
+              "2018": "-",
+              "2013": "-",
+              "2014": "-",
+              "2015": "-",
+              "2010": "-",
+              "2011": "-",
+              "2012": "-",
+              "2007": "-",
+              "2008": "-",
+              "2009": "-",
+              "2004": "-",
+              "2005": "-",
+              "2006": "-",
+              "2003": "-"
+            }
+          },
+          {
+            "Pulau (Hutan)": "KALIMANTAN",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau (M3)": {
+              "2016": "4078660",
+              "2017": "4004836",
+              "2018": "4634875",
+              "2013": "3152273",
+              "2014": "4110201",
+              "2015": "4344572",
+              "2010": "5032830",
+              "2011": "3969083",
+              "2012": "3311202",
+              "2007": "4634542",
+              "2008": "4799942",
+              "2009": "4546950",
+              "2004": "4226368",
+              "2005": "5921755",
+              "2006": "4877426",
+              "2003": "5338860"
+            }
+          },
+          {
+            "Pulau (Hutan)": "BALI, NUSA TENGGARA, DAN SULAWESI",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau (M3)": {
+              "2016": "32164",
+              "2017": "28470",
+              "2018": "14160",
+              "2013": "34847",
+              "2014": "48910",
+              "2015": "15966",
+              "2010": "100935",
+              "2011": "106239",
+              "2012": "51738",
+              "2007": "337699",
+              "2008": "201396",
+              "2009": "118079",
+              "2004": "224983",
+              "2005": "138983",
+              "2006": "117950",
+              "2003": "280250"
+            }
+          },
+          {
+            "Pulau (Hutan)": "MALUKU",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau (M3)": {
+              "2016": "380407",
+              "2017": "358512",
+              "2018": "377418",
+              "2013": "242664",
+              "2014": "141547",
+              "2015": "280406",
+              "2010": "614002",
+              "2011": "743495",
+              "2012": "577053",
+              "2007": "366031",
+              "2008": "388754",
+              "2009": "519671",
+              "2004": "487857",
+              "2005": "313661",
+              "2006": "382638",
+              "2003": "639285"
+            }
+          },
+          {
+            "Pulau (Hutan)": "PAPUA",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau (M3)": {
+              "2016": "964767",
+              "2017": "891741",
+              "2018": "1176475",
+              "2013": "745989",
+              "2014": "752057",
+              "2015": "992859",
+              "2010": "1149689",
+              "2011": "1207307",
+              "2012": "1122883",
+              "2007": "964251",
+              "2008": "701140",
+              "2009": "921128",
+              "2004": "1027011",
+              "2005": "732507",
+              "2006": "1101016",
+              "2003": "1324908"
+            }
+          },
+          {
+            "Pulau (Hutan)": "INDONESIA",
+            "Produksi Kayu Bulat Perusahaan Hak Pengusahaan Hutan (HPH) Menurut Pulau (M3)": {
+              "2016": "5647171",
+              "2017": "5473814",
+              "2018": "6443510",
+              "2013": "4852881",
+              "2014": "5447041",
+              "2015": "5879380",
+              "2010": "7341269",
+              "2011": "6373409",
+              "2012": "5342112",
+              "2007": "8502933",
+              "2008": "8058734",
+              "2009": "7399249",
+              "2004": "8158403",
+              "2005": "8769662",
+              "2006": "7901394",
+              "2003": "10007770"
+            }
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Luas Lahan Kritis (1000 Ha), 2006-2018",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1802/1/luas-lahan-kritis-1000-ha-.html",
+          "https://www.archive.bps.go.id/indicator/60/1802/2/luas-lahan-kritis-1000-ha-.html"
+        ],
+        "data_tables": [
+          {
+            "Lahan Kritis": "Kritis",
+            "Luas Lahan Kritis (1000 Ha)": {
+              "2011": "22026",
+              "2013": "19565",
+              "2018": "9454",
+              "2006": "23306"
+            }
+          },
+          {
+            "Lahan Kritis": "Sangat Kritis",
+            "Luas Lahan Kritis (1000 Ha)": {
+              "2011": "5269",
+              "2013": "4632",
+              "2018": "4553",
+              "2006": "6891"
+            }
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi, 2004-2017",
+        "update": "02 May 2019",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/114/1/luas-areal-perusahaan-hak-pengusahaan-hutan-per-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/60/114/2/luas-areal-perusahaan-hak-pengusahaan-hutan-per-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/60/114/3/luas-areal-perusahaan-hak-pengusahaan-hutan-per-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/60/114/4/luas-areal-perusahaan-hak-pengusahaan-hutan-per-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/60/114/5/luas-areal-perusahaan-hak-pengusahaan-hutan-per-provinsi.html"
+        ],
+        "data_tables": [
+          {
+            "Provinsi": "ACEH",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "170900",
+              "2016": "125204",
+              "2017": "-",
+              "2012": "405129",
+              "2013": "170900",
+              "2014": "170900",
+              "2009": "409644",
+              "2010": "145000",
+              "2011": "-",
+              "2006": "524644",
+              "2007": "524644",
+              "2008": "409644",
+              "2004": "796723",
+              "2005": "524644"
+            }
+          },
+          {
+            "Provinsi": "SUMATERA UTARA",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "343603",
+              "2016": "343603",
+              "2017": "281803",
+              "2012": "343603",
+              "2013": "296603",
+              "2014": "343603",
+              "2009": "328803",
+              "2010": "212523",
+              "2011": "212523",
+              "2006": "437393",
+              "2007": "328803",
+              "2008": "328803",
+              "2004": "404600",
+              "2005": "294843"
+            }
+          },
+          {
+            "Provinsi": "SUMATERA BARAT",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "105705",
+              "2016": "183705",
+              "2017": "104968",
+              "2012": "106145",
+              "2013": "106145",
+              "2014": "105705",
+              "2009": "194290",
+              "2010": "160726",
+              "2011": "160726",
+              "2006": "210376",
+              "2007": "210240",
+              "2008": "210240",
+              "2004": "361430",
+              "2005": "268840"
+            }
+          },
+          {
+            "Provinsi": "RIAU",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "229228",
+              "2016": "183238",
+              "2017": "189228",
+              "2012": "308158",
+              "2013": "229228",
+              "2014": "229228",
+              "2009": "318408",
+              "2010": "353011",
+              "2011": "233858",
+              "2006": "812128",
+              "2007": "812128",
+              "2008": "715128",
+              "2004": "2390457",
+              "2005": "721102"
+            }
+          },
+          {
+            "Provinsi": "JAMBI",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "56045",
+              "2016": "56045",
+              "2017": "56045",
+              "2012": "56045",
+              "2013": "56045",
+              "2014": "56045",
+              "2009": "45825",
+              "2010": "45825",
+              "2011": "45825",
+              "2006": "299974",
+              "2007": "133705",
+              "2008": "45825",
+              "2004": "821995",
+              "2005": "328349"
+            }
+          },
+          {
+            "Provinsi": "SUMATERA SELATAN",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "56000",
+              "2016": "56000",
+              "2017": "56000",
+              "2012": "56000",
+              "2013": "56000",
+              "2014": "56000",
+              "2009": "108170",
+              "2010": "56000",
+              "2011": "56000",
+              "2006": "56000",
+              "2007": "108170",
+              "2008": "108170",
+              "2004": "100000",
+              "2005": "56000"
+            }
+          },
+          {
+            "Provinsi": "BENGKULU",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "56070",
+              "2016": "56070",
+              "2017": "33070",
+              "2012": "56070",
+              "2013": "56070",
+              "2014": "56070",
+              "2009": "56070",
+              "2010": "-",
+              "2011": "-",
+              "2006": "23000",
+              "2007": "23000",
+              "2008": "23000",
+              "2004": "-",
+              "2005": "23000"
+            }
+          },
+          {
+            "Provinsi": "LAMPUNG",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "KEP. BANGKA BELITUNG",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "KEP. RIAU",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "DKI JAKARTA",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "JAWA BARAT",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "JAWA TENGAH",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "DI YOGYAKARTA",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "JAWA TIMUR",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "BANTEN",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "BALI",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA BARAT",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "28644",
+              "2016": "28644",
+              "2017": "28644",
+              "2012": "-",
+              "2013": "28644",
+              "2014": "28644",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "31550",
+              "2007": "-",
+              "2008": "-",
+              "2004": "31550",
+              "2005": "31550"
+            }
+          },
+          {
+            "Provinsi": "NUSA TENGGARA TIMUR",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN BARAT",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "1221880",
+              "2016": "1058930",
+              "2017": "1133145",
+              "2012": "1267620",
+              "2013": "1221880",
+              "2014": "1221880",
+              "2009": "1195570",
+              "2010": "1003315",
+              "2011": "644815",
+              "2006": "1163890",
+              "2007": "1257670",
+              "2008": "1214065",
+              "2004": "1125756",
+              "2005": "1128860"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TENGAH",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "4165430",
+              "2016": "4126776",
+              "2017": "4170751",
+              "2012": "4020595",
+              "2013": "4182850",
+              "2014": "4032390",
+              "2009": "4086305",
+              "2010": "3743413",
+              "2011": "3785837",
+              "2006": "4569645",
+              "2007": "4473755",
+              "2008": "4120635",
+              "2004": "2825221",
+              "2005": "4323608"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN SELATAN",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "240101",
+              "2016": "231066",
+              "2017": "269511",
+              "2012": "243241",
+              "2013": "240101",
+              "2014": "240101",
+              "2009": "279421",
+              "2010": "182721",
+              "2011": "182721",
+              "2006": "361481",
+              "2007": "359421",
+              "2008": "359361",
+              "2004": "280811",
+              "2005": "320531"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN TIMUR",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "3658949",
+              "2016": "3303760",
+              "2017": "4178012",
+              "2012": "5666512",
+              "2013": "5291905",
+              "2014": "3642479",
+              "2009": "6183873",
+              "2010": "5248748",
+              "2011": "4729844",
+              "2006": "6734227",
+              "2007": "6773357",
+              "2008": "6581712",
+              "2004": "5162452",
+              "2005": "6051172"
+            }
+          },
+          {
+            "Provinsi": "KALIMANTAN UTARA",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "1601460",
+              "2016": "1865781",
+              "2017": "1365005",
+              "2012": "-",
+              "2013": "-",
+              "2014": "1601460",
+              "2009": "-",
+              "2010": "-",
+              "2011": "-",
+              "2006": "-",
+              "2007": "-",
+              "2008": "-",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI UTARA",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "26800",
+              "2016": "26800",
+              "2017": "26800",
+              "2012": "26800",
+              "2013": "26800",
+              "2014": "26800",
+              "2009": "60800",
+              "2010": "34000",
+              "2011": "34000",
+              "2006": "60800",
+              "2007": "60800",
+              "2008": "60800",
+              "2004": "105500",
+              "2005": "60800"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGAH",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "610125",
+              "2016": "409255",
+              "2017": "569745",
+              "2012": "779245",
+              "2013": "610125",
+              "2014": "610125",
+              "2009": "854245",
+              "2010": "578890",
+              "2011": "412030",
+              "2006": "992245",
+              "2007": "992245",
+              "2008": "902245",
+              "2004": "785270",
+              "2005": "1006095"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI SELATAN",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "-",
+              "2013": "-",
+              "2014": "-",
+              "2009": "-",
+              "2010": "244540",
+              "2011": "244540",
+              "2006": "293407",
+              "2007": "-",
+              "2008": "-",
+              "2004": "409965",
+              "2005": "293407"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI TENGGARA",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "89590",
+              "2016": "26800",
+              "2017": "-",
+              "2012": "89590",
+              "2013": "89590",
+              "2014": "89590",
+              "2009": "385590",
+              "2010": "89590",
+              "2011": "89590",
+              "2006": "-",
+              "2007": "385590",
+              "2008": "385590",
+              "2004": "296000",
+              "2005": "296000"
+            }
+          },
+          {
+            "Provinsi": "GORONTALO",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "-",
+              "2016": "-",
+              "2017": "-",
+              "2012": "78500",
+              "2013": "-",
+              "2014": "-",
+              "2009": "145000",
+              "2010": "123500",
+              "2011": "123500",
+              "2006": "185570",
+              "2007": "185570",
+              "2008": "185570",
+              "2004": "348200",
+              "2005": "185570"
+            }
+          },
+          {
+            "Provinsi": "SULAWESI BARAT",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "163205",
+              "2016": "114565",
+              "2017": "168205",
+              "2012": "184285",
+              "2013": "163205",
+              "2014": "163205",
+              "2009": "214245",
+              "2010": "193165",
+              "2011": "193165",
+              "2006": "-",
+              "2007": "293407",
+              "2008": "249407",
+              "2004": "-",
+              "2005": "-"
+            }
+          },
+          {
+            "Provinsi": "MALUKU",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "733645",
+              "2016": "733645",
+              "2017": "605730",
+              "2012": "816445",
+              "2013": "627895",
+              "2014": "733645",
+              "2009": "697195",
+              "2010": "548465",
+              "2011": "503765",
+              "2006": "815165",
+              "2007": "778865",
+              "2008": "554695",
+              "2004": "818339",
+              "2005": "785210"
+            }
+          },
+          {
+            "Provinsi": "MALUKU UTARA",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "565594",
+              "2016": "633181",
+              "2017": "565594",
+              "2012": "669500",
+              "2013": "565594",
+              "2014": "565594",
+              "2009": "804820",
+              "2010": "818849",
+              "2011": "818849",
+              "2006": "921675",
+              "2007": "983040",
+              "2008": "913040",
+              "2004": "306000",
+              "2005": "991000"
+            }
+          },
+          {
+            "Provinsi": "PAPUA BARAT",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "2102508",
+              "2016": "3062978",
+              "2017": "3527168",
+              "2012": "3673838",
+              "2013": "4077755",
+              "2014": "2520078",
+              "2009": "3885970",
+              "2010": "3418090",
+              "2011": "3364290",
+              "2006": "4350470",
+              "2007": "4091590",
+              "2008": "3560590",
+              "2004": "-",
+              "2005": "4512350"
+            }
+          },
+          {
+            "Provinsi": "PAPUA",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "4148835",
+              "2016": "2675535",
+              "2017": "3314153",
+              "2012": "5059130",
+              "2013": "2802338",
+              "2014": "4305635",
+              "2009": "5516643",
+              "2010": "4708828",
+              "2011": "4722828",
+              "2006": "5581243",
+              "2007": "5495043",
+              "2008": "5241293",
+              "2004": "4042050",
+              "2005": "5512253"
+            }
+          },
+          {
+            "Provinsi": "INDONESIA",
+            "Luas Areal Perusahaan Hak Pengusahaan Hutan per Provinsi (Hektar)": {
+              "2015": "20374317",
+              "2016": "19301581",
+              "2017": "20643576",
+              "2012": "23906451",
+              "2013": "20899673",
+              "2014": "20799177",
+              "2009": "25770887",
+              "2010": "21909199",
+              "2011": "20558706",
+              "2006": "28424883",
+              "2007": "28271043",
+              "2008": "26169813",
+              "2004": "21412319",
+              "2005": "27715184"
+            }
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan, 2014",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/831/1/distribusi-nilai-produksi-dan-biaya-produksi-per-100-pohon-usaha-budidaya-tanaman-kehutanan.html"
+        ],
+        "data_tables": [
+          {
+            "Uraian [Produksi Kehutanan]": "A. NILAI PRODUKSI",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "-"
+              },
+              "Mahoni": {
+                "2014": "-"
+              },
+              "Sengon": {
+                "2014": "-"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "B. BIAYA PRODUKSI",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "100.00"
+              },
+              "Mahoni": {
+                "2014": "100.00"
+              },
+              "Sengon": {
+                "2014": "100.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "1. Pupuk",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "6.84"
+              },
+              "Mahoni": {
+                "2014": "5.68"
+              },
+              "Sengon": {
+                "2014": "15.80"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "2. Pestisida",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "1.20"
+              },
+              "Mahoni": {
+                "2014": "1.93"
+              },
+              "Sengon": {
+                "2014": "2.85"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "3. Upah Pekerja",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "63.99"
+              },
+              "Mahoni": {
+                "2014": "63.00"
+              },
+              "Sengon": {
+                "2014": "59.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "---a. Pemeliharaan",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "51.21"
+              },
+              "Mahoni": {
+                "2014": "51.95"
+              },
+              "Sengon": {
+                "2014": "42.39"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "---b. Pemupukan",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "3.97"
+              },
+              "Mahoni": {
+                "2014": "4.31"
+              },
+              "Sengon": {
+                "2014": "9.31"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "---c. Pengendalian OPT",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "0.81"
+              },
+              "Mahoni": {
+                "2014": "1.83"
+              },
+              "Sengon": {
+                "2014": "1.86"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "---d. Pemanenan",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "8.01"
+              },
+              "Mahoni": {
+                "2014": "4.91"
+              },
+              "Sengon": {
+                "2014": "5.44"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "4. Jasa Pertanian",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "6.20"
+              },
+              "Mahoni": {
+                "2014": "7.09"
+              },
+              "Sengon": {
+                "2014": "4.31"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "5. Penyusutan Barang Modal",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "3.48"
+              },
+              "Mahoni": {
+                "2014": "2.70"
+              },
+              "Sengon": {
+                "2014": "2.68"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "6. Sewa Alat Tanpa Operator",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "2.03"
+              },
+              "Mahoni": {
+                "2014": "0.79"
+              },
+              "Sengon": {
+                "2014": "0.33"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "7. Sewa Lahan dan Bunga Modal",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "1.10"
+              },
+              "Mahoni": {
+                "2014": "3.02"
+              },
+              "Sengon": {
+                "2014": "2.82"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "8. Pengeluaran Lainnya",
+            "Distribusi Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Persen)": {
+              "Jati": {
+                "2014": "15.16"
+              },
+              "Mahoni": {
+                "2014": "15.79"
+              },
+              "Sengon": {
+                "2014": "12.20"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan, 2014",
+        "update": "22 Mar 2018",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/827/1/nilai-produksi-dan-biaya-produksi-per-100-pohon-usaha-budidaya-tanaman-kehutanan.html"
+        ],
+        "data_tables": [
+          {
+            "Uraian [Produksi Kehutanan]": "A. NILAI PRODUKSI",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "8.80"
+              },
+              "Mahoni": {
+                "2014": "6.10"
+              },
+              "Sengon": {
+                "2014": "4.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "B. BIAYA PRODUKSI",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.90"
+              },
+              "Mahoni": {
+                "2014": "1.20"
+              },
+              "Sengon": {
+                "2014": "0.80"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "1. Pupuk",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.10"
+              },
+              "Mahoni": {
+                "2014": "0.10"
+              },
+              "Sengon": {
+                "2014": "0.10"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "2. Pestisida",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.00"
+              },
+              "Mahoni": {
+                "2014": "0.00"
+              },
+              "Sengon": {
+                "2014": "0.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "3. Upah Pekerja",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.60"
+              },
+              "Mahoni": {
+                "2014": "0.70"
+              },
+              "Sengon": {
+                "2014": "0.50"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "---a. Pemeliharaan",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.50"
+              },
+              "Mahoni": {
+                "2014": "0.60"
+              },
+              "Sengon": {
+                "2014": "0.40"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "---b. Pemupukan",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.00"
+              },
+              "Mahoni": {
+                "2014": "0.10"
+              },
+              "Sengon": {
+                "2014": "0.10"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "---c. Pengendalian OPT",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.00"
+              },
+              "Mahoni": {
+                "2014": "0.00"
+              },
+              "Sengon": {
+                "2014": "0.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "---d. Pemanenan",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.10"
+              },
+              "Mahoni": {
+                "2014": "0.10"
+              },
+              "Sengon": {
+                "2014": "0.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "4. Jasa Pertanian",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.10"
+              },
+              "Mahoni": {
+                "2014": "0.10"
+              },
+              "Sengon": {
+                "2014": "0.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "5. Penyusutan Barang Modal",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.00"
+              },
+              "Mahoni": {
+                "2014": "0.00"
+              },
+              "Sengon": {
+                "2014": "0.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "6. Sewa Alat Tanpa Operator",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.00"
+              },
+              "Mahoni": {
+                "2014": "0.00"
+              },
+              "Sengon": {
+                "2014": "0.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "7. Sewa Lahan dan Bunga Modal",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.00"
+              },
+              "Mahoni": {
+                "2014": "0.00"
+              },
+              "Sengon": {
+                "2014": "0.00"
+              }
+            }
+          },
+          {
+            "Uraian [Produksi Kehutanan]": "8. Pengeluaran Lainnya",
+            "Nilai Produksi dan Biaya Produksi per 100 Pohon Usaha Budidaya Tanaman Kehutanan (Juta Rupiah)": {
+              "Jati": {
+                "2014": "0.10"
+              },
+              "Mahoni": {
+                "2014": "0.20"
+              },
+              "Sengon": {
+                "2014": "0.10"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Jumlah dan Persentase Rumah Tangga di Sekitar Kawasan Hutan yang Melakukan Perladangan Berpindah, 2004 dan 2014, 2004-2014",
+        "update": "21 Mar 2018",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/60/1020/1/jumlah-dan-persentase-rumah-tangga-di-sekitar-kawasan-hutan-yang-melakukan-perladangan-berpindah-2004-dan-2014.html"
+        ],
+        "data_tables": [
+          {
+            "Kawasan Hutan": "Jumlah Rumah Tangga di Sekitar Kawasan Hutan",
+            "Jumlah dan Persentase Rumah Tangga di Sekitar Kawasan Hutan yang Melakukan Perladangan Berpindah, 2004 dan 2014": {
+              "2004": "7804970.00",
+              "2014": "8643228.00"
+            }
+          },
+          {
+            "Kawasan Hutan": "Jumlah Rumah Tangga Di Sekitar Kawasan Hutan yang Melakukan Perladangan Berpindah",
+            "Jumlah dan Persentase Rumah Tangga di Sekitar Kawasan Hutan yang Melakukan Perladangan Berpindah, 2004 dan 2014": {
+              "2004": "259959.00",
+              "2014": "242866.00"
+            }
+          },
+          {
+            "Kawasan Hutan": "Persentase Rumah Tangga Di Sekitar Kawasan Hutan yang Melakukan Perladangan Berpindah",
+            "Jumlah dan Persentase Rumah Tangga di Sekitar Kawasan Hutan yang Melakukan Perladangan Berpindah, 2004 dan 2014": {
+              "2004": "3.33",
+              "2014": "2.81"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
