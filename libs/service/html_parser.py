@@ -17,7 +17,7 @@ class Scrapper:
 
 
     def filter_data(self, data) -> str:
-        return data.replace(',', '.')
+        return data.replace(',', '.').replace('\\u200', ' ')
     
 
     def filter_url(self, url):
@@ -45,6 +45,7 @@ class Scrapper:
     def create_url(self, urlReqs: str, newValue: int) -> str:
 
         pieces_url = urlReqs.split('/')
+        
         index = pieces_url.index('indicator') + 3
         pieces_url[index] = str(newValue)
 
@@ -81,7 +82,7 @@ class Scrapper:
 
                 __key_layer3 = []
                 for head in tables.find(selector='thead tr:nth-child(3) th'):
-                    __key_layer3.append(re.sub(r'\s+', ' ', head.text.strip()))
+                    __key_layer3.append(re.sub(r'\s+', ' ', head.text.strip()).replace('\u2009', ' '))
             
                 for value in tables.find(selector='tbody tr'):
                     __data_table = {
@@ -121,7 +122,7 @@ class Scrapper:
 
                 __key_layer2 = []
                 for layer2 in tables.find(selector = 'thead tr:last-child th'):
-                    __key_layer2.append(re.sub(r'\s+', ' ', layer2.text.strip()))
+                    __key_layer2.append(re.sub(r'\s+', ' ', layer2.text.strip()).replace('\u2009', ' '))
                     
 
                 for value in tables.find('tbody tr'):
@@ -150,6 +151,8 @@ class Scrapper:
 
         urls = self.filter_url(req_url)
         for index, url in enumerate(urls):
+            print('Outer --> ' ,url)
+            if 'indicator' not in url: continue
             results = self.extract_data(urlReqs=url)
             self.__results['data'][index].update({
                 'url_tables': results[0],
