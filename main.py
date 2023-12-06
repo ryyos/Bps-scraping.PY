@@ -22,7 +22,7 @@ class Main:
         pass
 
     def __filter_url(self, url) -> str:
-        url = url.replace('#subjekViewTab3', '')
+        # url = url.replace('#subjekViewTab3', '')
         if self.__main_url not in url:
             return f'{self.__main_url}{url}'
         else:
@@ -34,7 +34,7 @@ class Main:
         return __result[-1]
 
 
-    def main(self, main_url):
+    def main(self, main_url) -> None:
 
         response: Response = requests.get(url=main_url)
         html = PyQuery(response.text)
@@ -51,21 +51,22 @@ class Main:
 
                 __name_file = self.__get_name(side)
                 __url_scrap = self.__filter_url(url=side)
+                print(__url_scrap)
 
                 
                 __result = {
                     'Type': type.upper(),
-                    'times': time.now(),
+                    'times': str(time.now()),
                     'datas': self.__scrapper.ex(req_url=__url_scrap, type=type, title=__name_file)
                 }
                 
 
-                with open(f'{type.upper()}/{__name_file.upper()}', 'w') as file:
+                with open(f'data/{type.upper()}/{__name_file.upper()}.json', 'w') as file:
                     json.dump(__result, file, indent=2)
 
 
-    def ex(self, main_url):
-        urls = self.main(main_url=main_url)
+    def ex(self, main_url) -> None:
+        self.main(main_url=main_url)
 
 
 if (__name__ == '__main__'):

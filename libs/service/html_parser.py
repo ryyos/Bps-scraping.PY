@@ -159,9 +159,11 @@ class Scrapper:
             if 'indicator' not in url: continue
 
             
+            try:
+                results = self.extract_data(urlReqs=url, log_type=type, log_base_url=url, log_title=title)
+            except:
+                print('Request timeout!!')
 
-            results = self.extract_data(urlReqs=url, log_type=type, log_base_url=url, log_title=title)
-            
             self.__results['data'][index].update({
                 'url_tables': results[0],
                 'data_tables': results[1]
