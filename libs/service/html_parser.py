@@ -148,7 +148,7 @@ class Scrapper:
 
 
 
-    def execute(self, req_url):
+    def ex(self, req_url):
 
         urls = self.filter_url(req_url)
         for index, url in enumerate(urls):
@@ -161,11 +161,7 @@ class Scrapper:
             })
 
             
-        with open('private/json/data.json', 'w') as file:
-            json.dump(self.__results, file, indent=2)
-
-        print('done')
-        sleep(10)
+        return self.__results
 
 
 
