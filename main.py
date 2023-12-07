@@ -15,10 +15,8 @@ class Main:
         self.__logs = Logs()
         self.__types = ['sosial', 'ekonomi', 'pertanian']
         self.__main_url = 'https://www.archive.bps.go.id'
-        pass
 
     def __filter_url(self, url) -> str:
-        # url = url.replace('#subjekViewTab3', '')
         if self.__main_url not in url:
             return f'{self.__main_url}{url}'
         else:
@@ -38,7 +36,7 @@ class Main:
 
         for type in self.__types:
 
-            # os.mkdir(f'data/{type.upper()}')
+            os.mkdir(f'data/{type.upper()}')
             print(type)
             for p in sideBar.find(f'#{type} p'):
                 __scrapper = Scrapper()
@@ -46,21 +44,20 @@ class Main:
                 side = self.__paerser.ex(html=p, selector='a').attr('href')
                 if side == None: break
 
-                __name_file = self.__get_name(side)
-                __url_scrap = self.__filter_url(url=side)
-                print(__url_scrap)
+                name_file = self.__get_name(side)
+                url_scrap = self.__filter_url(url=side)
+                print(url_scrap)
 
 
-                
                 __result = {
                     'Type': type.upper(),
                     'times': str(time.now()),
-                    'datas': __scrapper.ex(req_url=__url_scrap, type=type, title=__name_file)
+                    'datas': __scrapper.ex(req_url=url_scrap, type=type, title=name_file)
                 }
                 
 
-                # with open(f'data/{type.upper()}/{__name_file.upper()}.json', 'w') as file:
-                #     json.dump(__result, file, indent=2)
+                with open(f'data/{type.upper()}/{name_file.upper()}.json', 'w') as file:
+                    json.dump(__result, file, indent=2)
 
 
     def ex(self, main_url) -> None:

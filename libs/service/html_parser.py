@@ -16,25 +16,28 @@ class Scrapper:
         self.__main_url = 'https://www.archive.bps.go.id'
         self.__results = dict()
         self.__results['data'] = []
-        self.__urls = []
+        self.urls = []
         pass
 
 
-    def filter_data(self, data) -> str:
-        return data.replace(',', '.').replace('\u2009', '').replace(' ', '')
+    def filter_data(self, data: str) -> any:
+        data = data.replace(',', '.').replace('\u2009', '').replace(' ', '')
+        try:
+            return float(data)
+        except:
+            return data
     
     
 
-    def filter_url(self, url):
+    def filter_url(self, url: str) -> list:
         
 
-        response = requests.get(url)
-        html = PyQuery(response.text)
+        response: Response = requests.get(url)
+        html: PyQuery = PyQuery(response.text)
         for no, html in enumerate(html.find('#listTabel1 tr')):
             if(self.__parser.ex(html=html, selector='td:nth-child(2)').text() == ""): continue
             href_element = self.__parser.ex(html=html, selector='td:nth-child(2) a').attr('href')
             if 'indicator' not in href_element: continue
-            # print(href_element)
             
             self.__results['data'].append({
                 'id' : no,
@@ -43,121 +46,112 @@ class Scrapper:
                 'keterangan' : self.__parser.ex(html=html, selector='td:nth-child(4)').text()
             })
 
-            self.__urls.append(f'{self.__main_url}{href_element}' if self.__main_url not in str(href_element) else href_element)
+            self.urls.append(f'{self.__main_url}{href_element}' if self.__main_url not in str(href_element) else href_element)
             no +=1
-        return self.__urls
+        return self.urls
 
 
     def create_url(self, urlReqs: str, newValue: int) -> str:
 
-        pieces_url = urlReqs.split('/')
+        pieces_url: list[str] = urlReqs.split('/')
         
-        index = pieces_url.index('indicator') + 3
+        index: int = pieces_url.index('indicator') + 3
         pieces_url[index] = str(newValue)
 
         return '/'.join(pieces_url)
 
-    def extract_data(self, urlReqs: str, log_type, log_title, log_base_url):
-        __urls_tables = dict()
-        __temporary = []
-        __urls_tables = []
-        __url_val = 1
+    def extract_data(self, urlReqs: str, log_type: str, log_title: str, log_base_url: str) -> list:
+        urls_tables = dict()
+        temporary: list[dict] = []
+        urls_tables: list[str] = []
+        url_val: int = 1
 
         while True:
-            __url = self.create_url(urlReqs=urlReqs, newValue=__url_val)
+            url: str = self.create_url(urlReqs=urlReqs, newValue=url_val)
             
-            self.__logs.ex(type=log_type,title= log_title, base_url=log_base_url, child_url=__url)
+            self.__logs.ex(type=log_type,title= log_title, base_url=log_base_url, child_url=url)
 
-            response: Response = requests.get(url=__url)
+            response: Response = requests.get(url=url)
             html: PyQuery = PyQuery(response.text)
 
             if not html.find('thead tr th:nth-child(2)'):
                 break
-            __url_val += 1
+            url_val += 1
     
-            __urls_tables.append(__url)
+            urls_tables.append(url)
     
             tables = self.__parser.ex(html=html, selector='#tablex')
             if len(tables.find(selector='thead tr')) > 2:
                 
-                __headers = []
-                for head in tables.find(selector='thead tr:first-child th'):
-                    __headers.append(re.sub(r'\s+', ' ', head.text.strip()))
-
-                __key_layer2 = []
-                for head in tables.find(selector='thead tr:nth-child(2) th'):
-                    __key_layer2.append(re.sub(r'\s+', ' ', head.text.strip()))
-
-                __key_layer3 = []
-                for head in tables.find(selector='thead tr:nth-child(3) th'):
-                    __key_layer3.append(re.sub(r'\s+', ' ', head.text.strip()).replace('\u2009', ' '))
+                headers = [re.sub(r'\s', ' ', head.text.strip()) for head in tables.find(selector='thead tr:first-child th')]
+                key_layer2 = [re.sub(r'\s+', ' ', head.text.strip()) for head in tables.find(selector='thead tr:nth-child(2) th')]
+                key_layer3 = [re .sub(r'\s', ' ', head.text.strip()).replace('\u2009', ' ') for head in tables.find(selector='thead tr:nth-child(3) th')]
             
                 for value in tables.find(selector='tbody tr'):
-                    __data_table = {
-                        __headers[0]: self.__parser.ex(html=value, selector='td:first-child').text(),
-                        __headers[1]: {
+                    data_table = {
+                        headers[0]: self.__parser.ex(html=value, selector='td:first-child').text(),
+                        headers[1]: {
                             layer2: {
-                                __key_layer3[i]: self.filter_data(self.__parser.ex(html=value, selector=f'td:nth-child({i + 2 + int(len(__key_layer3) / len(__key_layer2)) * index_layer2})').text())
-                                for i in range(int(len(__key_layer3) / len(__key_layer2)))
+                                key_layer3[i]: self.filter_data(self.__parser.ex(html=value, selector=f'td:nth-child({i + 2 + int(len(key_layer3) / len(key_layer2)) * index_layer2})').text())
+                                for i in range(int(len(key_layer3) / len(key_layer2)))
 
-                            } for index_layer2, layer2 in enumerate(__key_layer2)
+                            } for index_layer2, layer2 in enumerate(key_layer2)
                         }
                     }
                 
                     
-                    existing_data = next((item for item in __temporary if item.get(__headers[0]) == __data_table[__headers[0]]), None)
+                    existing_data = next((item for item in temporary if item.get(headers[0]) == data_table[headers[0]]), None)
                     if existing_data:
-                        for layer2 in __key_layer2:
+                        for layer2 in key_layer2:
                             try:
 
-                                if(existing_data[__headers[1]][layer2].keys() == __data_table[__headers[1]][layer2].keys()):
-                                    __temporary.append(existing_data[__headers[1]][layer2].append(__data_table[__headers[1]][layer2]))
+                                if(existing_data[headers[1]][layer2].keys() == data_table[headers[1]][layer2].keys()):
+                                    temporary.append(existing_data[headers[1]][layer2].append(data_table[headers[1]][layer2]))
                                 else:
-                                    existing_data[__headers[1]][layer2].update(__data_table[__headers[1]][layer2])
+                                    existing_data[headers[1]][layer2].update(data_table[headers[1]][layer2])
 
                             except:
-                                __temporary.append(__data_table)
+                                temporary.append(data_table)
 
                     else:
-                        __temporary.append(__data_table)
+                        temporary.append(data_table)
 
             else:
 
-                __headers = []
-                for head in tables.find(selector = 'thead tr:first-child th'):  
-                    __headers.append(re.sub(r'\s+', ' ', head.text.strip()))
+                """
+                    headers = []
+                    for head in tables.find(selector = 'thead tr:first-child th'):  
+                        headers.append(re.sub(r'\s+', ' ', head.text.strip()))
+                """
 
-
-                __key_layer2 = []
-                for layer2 in tables.find(selector = 'thead tr:last-child th'):
-                    __key_layer2.append(re.sub(r'\s+', ' ', layer2.text.strip()).replace('\u2009', ' '))
-                    
+                headers: list[str] = [re.sub(r'\s', ' ', head.text.strip()) for head in tables.find(selector='thead tr:first-child th')]
+                key_layer2: list[str] = [re.sub(r'\s+', ' ', head.text.strip()) for head in tables.find(selector='thead tr:last-child th')]
 
                 for value in tables.find('tbody tr'):
-                    __data_table = {
-                        __headers[0]: self.__parser.ex(html=value, selector='td:first-child').text(),
-                        __headers[1]: {
+                    data_table = {
+                        headers[0]: self.__parser.ex(html=value, selector='td:first-child').text(),
+                        headers[1]: {
                             layer2: self.filter_data(self.__parser.ex(html=value, selector=f'td:nth-child({index_layer2 + 2})').text())
-                            for index_layer2, layer2 in enumerate(__key_layer2)
+                            for index_layer2, layer2 in enumerate(key_layer2)
                         }
                     }
 
-                    existing_data = next((item for item in __temporary if item.get(__headers[0]) == __data_table[__headers[0]]), None)
+                    existing_data = next((item for item in temporary if item.get(headers[0]) == data_table[headers[0]]), None)
 
                     if existing_data:
-                        existing_data[__headers[1]].update(__data_table[__headers[1]])
+                        existing_data[headers[1]].update(data_table[headers[1]])
                     else:
-                        __temporary.append(__data_table)
+                        temporary.append(data_table)
 
-        return[__urls_tables, __temporary]
+        return[urls_tables, temporary]
 
                 
 
 
 
-    def ex(self, req_url, type, title):
+    def ex(self, req_url, type, title) -> dict:
 
-        urls = self.filter_url(req_url)
+        urls: list[str] = self.filter_url(req_url)
         for index, url in enumerate(urls):
 
             

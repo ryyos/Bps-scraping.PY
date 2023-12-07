@@ -1,6 +1,6 @@
 {
   "Type": "SOSIAL",
-  "times": "2023-12-06 21:39:57.519716",
+  "times": "2023-12-07 15:37:36.547463",
   "datas": {
     "data": [
       {
@@ -16,15 +16,15 @@
         "data_tables": [
           {
             "Kategori Miskin": "Miskin",
-            "Persentase Penduduk Miskin Di Daerah Tertinggal (Persen)": {
-              "2020": "25.32",
-              "2021": "25.50",
-              "2022": "24.56",
-              "2017": "18.07",
-              "2018": "17.39",
-              "2019": "17.01",
-              "2015": "18.87",
-              "2016": "18.43"
+            "Persentase Penduduk Miskin Di Daerah Tertinggal                        (Persen)": {
+              "2020": 25.32,
+              "2021": 25.5,
+              "2022": 24.56,
+              "2017": 18.07,
+              "2018": 17.39,
+              "2019": 17.01,
+              "2015": 18.87,
+              "2016": 18.43
             }
           }
         ]
@@ -40,87 +40,87 @@
         "data_tables": [
           {
             "Provinsi": "ACEH",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "25",
-              "2020": "30",
-              "2021": "34"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 25.0,
+              "2020": 30.0,
+              "2021": 34.0
             }
           },
           {
             "Provinsi": "SUMATERA UTARA",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "6",
-              "2020": "8",
-              "2021": "9"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 6.0,
+              "2020": 8.0,
+              "2021": 9.0
             }
           },
           {
             "Provinsi": "SUMATERA BARAT",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "32",
-              "2020": "40",
-              "2021": "65"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 32.0,
+              "2020": 40.0,
+              "2021": 65.0
             }
           },
           {
             "Provinsi": "RIAU",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "5",
-              "2020": "11",
-              "2021": "18"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 5.0,
+              "2020": 11.0,
+              "2021": 18.0
             }
           },
           {
             "Provinsi": "JAMBI",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "4",
-              "2020": "8",
-              "2021": "5"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 4.0,
+              "2020": 8.0,
+              "2021": 5.0
             }
           },
           {
             "Provinsi": "SUMATERA SELATAN",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "6",
-              "2020": "22",
-              "2021": "21"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 6.0,
+              "2020": 22.0,
+              "2021": 21.0
             }
           },
           {
             "Provinsi": "BENGKULU",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "0",
-              "2020": "1",
-              "2021": "1"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 0.0,
+              "2020": 1.0,
+              "2021": 1.0
             }
           },
           {
             "Provinsi": "LAMPUNG",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "9",
-              "2020": "10",
-              "2021": "36"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 9.0,
+              "2020": 10.0,
+              "2021": 36.0
             }
           },
           {
             "Provinsi": "KEP. BANGKA BELITUNG",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "16",
-              "2020": "20",
-              "2021": "25"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 16.0,
+              "2020": 20.0,
+              "2021": 25.0
             }
           },
           {
             "Provinsi": "KEP. RIAU",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "0",
-              "2020": "2",
-              "2021": "1"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 0.0,
+              "2020": 2.0,
+              "2021": 1.0
             }
           },
           {
             "Provinsi": "DKI JAKARTA",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
               "2019": "-",
               "2020": "-",
               "2021": "-"
@@ -128,194 +128,194 @@
           },
           {
             "Provinsi": "JAWA BARAT",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "341",
-              "2020": "518",
-              "2021": "636"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 341.0,
+              "2020": 518.0,
+              "2021": 636.0
             }
           },
           {
             "Provinsi": "JAWA TENGAH",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "296",
-              "2020": "510",
-              "2021": "685"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 296.0,
+              "2020": 510.0,
+              "2021": 685.0
             }
           },
           {
             "Provinsi": "DI YOGYAKARTA",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "127",
-              "2020": "151",
-              "2021": "179"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 127.0,
+              "2020": 151.0,
+              "2021": 179.0
             }
           },
           {
             "Provinsi": "JAWA TIMUR",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "345",
-              "2020": "589",
-              "2021": "697"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 345.0,
+              "2020": 589.0,
+              "2021": 697.0
             }
           },
           {
             "Provinsi": "BANTEN",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "18",
-              "2020": "29",
-              "2021": "26"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 18.0,
+              "2020": 29.0,
+              "2021": 26.0
             }
           },
           {
             "Provinsi": "BALI",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "88",
-              "2020": "154",
-              "2021": "181"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 88.0,
+              "2020": 154.0,
+              "2021": 181.0
             }
           },
           {
             "Provinsi": "NUSA TENGGARA BARAT",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "41",
-              "2020": "67",
-              "2021": "105"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 41.0,
+              "2020": 67.0,
+              "2021": 105.0
             }
           },
           {
             "Provinsi": "NUSA TENGGARA TIMUR",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "0",
-              "2020": "0",
-              "2021": "0"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 0.0,
+              "2020": 0.0,
+              "2021": 0.0
             }
           },
           {
             "Provinsi": "KALIMANTAN BARAT",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "14",
-              "2020": "14",
-              "2021": "32"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 14.0,
+              "2020": 14.0,
+              "2021": 32.0
             }
           },
           {
             "Provinsi": "KALIMANTAN TENGAH",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "5",
-              "2020": "11",
-              "2021": "23"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 5.0,
+              "2020": 11.0,
+              "2021": 23.0
             }
           },
           {
             "Provinsi": "KALIMANTAN SELATAN",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "13",
-              "2020": "26",
-              "2021": "41"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 13.0,
+              "2020": 26.0,
+              "2021": 41.0
             }
           },
           {
             "Provinsi": "KALIMANTAN TIMUR",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "13",
-              "2020": "25",
-              "2021": "30"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 13.0,
+              "2020": 25.0,
+              "2021": 30.0
             }
           },
           {
             "Provinsi": "KALIMANTAN UTARA",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "4",
-              "2020": "6",
-              "2021": "8"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 4.0,
+              "2020": 6.0,
+              "2021": 8.0
             }
           },
           {
             "Provinsi": "SULAWESI UTARA",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "7",
-              "2020": "9",
-              "2021": "10"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 7.0,
+              "2020": 9.0,
+              "2021": 10.0
             }
           },
           {
             "Provinsi": "SULAWESI TENGAH",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "1",
-              "2020": "9",
-              "2021": "5"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 1.0,
+              "2020": 9.0,
+              "2021": 5.0
             }
           },
           {
             "Provinsi": "SULAWESI SELATAN",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "16",
-              "2020": "19",
-              "2021": "17"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 16.0,
+              "2020": 19.0,
+              "2021": 17.0
             }
           },
           {
             "Provinsi": "SULAWESI TENGGARA",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "0",
-              "2020": "0",
-              "2021": "0"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 0.0,
+              "2020": 0.0,
+              "2021": 0.0
             }
           },
           {
             "Provinsi": "GORONTALO",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "3",
-              "2020": "10",
-              "2021": "5"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 3.0,
+              "2020": 10.0,
+              "2021": 5.0
             }
           },
           {
             "Provinsi": "SULAWESI BARAT",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "1",
-              "2020": "1",
-              "2021": "1"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 1.0,
+              "2020": 1.0,
+              "2021": 1.0
             }
           },
           {
             "Provinsi": "MALUKU",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "6",
-              "2020": "10",
-              "2021": "8"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 6.0,
+              "2020": 10.0,
+              "2021": 8.0
             }
           },
           {
             "Provinsi": "MALUKU UTARA",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "2",
-              "2020": "0",
-              "2021": "2"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 2.0,
+              "2020": 0.0,
+              "2021": 2.0
             }
           },
           {
             "Provinsi": "PAPUA BARAT",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "0",
-              "2020": "0",
-              "2021": "0"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 0.0,
+              "2020": 0.0,
+              "2021": 0.0
             }
           },
           {
             "Provinsi": "PAPUA",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "0",
-              "2020": "0",
-              "2021": "0"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 0.0,
+              "2020": 0.0,
+              "2021": 0.0
             }
           },
           {
             "Provinsi": "INDONESIA",
-            "Jumlah Desa Mandiri Menurut Provinsi (Desa)": {
-              "2019": "1444",
-              "2020": "2310",
-              "2021": "2906"
+            "Jumlah Desa Mandiri Menurut Provinsi                        (Desa)": {
+              "2019": 1444.0,
+              "2020": 2310.0,
+              "2021": 2906.0
             }
           }
         ]
@@ -331,207 +331,207 @@
         "data_tables": [
           {
             "Provinsi": "ACEH",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "57",
-                "2020": "21",
-                "2021": "20"
+                "2019": 57.0,
+                "2020": 21.0,
+                "2021": 20.0
               },
               "Desa Tertinggal": {
-                "2019": "1653",
-                "2020": "894",
-                "2021": "688"
+                "2019": 1653.0,
+                "2020": 894.0,
+                "2021": 688.0
               },
               "Jumlah": {
-                "2019": "1710",
-                "2020": "915",
-                "2021": "708"
+                "2019": 1710.0,
+                "2020": 915.0,
+                "2021": 708.0
               }
             }
           },
           {
             "Provinsi": "SUMATERA UTARA",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "605",
-                "2020": "401",
-                "2021": "321"
+                "2019": 605.0,
+                "2020": 401.0,
+                "2021": 321.0
               },
               "Desa Tertinggal": {
-                "2019": "1930",
-                "2020": "1765",
-                "2021": "1527"
+                "2019": 1930.0,
+                "2020": 1765.0,
+                "2021": 1527.0
               },
               "Jumlah": {
-                "2019": "2535",
-                "2020": "2166",
-                "2021": "1848"
+                "2019": 2535.0,
+                "2020": 2166.0,
+                "2021": 1848.0
               }
             }
           },
           {
             "Provinsi": "SUMATERA BARAT",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "1"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 1.0
               },
               "Desa Tertinggal": {
-                "2019": "80",
-                "2020": "42",
-                "2021": "26"
+                "2019": 80.0,
+                "2020": 42.0,
+                "2021": 26.0
               },
               "Jumlah": {
-                "2019": "80",
-                "2020": "42",
-                "2021": "27"
+                "2019": 80.0,
+                "2020": 42.0,
+                "2021": 27.0
               }
             }
           },
           {
             "Provinsi": "RIAU",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "9",
-                "2020": "5",
-                "2021": "1"
+                "2019": 9.0,
+                "2020": 5.0,
+                "2021": 1.0
               },
               "Desa Tertinggal": {
-                "2019": "238",
-                "2020": "93",
-                "2021": "64"
+                "2019": 238.0,
+                "2020": 93.0,
+                "2021": 64.0
               },
               "Jumlah": {
-                "2019": "247",
-                "2020": "98",
-                "2021": "65"
+                "2019": 247.0,
+                "2020": 98.0,
+                "2021": 65.0
               }
             }
           },
           {
             "Provinsi": "JAMBI",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "5",
-                "2020": "4",
-                "2021": "3"
+                "2019": 5.0,
+                "2020": 4.0,
+                "2021": 3.0
               },
               "Desa Tertinggal": {
-                "2019": "174",
-                "2020": "111",
-                "2021": "83"
+                "2019": 174.0,
+                "2020": 111.0,
+                "2021": 83.0
               },
               "Jumlah": {
-                "2019": "179",
-                "2020": "115",
-                "2021": "86"
+                "2019": 179.0,
+                "2020": 115.0,
+                "2021": 86.0
               }
             }
           },
           {
             "Provinsi": "SUMATERA SELATAN",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "7",
-                "2020": "1",
-                "2021": "0"
+                "2019": 7.0,
+                "2020": 1.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "445",
-                "2020": "247",
-                "2021": "137"
+                "2019": 445.0,
+                "2020": 247.0,
+                "2021": 137.0
               },
               "Jumlah": {
-                "2019": "452",
-                "2020": "248",
-                "2021": "137"
+                "2019": 452.0,
+                "2020": 248.0,
+                "2021": 137.0
               }
             }
           },
           {
             "Provinsi": "BENGKULU",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "3",
-                "2020": "1",
-                "2021": "2"
+                "2019": 3.0,
+                "2020": 1.0,
+                "2021": 2.0
               },
               "Desa Tertinggal": {
-                "2019": "303",
-                "2020": "220",
-                "2021": "100"
+                "2019": 303.0,
+                "2020": 220.0,
+                "2021": 100.0
               },
               "Jumlah": {
-                "2019": "306",
-                "2020": "221",
-                "2021": "102"
+                "2019": 306.0,
+                "2020": 221.0,
+                "2021": 102.0
               }
             }
           },
           {
             "Provinsi": "LAMPUNG",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "180",
-                "2020": "87",
-                "2021": "25"
+                "2019": 180.0,
+                "2020": 87.0,
+                "2021": 25.0
               },
               "Jumlah": {
-                "2019": "180",
-                "2020": "87",
-                "2021": "25"
+                "2019": 180.0,
+                "2020": 87.0,
+                "2021": 25.0
               }
             }
           },
           {
             "Provinsi": "KEP. BANGKA BELITUNG",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "1",
-                "2020": "0",
-                "2021": "0"
+                "2019": 1.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Jumlah": {
-                "2019": "1",
-                "2020": "0",
-                "2021": "0"
+                "2019": 1.0,
+                "2020": 0.0,
+                "2021": 0.0
               }
             }
           },
           {
             "Provinsi": "KEP. RIAU",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "31",
-                "2020": "9",
-                "2021": "2"
+                "2019": 31.0,
+                "2020": 9.0,
+                "2021": 2.0
               },
               "Jumlah": {
-                "2019": "31",
-                "2020": "9",
-                "2021": "2"
+                "2019": 31.0,
+                "2020": 9.0,
+                "2021": 2.0
               }
             }
           },
           {
             "Provinsi": "DKI JAKARTA",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
                 "2019": "-",
                 "2020": "-",
@@ -551,481 +551,481 @@
           },
           {
             "Provinsi": "JAWA BARAT",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "27",
-                "2020": "5",
-                "2021": "1"
+                "2019": 27.0,
+                "2020": 5.0,
+                "2021": 1.0
               },
               "Jumlah": {
-                "2019": "27",
-                "2020": "5",
-                "2021": "1"
+                "2019": 27.0,
+                "2020": 5.0,
+                "2021": 1.0
               }
             }
           },
           {
             "Provinsi": "JAWA TENGAH",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "42",
-                "2020": "16",
-                "2021": "5"
+                "2019": 42.0,
+                "2020": 16.0,
+                "2021": 5.0
               },
               "Jumlah": {
-                "2019": "42",
-                "2020": "16",
-                "2021": "5"
+                "2019": 42.0,
+                "2020": 16.0,
+                "2021": 5.0
               }
             }
           },
           {
             "Provinsi": "DI YOGYAKARTA",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Jumlah": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               }
             }
           },
           {
             "Provinsi": "JAWA TIMUR",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "1",
-                "2020": "0",
-                "2021": "0"
+                "2019": 1.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "199",
-                "2020": "94",
-                "2021": "73"
+                "2019": 199.0,
+                "2020": 94.0,
+                "2021": 73.0
               },
               "Jumlah": {
-                "2019": "200",
-                "2020": "94",
-                "2021": "73"
+                "2019": 200.0,
+                "2020": 94.0,
+                "2021": 73.0
               }
             }
           },
           {
             "Provinsi": "BANTEN",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "1",
-                "2020": "0",
-                "2021": "0"
+                "2019": 1.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "73",
-                "2020": "39",
-                "2021": "29"
+                "2019": 73.0,
+                "2020": 39.0,
+                "2021": 29.0
               },
               "Jumlah": {
-                "2019": "74",
-                "2020": "39",
-                "2021": "29"
+                "2019": 74.0,
+                "2020": 39.0,
+                "2021": 29.0
               }
             }
           },
           {
             "Provinsi": "BALI",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "1",
-                "2020": "0",
-                "2021": "0"
+                "2019": 1.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Jumlah": {
-                "2019": "1",
-                "2020": "0",
-                "2021": "0"
+                "2019": 1.0,
+                "2020": 0.0,
+                "2021": 0.0
               }
             }
           },
           {
             "Provinsi": "NUSA TENGGARA BARAT",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "16",
-                "2020": "16",
-                "2021": "6"
+                "2019": 16.0,
+                "2020": 16.0,
+                "2021": 6.0
               },
               "Jumlah": {
-                "2019": "16",
-                "2020": "16",
-                "2021": "6"
+                "2019": 16.0,
+                "2020": 16.0,
+                "2021": 6.0
               }
             }
           },
           {
             "Provinsi": "NUSA TENGGARA TIMUR",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "31",
-                "2020": "6",
-                "2021": "4"
+                "2019": 31.0,
+                "2020": 6.0,
+                "2021": 4.0
               },
               "Desa Tertinggal": {
-                "2019": "1532",
-                "2020": "1121",
-                "2021": "951"
+                "2019": 1532.0,
+                "2020": 1121.0,
+                "2021": 951.0
               },
               "Jumlah": {
-                "2019": "1563",
-                "2020": "1127",
-                "2021": "955"
+                "2019": 1563.0,
+                "2020": 1127.0,
+                "2021": 955.0
               }
             }
           },
           {
             "Provinsi": "KALIMANTAN BARAT",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "156",
-                "2020": "69",
-                "2021": "37"
+                "2019": 156.0,
+                "2020": 69.0,
+                "2021": 37.0
               },
               "Desa Tertinggal": {
-                "2019": "836",
-                "2020": "742",
-                "2021": "576"
+                "2019": 836.0,
+                "2020": 742.0,
+                "2021": 576.0
               },
               "Jumlah": {
-                "2019": "992",
-                "2020": "811",
-                "2021": "613"
+                "2019": 992.0,
+                "2020": 811.0,
+                "2021": 613.0
               }
             }
           },
           {
             "Provinsi": "KALIMANTAN TENGAH",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "31",
-                "2020": "13",
-                "2021": "18"
+                "2019": 31.0,
+                "2020": 13.0,
+                "2021": 18.0
               },
               "Desa Tertinggal": {
-                "2019": "547",
-                "2020": "394",
-                "2021": "317"
+                "2019": 547.0,
+                "2020": 394.0,
+                "2021": 317.0
               },
               "Jumlah": {
-                "2019": "578",
-                "2020": "407",
-                "2021": "335"
+                "2019": 578.0,
+                "2020": 407.0,
+                "2021": 335.0
               }
             }
           },
           {
             "Provinsi": "KALIMANTAN SELATAN",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "20",
-                "2020": "9",
-                "2021": "9"
+                "2019": 20.0,
+                "2020": 9.0,
+                "2021": 9.0
               },
               "Desa Tertinggal": {
-                "2019": "280",
-                "2020": "129",
-                "2021": "106"
+                "2019": 280.0,
+                "2020": 129.0,
+                "2021": 106.0
               },
               "Jumlah": {
-                "2019": "300",
-                "2020": "138",
-                "2021": "115"
+                "2019": 300.0,
+                "2020": 138.0,
+                "2021": 115.0
               }
             }
           },
           {
             "Provinsi": "KALIMANTAN TIMUR",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "1",
-                "2020": "1",
-                "2021": "0"
+                "2019": 1.0,
+                "2020": 1.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "213",
-                "2020": "110",
-                "2021": "89"
+                "2019": 213.0,
+                "2020": 110.0,
+                "2021": 89.0
               },
               "Jumlah": {
-                "2019": "214",
-                "2020": "111",
-                "2021": "89"
+                "2019": 214.0,
+                "2020": 111.0,
+                "2021": 89.0
               }
             }
           },
           {
             "Provinsi": "KALIMANTAN UTARA",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "52",
-                "2020": "41",
-                "2021": "41"
+                "2019": 52.0,
+                "2020": 41.0,
+                "2021": 41.0
               },
               "Desa Tertinggal": {
-                "2019": "247",
-                "2020": "223",
-                "2021": "181"
+                "2019": 247.0,
+                "2020": 223.0,
+                "2021": 181.0
               },
               "Jumlah": {
-                "2019": "299",
-                "2020": "264",
-                "2021": "222"
+                "2019": 299.0,
+                "2020": 264.0,
+                "2021": 222.0
               }
             }
           },
           {
             "Provinsi": "SULAWESI UTARA",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "0",
-                "2020": "0",
-                "2021": "0"
+                "2019": 0.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "134",
-                "2020": "71",
-                "2021": "45"
+                "2019": 134.0,
+                "2020": 71.0,
+                "2021": 45.0
               },
               "Jumlah": {
-                "2019": "134",
-                "2020": "71",
-                "2021": "45"
+                "2019": 134.0,
+                "2020": 71.0,
+                "2021": 45.0
               }
             }
           },
           {
             "Provinsi": "SULAWESI TENGAH",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "15",
-                "2020": "9",
-                "2021": "7"
+                "2019": 15.0,
+                "2020": 9.0,
+                "2021": 7.0
               },
               "Desa Tertinggal": {
-                "2019": "363",
-                "2020": "187",
-                "2021": "126"
+                "2019": 363.0,
+                "2020": 187.0,
+                "2021": 126.0
               },
               "Jumlah": {
-                "2019": "378",
-                "2020": "196",
-                "2021": "133"
+                "2019": 378.0,
+                "2020": 196.0,
+                "2021": 133.0
               }
             }
           },
           {
             "Provinsi": "SULAWESI SELATAN",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "5",
-                "2020": "4",
-                "2021": "1"
+                "2019": 5.0,
+                "2020": 4.0,
+                "2021": 1.0
               },
               "Desa Tertinggal": {
-                "2019": "188",
-                "2020": "163",
-                "2021": "108"
+                "2019": 188.0,
+                "2020": 163.0,
+                "2021": 108.0
               },
               "Jumlah": {
-                "2019": "193",
-                "2020": "167",
-                "2021": "109"
+                "2019": 193.0,
+                "2020": 167.0,
+                "2021": 109.0
               }
             }
           },
           {
             "Provinsi": "SULAWESI TENGGARA",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "12",
-                "2020": "6",
-                "2021": "4"
+                "2019": 12.0,
+                "2020": 6.0,
+                "2021": 4.0
               },
               "Desa Tertinggal": {
-                "2019": "305",
-                "2020": "202",
-                "2021": "136"
+                "2019": 305.0,
+                "2020": 202.0,
+                "2021": 136.0
               },
               "Jumlah": {
-                "2019": "317",
-                "2020": "208",
-                "2021": "140"
+                "2019": 317.0,
+                "2020": 208.0,
+                "2021": 140.0
               }
             }
           },
           {
             "Provinsi": "GORONTALO",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "1",
-                "2020": "0",
-                "2021": "0"
+                "2019": 1.0,
+                "2020": 0.0,
+                "2021": 0.0
               },
               "Desa Tertinggal": {
-                "2019": "28",
-                "2020": "20",
-                "2021": "8"
+                "2019": 28.0,
+                "2020": 20.0,
+                "2021": 8.0
               },
               "Jumlah": {
-                "2019": "29",
-                "2020": "20",
-                "2021": "8"
+                "2019": 29.0,
+                "2020": 20.0,
+                "2021": 8.0
               }
             }
           },
           {
             "Provinsi": "SULAWESI BARAT",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "9",
-                "2020": "5",
-                "2021": "2"
+                "2019": 9.0,
+                "2020": 5.0,
+                "2021": 2.0
               },
               "Desa Tertinggal": {
-                "2019": "194",
-                "2020": "143",
-                "2021": "110"
+                "2019": 194.0,
+                "2020": 143.0,
+                "2021": 110.0
               },
               "Jumlah": {
-                "2019": "203",
-                "2020": "148",
-                "2021": "112"
+                "2019": 203.0,
+                "2020": 148.0,
+                "2021": 112.0
               }
             }
           },
           {
             "Provinsi": "MALUKU",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "122",
-                "2020": "41",
-                "2021": "26"
+                "2019": 122.0,
+                "2020": 41.0,
+                "2021": 26.0
               },
               "Desa Tertinggal": {
-                "2019": "566",
-                "2020": "507",
-                "2021": "418"
+                "2019": 566.0,
+                "2020": 507.0,
+                "2021": 418.0
               },
               "Jumlah": {
-                "2019": "688",
-                "2020": "548",
-                "2021": "444"
+                "2019": 688.0,
+                "2020": 548.0,
+                "2021": 444.0
               }
             }
           },
           {
             "Provinsi": "MALUKU UTARA",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "29",
-                "2020": "11",
-                "2021": "4"
+                "2019": 29.0,
+                "2020": 11.0,
+                "2021": 4.0
               },
               "Desa Tertinggal": {
-                "2019": "473",
-                "2020": "375",
-                "2021": "302"
+                "2019": 473.0,
+                "2020": 375.0,
+                "2021": 302.0
               },
               "Jumlah": {
-                "2019": "502",
-                "2020": "386",
-                "2021": "306"
+                "2019": 502.0,
+                "2020": 386.0,
+                "2021": 306.0
               }
             }
           },
           {
             "Provinsi": "PAPUA BARAT",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "856",
-                "2020": "690",
-                "2021": "564"
+                "2019": 856.0,
+                "2020": 690.0,
+                "2021": 564.0
               },
               "Desa Tertinggal": {
-                "2019": "731",
-                "2020": "868",
-                "2021": "941"
+                "2019": 731.0,
+                "2020": 868.0,
+                "2021": 941.0
               },
               "Jumlah": {
-                "2019": "1587",
-                "2020": "1558",
-                "2021": "1505"
+                "2019": 1587.0,
+                "2020": 1558.0,
+                "2021": 1505.0
               }
             }
           },
           {
             "Provinsi": "PAPUA",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "4152",
-                "2020": "4131",
-                "2021": "3996"
+                "2019": 4152.0,
+                "2020": 4131.0,
+                "2021": 3996.0
               },
               "Desa Tertinggal": {
-                "2019": "942",
-                "2020": "884",
-                "2021": "974"
+                "2019": 942.0,
+                "2020": 884.0,
+                "2021": 974.0
               },
               "Jumlah": {
-                "2019": "5094",
-                "2020": "5015",
-                "2021": "4970"
+                "2019": 5094.0,
+                "2020": 5015.0,
+                "2021": 4970.0
               }
             }
           },
           {
             "Provinsi": "INDONESIA",
-            "Jumlah Desa Tertinggal menurut Provinsi (Desa)": {
+            "Jumlah Desa Tertinggal menurut Provinsi                        (Desa)": {
               "Desa Sangat Tertinggal": {
-                "2019": "6180",
-                "2020": "5469",
-                "2021": "5061"
+                "2019": 6180.0,
+                "2020": 5469.0,
+                "2021": 5061.0
               },
               "Desa Tertinggal": {
-                "2019": "12972",
-                "2020": "9777",
-                "2021": "8154"
+                "2019": 12972.0,
+                "2020": 9777.0,
+                "2021": 8154.0
               },
               "Jumlah": {
-                "2019": "19152",
-                "2020": "15246",
-                "2021": "13215"
+                "2019": 19152.0,
+                "2020": 15246.0,
+                "2021": 13215.0
               }
             }
           }
@@ -1044,16 +1044,16 @@
         "data_tables": [
           {
             "Wilayah": "Indonesia",
-            "Rata-Rata Pertumbuhan Ekonomi Di Daerah Tertinggal (Persen)": {
-              "2017": "5.26",
-              "2018": "4.99",
-              "2019": "5.11",
-              "2014": "5.96",
-              "2015": "6.53",
-              "2016": "5.41",
-              "2011": "6.30",
-              "2012": "6.28",
-              "2013": "6.17"
+            "Rata-Rata Pertumbuhan Ekonomi Di Daerah Tertinggal                        (Persen)": {
+              "2017": 5.26,
+              "2018": 4.99,
+              "2019": 5.11,
+              "2014": 5.96,
+              "2015": 6.53,
+              "2016": 5.41,
+              "2011": 6.3,
+              "2012": 6.28,
+              "2013": 6.17
             }
           }
         ]
@@ -1072,14 +1072,14 @@
           {
             "Lembaga Tangguh Bencana-Perangkat": "BNPB - LGSAT, Scorecard, IKD",
             "Kab/Kota Lokasi Penilaian Ketangguhan Bencana": {
-              "2017": "5",
-              "2018": "4",
-              "2019": "3",
-              "2014": "20",
-              "2015": "7",
-              "2016": "10",
-              "2012": "5",
-              "2013": "26"
+              "2017": 5.0,
+              "2018": 4.0,
+              "2019": 3.0,
+              "2014": 20.0,
+              "2015": 7.0,
+              "2016": 10.0,
+              "2012": 5.0,
+              "2013": 26.0
             }
           },
           {
@@ -1090,7 +1090,7 @@
               "2019": "-",
               "2014": "-",
               "2015": "-",
-              "2016": "9",
+              "2016": 9.0,
               "2012": "-",
               "2013": "-"
             }
@@ -1103,7 +1103,7 @@
               "2019": "-",
               "2014": "-",
               "2015": "-",
-              "2016": "11",
+              "2016": 11.0,
               "2012": "-",
               "2013": "-"
             }
@@ -1117,7 +1117,7 @@
               "2014": "-",
               "2015": "-",
               "2016": "-",
-              "2012": "1",
+              "2012": 1.0,
               "2013": "-"
             }
           },
@@ -1129,7 +1129,7 @@
               "2019": "-",
               "2014": "-",
               "2015": "-",
-              "2016": "1",
+              "2016": 1.0,
               "2012": "-",
               "2013": "-"
             }
@@ -1138,7 +1138,7 @@
             "Lembaga Tangguh Bencana-Perangkat": "Pemkab Badung - Scorecard, IKD",
             "Kab/Kota Lokasi Penilaian Ketangguhan Bencana": {
               "2017": "-",
-              "2018": "1",
+              "2018": 1.0,
               "2019": "-",
               "2014": "-",
               "2015": "-",
@@ -1153,7 +1153,7 @@
               "2017": "-",
               "2018": "-",
               "2019": "-",
-              "2014": "1",
+              "2014": 1.0,
               "2015": "-",
               "2016": "-",
               "2012": "-",
@@ -1166,7 +1166,7 @@
               "2017": "-",
               "2018": "-",
               "2019": "-",
-              "2014": "2",
+              "2014": 2.0,
               "2015": "-",
               "2016": "-",
               "2012": "-",
@@ -1186,23 +1186,23 @@
         "data_tables": [
           {
             "Kategori Mandiri": "Desa Mandiri",
-            "Jumlah Desa Mandiri (Desa)": {
-              "2014": "2894",
-              "2018": "5559"
+            "Jumlah Desa Mandiri                        (Desa)": {
+              "2014": 2894.0,
+              "2018": 5559.0
             }
           },
           {
             "Kategori Mandiri": "Desa Belum Mandiri",
-            "Jumlah Desa Mandiri (Desa)": {
-              "2014": "70776",
-              "2018": "68111"
+            "Jumlah Desa Mandiri                        (Desa)": {
+              "2014": 70776.0,
+              "2018": 68111.0
             }
           },
           {
             "Kategori Mandiri": "Total",
-            "Jumlah Desa Mandiri (Desa)": {
-              "2014": "73670",
-              "2018": "73670"
+            "Jumlah Desa Mandiri                        (Desa)": {
+              "2014": 73670.0,
+              "2018": 73670.0
             }
           }
         ]
@@ -1218,16 +1218,16 @@
         "data_tables": [
           {
             "Kategori Desa": "Desa Tertinggal",
-            "Jumlah Desa Tertinggal (Desa)": {
-              "2014": "20432",
-              "2018": "13232"
+            "Jumlah Desa Tertinggal                        (Desa)": {
+              "2014": 20432.0,
+              "2018": 13232.0
             }
           },
           {
             "Kategori Desa": "Desa Tidak Tertinggal",
-            "Jumlah Desa Tertinggal (Desa)": {
-              "2014": "53661",
-              "2018": "60438"
+            "Jumlah Desa Tertinggal                        (Desa)": {
+              "2014": 53661.0,
+              "2018": 60438.0
             }
           }
         ]
@@ -1246,53 +1246,53 @@
           {
             "Daerah Aliran Sungai Terpadu": "Dam Pengendali",
             "Jumlah Rencana Pengelolaan Daerah Aliran Sungai Terpadu (RPDAST) yang Diinternalisasi ke dalam Rencana Tata Ruang Wilayah (RTRW)": {
-              "2016": "0",
-              "2017": "1",
-              "2018": "0",
-              "2013": "56",
-              "2014": "75",
-              "2015": "2",
-              "2011": "43",
-              "2012": "67"
+              "2016": 0.0,
+              "2017": 1.0,
+              "2018": 0.0,
+              "2013": 56.0,
+              "2014": 75.0,
+              "2015": 2.0,
+              "2011": 43.0,
+              "2012": 67.0
             }
           },
           {
             "Daerah Aliran Sungai Terpadu": "Dam Penahan",
             "Jumlah Rencana Pengelolaan Daerah Aliran Sungai Terpadu (RPDAST) yang Diinternalisasi ke dalam Rencana Tata Ruang Wilayah (RTRW)": {
-              "2016": "284",
-              "2017": "1853",
-              "2018": "691",
-              "2013": "645",
-              "2014": "474",
-              "2015": "2015",
-              "2011": "407",
-              "2012": "541"
+              "2016": 284.0,
+              "2017": 1853.0,
+              "2018": 691.0,
+              "2013": 645.0,
+              "2014": 474.0,
+              "2015": 2015.0,
+              "2011": 407.0,
+              "2012": 541.0
             }
           },
           {
             "Daerah Aliran Sungai Terpadu": "Embung Air",
             "Jumlah Rencana Pengelolaan Daerah Aliran Sungai Terpadu (RPDAST) yang Diinternalisasi ke dalam Rencana Tata Ruang Wilayah (RTRW)": {
-              "2016": "0",
-              "2017": "0",
-              "2018": "0",
-              "2013": "133",
-              "2014": "124",
-              "2015": "0",
-              "2011": "131",
-              "2012": "168"
+              "2016": 0.0,
+              "2017": 0.0,
+              "2018": 0.0,
+              "2013": 133.0,
+              "2014": 124.0,
+              "2015": 0.0,
+              "2011": 131.0,
+              "2012": 168.0
             }
           },
           {
             "Daerah Aliran Sungai Terpadu": "Sumur resapan",
             "Jumlah Rencana Pengelolaan Daerah Aliran Sungai Terpadu (RPDAST) yang Diinternalisasi ke dalam Rencana Tata Ruang Wilayah (RTRW)": {
-              "2016": "755",
-              "2017": "6417",
-              "2018": "6000",
-              "2013": "1095",
-              "2014": "1120",
-              "2015": "3443",
-              "2011": "1482",
-              "2012": "1641"
+              "2016": 755.0,
+              "2017": 6417.0,
+              "2018": 6000.0,
+              "2013": 1095.0,
+              "2014": 1120.0,
+              "2015": 3443.0,
+              "2011": 1482.0,
+              "2012": 1641.0
             }
           },
           {
@@ -1301,11 +1301,11 @@
               "2016": "-",
               "2017": "-",
               "2018": "-",
-              "2013": "2031",
-              "2014": "1929",
-              "2015": "6190",
-              "2011": "2063",
-              "2012": "2484"
+              "2013": 2031.0,
+              "2014": 1929.0,
+              "2015": 6190.0,
+              "2011": 2063.0,
+              "2012": 2484.0
             }
           }
         ]
@@ -1324,20 +1324,20 @@
             "Provinsi": "ACEH",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "761.00",
-                "2014": "748.00",
-                "2018": "723.00",
-                "2003": "507.00",
-                "2005": "660.00",
-                "2008": "678.00"
+                "2011": 761.0,
+                "2014": 748.0,
+                "2018": 723.0,
+                "2003": 507.0,
+                "2005": 660.0,
+                "2008": 678.0
               },
               "Bukan Tepi Laut": {
-                "2011": "5722.00",
-                "2014": "5764.00",
-                "2018": "5785.00",
-                "2003": "5229.00",
-                "2005": "5308.00",
-                "2008": "5746.00"
+                "2011": 5722.0,
+                "2014": 5764.0,
+                "2018": 5785.0,
+                "2003": 5229.0,
+                "2005": 5308.0,
+                "2008": 5746.0
               }
             }
           },
@@ -1345,20 +1345,20 @@
             "Provinsi": "SUMATERA UTARA",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "396.00",
-                "2014": "459.00",
-                "2018": "423.00",
-                "2003": "336.00",
-                "2005": "175.00",
-                "2008": "375.00"
+                "2011": 396.0,
+                "2014": 459.0,
+                "2018": 423.0,
+                "2003": 336.0,
+                "2005": 175.0,
+                "2008": 375.0
               },
               "Bukan Tepi Laut": {
-                "2011": "5401.00",
-                "2014": "5645.00",
-                "2018": "5709.00",
-                "2003": "5043.00",
-                "2005": "4740.00",
-                "2008": "5392.00"
+                "2011": 5401.0,
+                "2014": 5645.0,
+                "2018": 5709.0,
+                "2003": 5043.0,
+                "2005": 4740.0,
+                "2008": 5392.0
               }
             }
           },
@@ -1366,20 +1366,20 @@
             "Provinsi": "SUMATERA BARAT",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "116.00",
-                "2014": "127.00",
-                "2018": "132.00",
-                "2003": "80.00",
-                "2005": "99.00",
-                "2008": "102.00"
+                "2011": 116.0,
+                "2014": 127.0,
+                "2018": 132.0,
+                "2003": 80.0,
+                "2005": 99.0,
+                "2008": 102.0
               },
               "Bukan Tepi Laut": {
-                "2011": "917.00",
-                "2014": "1018.00",
-                "2018": "1143.00",
-                "2003": "795.00",
-                "2005": "802.00",
-                "2008": "822.00"
+                "2011": 917.0,
+                "2014": 1018.0,
+                "2018": 1143.0,
+                "2003": 795.0,
+                "2005": 802.0,
+                "2008": 822.0
               }
             }
           },
@@ -1387,20 +1387,20 @@
             "Provinsi": "RIAU",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "232.00",
-                "2014": "271.00",
-                "2018": "254.00",
-                "2003": "346.00",
-                "2005": "406.00",
-                "2008": "186.00"
+                "2011": 232.0,
+                "2014": 271.0,
+                "2018": 254.0,
+                "2003": 346.0,
+                "2005": 406.0,
+                "2008": 186.0
               },
               "Bukan Tepi Laut": {
-                "2011": "1423.00",
-                "2014": "1564.00",
-                "2018": "1621.00",
-                "2003": "1279.00",
-                "2005": "1326.00",
-                "2008": "1418.00"
+                "2011": 1423.0,
+                "2014": 1564.0,
+                "2018": 1621.0,
+                "2003": 1279.0,
+                "2005": 1326.0,
+                "2008": 1418.0
               }
             }
           },
@@ -1408,20 +1408,20 @@
             "Provinsi": "JAMBI",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "29.00",
-                "2014": "30.00",
-                "2018": "28.00",
-                "2003": "28.00",
-                "2005": "28.00",
-                "2008": "28.00"
+                "2011": 29.0,
+                "2014": 30.0,
+                "2018": 28.0,
+                "2003": 28.0,
+                "2005": 28.0,
+                "2008": 28.0
               },
               "Bukan Tepi Laut": {
-                "2011": "1343.00",
-                "2014": "1521.00",
-                "2018": "1534.00",
-                "2003": "1161.00",
-                "2005": "1207.00",
-                "2008": "1275.00"
+                "2011": 1343.0,
+                "2014": 1521.0,
+                "2018": 1534.0,
+                "2003": 1161.0,
+                "2005": 1207.0,
+                "2008": 1275.0
               }
             }
           },
@@ -1429,20 +1429,20 @@
             "Provinsi": "SUMATERA SELATAN",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "34.00",
-                "2014": "29.00",
-                "2018": "25.00",
-                "2003": "16.00",
-                "2005": "19.00",
-                "2008": "22.00"
+                "2011": 34.0,
+                "2014": 29.0,
+                "2018": 25.0,
+                "2003": 16.0,
+                "2005": 19.0,
+                "2008": 22.0
               },
               "Bukan Tepi Laut": {
-                "2011": "3152.00",
-                "2014": "3208.00",
-                "2018": "3237.00",
-                "2003": "2691.00",
-                "2005": "2759.00",
-                "2008": "3057.00"
+                "2011": 3152.0,
+                "2014": 3208.0,
+                "2018": 3237.0,
+                "2003": 2691.0,
+                "2005": 2759.0,
+                "2008": 3057.0
               }
             }
           },
@@ -1450,20 +1450,20 @@
             "Provinsi": "BENGKULU",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "182.00",
-                "2014": "186.00",
-                "2018": "184.00",
-                "2003": "134.00",
-                "2005": "157.00",
-                "2008": "166.00"
+                "2011": 182.0,
+                "2014": 186.0,
+                "2018": 184.0,
+                "2003": 134.0,
+                "2005": 157.0,
+                "2008": 166.0
               },
               "Bukan Tepi Laut": {
-                "2011": "1327.00",
-                "2014": "1346.00",
-                "2018": "1330.00",
-                "2003": "1029.00",
-                "2005": "1067.00",
-                "2008": "1185.00"
+                "2011": 1327.0,
+                "2014": 1346.0,
+                "2018": 1330.0,
+                "2003": 1029.0,
+                "2005": 1067.0,
+                "2008": 1185.0
               }
             }
           },
@@ -1471,20 +1471,20 @@
             "Provinsi": "LAMPUNG",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "231.00",
-                "2014": "241.00",
-                "2018": "231.00",
-                "2003": "170.00",
-                "2005": "186.00",
-                "2008": "203.00"
+                "2011": 231.0,
+                "2014": 241.0,
+                "2018": 231.0,
+                "2003": 170.0,
+                "2005": 186.0,
+                "2008": 203.0
               },
               "Bukan Tepi Laut": {
-                "2011": "2233.00",
-                "2014": "2391.00",
-                "2018": "2423.00",
-                "2003": "1958.00",
-                "2005": "2005.00",
-                "2008": "2136.00"
+                "2011": 2233.0,
+                "2014": 2391.0,
+                "2018": 2423.0,
+                "2003": 1958.0,
+                "2005": 2005.0,
+                "2008": 2136.0
               }
             }
           },
@@ -1492,20 +1492,20 @@
             "Provinsi": "KEP. BANGKA BELITUNG",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "163.00",
-                "2014": "166.00",
-                "2018": "160.00",
-                "2003": "122.00",
-                "2005": "105.00",
-                "2008": "137.00"
+                "2011": 163.0,
+                "2014": 166.0,
+                "2018": 160.0,
+                "2003": 122.0,
+                "2005": 105.0,
+                "2008": 137.0
               },
               "Bukan Tepi Laut": {
-                "2011": "198.00",
-                "2014": "215.00",
-                "2018": "231.00",
-                "2003": "195.00",
-                "2005": "216.00",
-                "2008": "207.00"
+                "2011": 198.0,
+                "2014": 215.0,
+                "2018": 231.0,
+                "2003": 195.0,
+                "2005": 216.0,
+                "2008": 207.0
               }
             }
           },
@@ -1513,20 +1513,20 @@
             "Provinsi": "KEP. RIAU",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "299.00",
-                "2014": "361.00",
-                "2018": "355.00",
+                "2011": 299.0,
+                "2014": 361.0,
+                "2018": 355.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "267.00"
+                "2008": 267.0
               },
               "Bukan Tepi Laut": {
-                "2011": "54.00",
-                "2014": "54.00",
-                "2018": "61.00",
+                "2011": 54.0,
+                "2014": 54.0,
+                "2018": 61.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "59.00"
+                "2008": 59.0
               }
             }
           },
@@ -1534,20 +1534,20 @@
             "Provinsi": "DKI JAKARTA",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "16.00",
-                "2014": "16.00",
-                "2018": "15.00",
-                "2003": "16.00",
-                "2005": "16.00",
-                "2008": "15.00"
+                "2011": 16.0,
+                "2014": 16.0,
+                "2018": 15.0,
+                "2003": 16.0,
+                "2005": 16.0,
+                "2008": 15.0
               },
               "Bukan Tepi Laut": {
-                "2011": "251.00",
-                "2014": "251.00",
-                "2018": "252.00",
-                "2003": "251.00",
-                "2005": "251.00",
-                "2008": "252.00"
+                "2011": 251.0,
+                "2014": 251.0,
+                "2018": 252.0,
+                "2003": 251.0,
+                "2005": 251.0,
+                "2008": 252.0
               }
             }
           },
@@ -1555,20 +1555,20 @@
             "Provinsi": "JAWA BARAT",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "217.00",
-                "2014": "227.00",
-                "2018": "221.00",
-                "2003": "219.00",
-                "2005": "193.00",
-                "2008": "217.00"
+                "2011": 217.0,
+                "2014": 227.0,
+                "2018": 221.0,
+                "2003": 219.0,
+                "2005": 193.0,
+                "2008": 217.0
               },
               "Bukan Tepi Laut": {
-                "2011": "5688.00",
-                "2014": "5735.00",
-                "2018": "5736.00",
-                "2003": "5539.00",
-                "2005": "5615.00",
-                "2008": "5654.00"
+                "2011": 5688.0,
+                "2014": 5735.0,
+                "2018": 5736.0,
+                "2003": 5539.0,
+                "2005": 5615.0,
+                "2008": 5654.0
               }
             }
           },
@@ -1576,20 +1576,20 @@
             "Provinsi": "JAWA TENGAH",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "347.00",
-                "2014": "357.00",
-                "2018": "355.00",
-                "2003": "334.00",
-                "2005": "334.00",
-                "2008": "329.00"
+                "2011": 347.0,
+                "2014": 357.0,
+                "2018": 355.0,
+                "2003": 334.0,
+                "2005": 334.0,
+                "2008": 329.0
               },
               "Bukan Tepi Laut": {
-                "2011": "8230.00",
-                "2014": "8221.00",
-                "2018": "8204.00",
-                "2003": "8221.00",
-                "2005": "8230.00",
-                "2008": "8245.00"
+                "2011": 8230.0,
+                "2014": 8221.0,
+                "2018": 8204.0,
+                "2003": 8221.0,
+                "2005": 8230.0,
+                "2008": 8245.0
               }
             }
           },
@@ -1597,20 +1597,20 @@
             "Provinsi": "DI YOGYAKARTA",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "33.00",
-                "2014": "33.00",
-                "2018": "33.00",
-                "2003": "30.00",
-                "2005": "32.00",
-                "2008": "33.00"
+                "2011": 33.0,
+                "2014": 33.0,
+                "2018": 33.0,
+                "2003": 30.0,
+                "2005": 32.0,
+                "2008": 33.0
               },
               "Bukan Tepi Laut": {
-                "2011": "405.00",
-                "2014": "405.00",
-                "2018": "405.00",
-                "2003": "408.00",
-                "2005": "406.00",
-                "2008": "405.00"
+                "2011": 405.0,
+                "2014": 405.0,
+                "2018": 405.0,
+                "2003": 408.0,
+                "2005": 406.0,
+                "2008": 405.0
               }
             }
           },
@@ -1618,20 +1618,20 @@
             "Provinsi": "JAWA TIMUR",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "655.00",
-                "2014": "678.00",
-                "2018": "655.00",
-                "2003": "567.00",
-                "2005": "571.00",
-                "2008": "611.00"
+                "2011": 655.0,
+                "2014": 678.0,
+                "2018": 655.0,
+                "2003": 567.0,
+                "2005": 571.0,
+                "2008": 611.0
               },
               "Bukan Tepi Laut": {
-                "2011": "7847.00",
-                "2014": "7824.00",
-                "2018": "7841.00",
-                "2003": "7898.00",
-                "2005": "7906.00",
-                "2008": "7894.00"
+                "2011": 7847.0,
+                "2014": 7824.0,
+                "2018": 7841.0,
+                "2003": 7898.0,
+                "2005": 7906.0,
+                "2008": 7894.0
               }
             }
           },
@@ -1639,20 +1639,20 @@
             "Provinsi": "BANTEN",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "131.00",
-                "2014": "135.00",
-                "2018": "133.00",
-                "2003": "114.00",
-                "2005": "123.00",
-                "2008": "124.00"
+                "2011": 131.0,
+                "2014": 135.0,
+                "2018": 133.0,
+                "2003": 114.0,
+                "2005": 123.0,
+                "2008": 124.0
               },
               "Bukan Tepi Laut": {
-                "2011": "1404.00",
-                "2014": "1416.00",
-                "2018": "1419.00",
-                "2003": "1365.00",
-                "2005": "1359.00",
-                "2008": "1380.00"
+                "2011": 1404.0,
+                "2014": 1416.0,
+                "2018": 1419.0,
+                "2003": 1365.0,
+                "2005": 1359.0,
+                "2008": 1380.0
               }
             }
           },
@@ -1660,20 +1660,20 @@
             "Provinsi": "BALI",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "177.00",
-                "2014": "175.00",
-                "2018": "175.00",
-                "2003": "150.00",
-                "2005": "156.00",
-                "2008": "167.00"
+                "2011": 177.0,
+                "2014": 175.0,
+                "2018": 175.0,
+                "2003": 150.0,
+                "2005": 156.0,
+                "2008": 167.0
               },
               "Bukan Tepi Laut": {
-                "2011": "539.00",
-                "2014": "541.00",
-                "2018": "541.00",
-                "2003": "536.00",
-                "2005": "545.00",
-                "2008": "545.00"
+                "2011": 539.0,
+                "2014": 541.0,
+                "2018": 541.0,
+                "2003": 536.0,
+                "2005": 545.0,
+                "2008": 545.0
               }
             }
           },
@@ -1681,20 +1681,20 @@
             "Provinsi": "NUSA TENGGARA BARAT",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "279.00",
-                "2014": "301.00",
-                "2018": "297.00",
-                "2003": "183.00",
-                "2005": "184.00",
-                "2008": "241.00"
+                "2011": 279.0,
+                "2014": 301.0,
+                "2018": 297.0,
+                "2003": 183.0,
+                "2005": 184.0,
+                "2008": 241.0
               },
               "Bukan Tepi Laut": {
-                "2011": "805.00",
-                "2014": "840.00",
-                "2018": "846.00",
-                "2003": "555.00",
-                "2005": "636.00",
-                "2008": "672.00"
+                "2011": 805.0,
+                "2014": 840.0,
+                "2018": 846.0,
+                "2003": 555.0,
+                "2005": 636.0,
+                "2008": 672.0
               }
             }
           },
@@ -1702,20 +1702,20 @@
             "Provinsi": "NUSA TENGGARA TIMUR",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "943.00",
-                "2014": "1011.00",
-                "2018": "1018.00",
-                "2003": "768.00",
-                "2005": "815.00",
-                "2008": "841.00"
+                "2011": 943.0,
+                "2014": 1011.0,
+                "2018": 1018.0,
+                "2003": 768.0,
+                "2005": 815.0,
+                "2008": 841.0
               },
               "Bukan Tepi Laut": {
-                "2011": "2023.00",
-                "2014": "2259.00",
-                "2018": "2335.00",
-                "2003": "1782.00",
-                "2005": "1923.00",
-                "2008": "1962.00"
+                "2011": 2023.0,
+                "2014": 2259.0,
+                "2018": 2335.0,
+                "2003": 1782.0,
+                "2005": 1923.0,
+                "2008": 1962.0
               }
             }
           },
@@ -1723,20 +1723,20 @@
             "Provinsi": "KALIMANTAN BARAT",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "163.00",
-                "2014": "161.00",
-                "2018": "158.00",
-                "2003": "130.00",
-                "2005": "138.00",
-                "2008": "153.00"
+                "2011": 163.0,
+                "2014": 161.0,
+                "2018": 158.0,
+                "2003": 130.0,
+                "2005": 138.0,
+                "2008": 153.0
               },
               "Bukan Tepi Laut": {
-                "2011": "1804.00",
-                "2014": "1948.00",
-                "2018": "1979.00",
-                "2003": "1309.00",
-                "2005": "1392.00",
-                "2008": "1638.00"
+                "2011": 1804.0,
+                "2014": 1948.0,
+                "2018": 1979.0,
+                "2003": 1309.0,
+                "2005": 1392.0,
+                "2008": 1638.0
               }
             }
           },
@@ -1744,20 +1744,20 @@
             "Provinsi": "KALIMANTAN TENGAH",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "45.00",
-                "2014": "44.00",
-                "2018": "45.00",
-                "2003": "40.00",
-                "2005": "34.00",
-                "2008": "41.00"
+                "2011": 45.0,
+                "2014": 44.0,
+                "2018": 45.0,
+                "2003": 40.0,
+                "2005": 34.0,
+                "2008": 41.0
               },
               "Bukan Tepi Laut": {
-                "2011": "1483.00",
-                "2014": "1525.00",
-                "2018": "1531.00",
-                "2003": "1290.00",
-                "2005": "1317.00",
-                "2008": "1407.00"
+                "2011": 1483.0,
+                "2014": 1525.0,
+                "2018": 1531.0,
+                "2003": 1290.0,
+                "2005": 1317.0,
+                "2008": 1407.0
               }
             }
           },
@@ -1765,20 +1765,20 @@
             "Provinsi": "KALIMANTAN SELATAN",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "166.00",
-                "2014": "165.00",
-                "2018": "165.00",
-                "2003": "135.00",
-                "2005": "131.00",
-                "2008": "135.00"
+                "2011": 166.0,
+                "2014": 165.0,
+                "2018": 165.0,
+                "2003": 135.0,
+                "2005": 131.0,
+                "2008": 135.0
               },
               "Bukan Tepi Laut": {
-                "2011": "1834.00",
-                "2014": "1843.00",
-                "2018": "1843.00",
-                "2003": "1814.00",
-                "2005": "1828.00",
-                "2008": "1839.00"
+                "2011": 1834.0,
+                "2014": 1843.0,
+                "2018": 1843.0,
+                "2003": 1814.0,
+                "2005": 1828.0,
+                "2008": 1839.0
               }
             }
           },
@@ -1786,20 +1786,20 @@
             "Provinsi": "KALIMANTAN TIMUR",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "218.00",
-                "2014": "175.00",
-                "2018": "156.00",
-                "2003": "131.00",
-                "2005": "168.00",
-                "2008": "179.00"
+                "2011": 218.0,
+                "2014": 175.0,
+                "2018": 156.0,
+                "2003": 131.0,
+                "2005": 168.0,
+                "2008": 179.0
               },
               "Bukan Tepi Laut": {
-                "2011": "1247.00",
-                "2014": "851.00",
-                "2018": "882.00",
-                "2003": "1168.00",
-                "2005": "1176.00",
-                "2008": "1238.00"
+                "2011": 1247.0,
+                "2014": 851.0,
+                "2018": 882.0,
+                "2003": 1168.0,
+                "2005": 1176.0,
+                "2008": 1238.0
               }
             }
           },
@@ -1808,16 +1808,16 @@
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
                 "2011": "-",
-                "2014": "55.00",
-                "2018": "56.00",
+                "2014": 55.0,
+                "2018": 56.0,
                 "2003": "-",
                 "2005": "-",
                 "2008": "-"
               },
               "Bukan Tepi Laut": {
                 "2011": "-",
-                "2014": "424.00",
-                "2018": "426.00",
+                "2014": 424.0,
+                "2018": 426.0,
                 "2003": "-",
                 "2005": "-",
                 "2008": "-"
@@ -1828,20 +1828,20 @@
             "Provinsi": "SULAWESI UTARA",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "721.00",
-                "2014": "778.00",
-                "2018": "783.00",
-                "2003": "456.00",
-                "2005": "509.00",
-                "2008": "627.00"
+                "2011": 721.0,
+                "2014": 778.0,
+                "2018": 783.0,
+                "2003": 456.0,
+                "2005": 509.0,
+                "2008": 627.0
               },
               "Bukan Tepi Laut": {
-                "2011": "972.00",
-                "2014": "1058.00",
-                "2018": "1055.00",
-                "2003": "740.00",
-                "2005": "760.00",
-                "2008": "867.00"
+                "2011": 972.0,
+                "2014": 1058.0,
+                "2018": 1055.0,
+                "2003": 740.0,
+                "2005": 760.0,
+                "2008": 867.0
               }
             }
           },
@@ -1849,20 +1849,20 @@
             "Provinsi": "SULAWESI TENGAH",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "901.00",
-                "2014": "1021.00",
-                "2018": "1011.00",
-                "2003": "684.00",
-                "2005": "770.00",
-                "2008": "839.00"
+                "2011": 901.0,
+                "2014": 1021.0,
+                "2018": 1011.0,
+                "2003": 684.0,
+                "2005": 770.0,
+                "2008": 839.0
               },
               "Bukan Tepi Laut": {
-                "2011": "914.00",
-                "2014": "965.00",
-                "2018": "1009.00",
-                "2003": "756.00",
-                "2005": "760.00",
-                "2008": "847.00"
+                "2011": 914.0,
+                "2014": 965.0,
+                "2018": 1009.0,
+                "2003": 756.0,
+                "2005": 760.0,
+                "2008": 847.0
               }
             }
           },
@@ -1870,20 +1870,20 @@
             "Provinsi": "SULAWESI SELATAN",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "504.00",
-                "2014": "531.00",
-                "2018": "527.00",
-                "2003": "547.00",
-                "2005": "547.00",
-                "2008": "485.00"
+                "2011": 504.0,
+                "2014": 531.0,
+                "2018": 527.0,
+                "2003": 547.0,
+                "2005": 547.0,
+                "2008": 485.0
               },
               "Bukan Tepi Laut": {
-                "2011": "2478.00",
-                "2014": "2499.00",
-                "2018": "2522.00",
-                "2003": "2537.00",
-                "2005": "2739.00",
-                "2008": "2461.00"
+                "2011": 2478.0,
+                "2014": 2499.0,
+                "2018": 2522.0,
+                "2003": 2537.0,
+                "2005": 2739.0,
+                "2008": 2461.0
               }
             }
           },
@@ -1891,20 +1891,20 @@
             "Provinsi": "SULAWESI TENGGARA",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "813.00",
-                "2014": "947.00",
-                "2018": "954.00",
-                "2003": "590.00",
-                "2005": "658.00",
-                "2008": "771.00"
+                "2011": 813.0,
+                "2014": 947.0,
+                "2018": 954.0,
+                "2003": 590.0,
+                "2005": 658.0,
+                "2008": 771.0
               },
               "Bukan Tepi Laut": {
-                "2011": "1308.00",
-                "2014": "1325.00",
-                "2018": "1400.00",
-                "2003": "974.00",
-                "2005": "1027.00",
-                "2008": "1257.00"
+                "2011": 1308.0,
+                "2014": 1325.0,
+                "2018": 1400.0,
+                "2003": 974.0,
+                "2005": 1027.0,
+                "2008": 1257.0
               }
             }
           },
@@ -1912,20 +1912,20 @@
             "Provinsi": "GORONTALO",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "191.00",
-                "2014": "203.00",
-                "2018": "201.00",
-                "2003": "82.00",
-                "2005": "110.00",
-                "2008": "136.00"
+                "2011": 191.0,
+                "2014": 203.0,
+                "2018": 201.0,
+                "2003": 82.0,
+                "2005": 110.0,
+                "2008": 136.0
               },
               "Bukan Tepi Laut": {
-                "2011": "540.00",
-                "2014": "533.00",
-                "2018": "533.00",
-                "2003": "294.00",
-                "2005": "340.00",
-                "2008": "448.00"
+                "2011": 540.0,
+                "2014": 533.0,
+                "2018": 533.0,
+                "2003": 294.0,
+                "2005": 340.0,
+                "2008": 448.0
               }
             }
           },
@@ -1933,20 +1933,20 @@
             "Provinsi": "SULAWESI BARAT",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "148.00",
-                "2014": "152.00",
-                "2018": "152.00",
+                "2011": 148.0,
+                "2014": 152.0,
+                "2018": 152.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "122.00"
+                "2008": 122.0
               },
               "Bukan Tepi Laut": {
-                "2011": "490.00",
-                "2014": "496.00",
-                "2018": "498.00",
+                "2011": 490.0,
+                "2014": 496.0,
+                "2018": 498.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "414.00"
+                "2008": 414.0
               }
             }
           },
@@ -1954,20 +1954,20 @@
             "Provinsi": "MALUKU",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "859.00",
-                "2014": "914.00",
-                "2018": "1064.00",
-                "2003": "708.00",
-                "2005": "733.00",
-                "2008": "772.00"
+                "2011": 859.0,
+                "2014": 914.0,
+                "2018": 1064.0,
+                "2003": 708.0,
+                "2005": 733.0,
+                "2008": 772.0
               },
               "Bukan Tepi Laut": {
-                "2011": "165.00",
-                "2014": "174.00",
-                "2018": "176.00",
-                "2003": "128.00",
-                "2005": "140.00",
-                "2008": "134.00"
+                "2011": 165.0,
+                "2014": 174.0,
+                "2018": 176.0,
+                "2003": 128.0,
+                "2005": 140.0,
+                "2008": 134.0
               }
             }
           },
@@ -1975,20 +1975,20 @@
             "Provinsi": "MALUKU UTARA",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "856.00",
-                "2014": "941.00",
-                "2018": "934.00",
-                "2003": "551.00",
-                "2005": "568.00",
-                "2008": "772.00"
+                "2011": 856.0,
+                "2014": 941.0,
+                "2018": 934.0,
+                "2003": 551.0,
+                "2005": 568.0,
+                "2008": 772.0
               },
               "Bukan Tepi Laut": {
-                "2011": "223.00",
-                "2014": "255.00",
-                "2018": "262.00",
-                "2003": "190.00",
-                "2005": "213.00",
-                "2008": "264.00"
+                "2011": 223.0,
+                "2014": 255.0,
+                "2018": 262.0,
+                "2003": 190.0,
+                "2005": 213.0,
+                "2008": 264.0
               }
             }
           },
@@ -1996,20 +1996,20 @@
             "Provinsi": "PAPUA BARAT",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "536.00",
-                "2014": "543.00",
-                "2018": "572.00",
+                "2011": 536.0,
+                "2014": 543.0,
+                "2018": 572.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "416.00"
+                "2008": 416.0
               },
               "Bukan Tepi Laut": {
-                "2011": "903.00",
-                "2014": "1024.00",
-                "2018": "1415.00",
+                "2011": 903.0,
+                "2014": 1024.0,
+                "2018": 1415.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "789.00"
+                "2008": 789.0
               }
             }
           },
@@ -2017,20 +2017,20 @@
             "Provinsi": "PAPUA",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "522.00",
-                "2014": "646.00",
-                "2018": "662.00",
-                "2003": "846.00",
-                "2005": "827.00",
-                "2008": "474.00"
+                "2011": 522.0,
+                "2014": 646.0,
+                "2018": 662.0,
+                "2003": 846.0,
+                "2005": 827.0,
+                "2008": 474.0
               },
               "Bukan Tepi Laut": {
-                "2011": "3402.00",
-                "2014": "4225.00",
-                "2018": "4890.00",
-                "2003": "2661.00",
-                "2005": "2512.00",
-                "2008": "2837.00"
+                "2011": 3402.0,
+                "2014": 4225.0,
+                "2018": 4890.0,
+                "2003": 2661.0,
+                "2005": 2512.0,
+                "2008": 2837.0
               }
             }
           },
@@ -2038,20 +2038,20 @@
             "Provinsi": "INDONESIA",
             "Jumlah Desa Menurut Provinsi dan Letak Geografi": {
               "Tepi Laut": {
-                "2011": "11884.00",
-                "2014": "12827.00",
-                "2018": "12857.00",
-                "2003": "9020.00",
-                "2005": "9452.00",
-                "2008": "10664.00"
+                "2011": 11884.0,
+                "2014": 12827.0,
+                "2018": 12857.0,
+                "2003": 9020.0,
+                "2005": 9452.0,
+                "2008": 10664.0
               },
               "Bukan Tepi Laut": {
-                "2011": "66725.00",
-                "2014": "69363.00",
-                "2018": "71074.00",
-                "2003": "59796.00",
-                "2005": "60505.00",
-                "2008": "64746.00"
+                "2011": 66725.0,
+                "2014": 69363.0,
+                "2018": 71074.0,
+                "2003": 59796.0,
+                "2005": 60505.0,
+                "2008": 64746.0
               }
             }
           }
@@ -2071,28 +2071,28 @@
             "Provinsi": "ACEH",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "206",
-                "2014": "355",
-                "2018": "327",
-                "2003": "333",
-                "2005": "457",
-                "2008": "427"
+                "2011": 206.0,
+                "2014": 355.0,
+                "2018": 327.0,
+                "2003": 333.0,
+                "2005": 457.0,
+                "2008": 427.0
               },
               "Lereng": {
-                "2011": "896",
-                "2014": "538",
-                "2018": "660",
-                "2003": "922",
-                "2005": "937",
-                "2008": "1020"
+                "2011": 896.0,
+                "2014": 538.0,
+                "2018": 660.0,
+                "2003": 922.0,
+                "2005": 937.0,
+                "2008": 1020.0
               },
               "Dataran": {
-                "2011": "5381",
-                "2014": "5619",
-                "2018": "5521",
-                "2003": "3974",
-                "2005": "3914",
-                "2008": "4299"
+                "2011": 5381.0,
+                "2014": 5619.0,
+                "2018": 5521.0,
+                "2003": 3974.0,
+                "2005": 3914.0,
+                "2008": 4299.0
               }
             }
           },
@@ -2100,28 +2100,28 @@
             "Provinsi": "SUMATERA UTARA",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "264",
-                "2014": "582",
-                "2018": "371",
-                "2003": "222",
-                "2005": "316",
-                "2008": "300"
+                "2011": 264.0,
+                "2014": 582.0,
+                "2018": 371.0,
+                "2003": 222.0,
+                "2005": 316.0,
+                "2008": 300.0
               },
               "Lereng": {
-                "2011": "1674",
-                "2014": "1952",
-                "2018": "1732",
-                "2003": "1862",
-                "2005": "1390",
-                "2008": "1686"
+                "2011": 1674.0,
+                "2014": 1952.0,
+                "2018": 1732.0,
+                "2003": 1862.0,
+                "2005": 1390.0,
+                "2008": 1686.0
               },
               "Dataran": {
-                "2011": "3859",
-                "2014": "3570",
-                "2018": "4029",
-                "2003": "2959",
-                "2005": "3034",
-                "2008": "3406"
+                "2011": 3859.0,
+                "2014": 3570.0,
+                "2018": 4029.0,
+                "2003": 2959.0,
+                "2005": 3034.0,
+                "2008": 3406.0
               }
             }
           },
@@ -2129,28 +2129,28 @@
             "Provinsi": "SUMATERA BARAT",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "66",
-                "2014": "51",
-                "2018": "86",
-                "2003": "61",
-                "2005": "72",
-                "2008": "60"
+                "2011": 66.0,
+                "2014": 51.0,
+                "2018": 86.0,
+                "2003": 61.0,
+                "2005": 72.0,
+                "2008": 60.0
               },
               "Lereng": {
-                "2011": "235",
-                "2014": "249",
-                "2018": "234",
-                "2003": "282",
-                "2005": "282",
-                "2008": "273"
+                "2011": 235.0,
+                "2014": 249.0,
+                "2018": 234.0,
+                "2003": 282.0,
+                "2005": 282.0,
+                "2008": 273.0
               },
               "Dataran": {
-                "2011": "732",
-                "2014": "845",
-                "2018": "955",
-                "2003": "452",
-                "2005": "448",
-                "2008": "489"
+                "2011": 732.0,
+                "2014": 845.0,
+                "2018": 955.0,
+                "2003": 452.0,
+                "2005": 448.0,
+                "2008": 489.0
               }
             }
           },
@@ -2158,28 +2158,28 @@
             "Provinsi": "RIAU",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "11",
-                "2014": "16",
-                "2018": "4",
-                "2003": "187",
-                "2005": "194",
-                "2008": "222"
+                "2011": 11.0,
+                "2014": 16.0,
+                "2018": 4.0,
+                "2003": 187.0,
+                "2005": 194.0,
+                "2008": 222.0
               },
               "Lereng": {
-                "2011": "83",
-                "2014": "63",
-                "2018": "28",
-                "2003": "165",
-                "2005": "77",
-                "2008": "105"
+                "2011": 83.0,
+                "2014": 63.0,
+                "2018": 28.0,
+                "2003": 165.0,
+                "2005": 77.0,
+                "2008": 105.0
               },
               "Dataran": {
-                "2011": "1561",
-                "2014": "1756",
-                "2018": "1843",
-                "2003": "927",
-                "2005": "1055",
-                "2008": "1091"
+                "2011": 1561.0,
+                "2014": 1756.0,
+                "2018": 1843.0,
+                "2003": 927.0,
+                "2005": 1055.0,
+                "2008": 1091.0
               }
             }
           },
@@ -2187,28 +2187,28 @@
             "Provinsi": "JAMBI",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "39",
-                "2014": "20",
-                "2018": "46",
-                "2003": "173",
-                "2005": "298",
-                "2008": "235"
+                "2011": 39.0,
+                "2014": 20.0,
+                "2018": 46.0,
+                "2003": 173.0,
+                "2005": 298.0,
+                "2008": 235.0
               },
               "Lereng": {
-                "2011": "157",
-                "2014": "146",
-                "2018": "113",
-                "2003": "187",
-                "2005": "206",
-                "2008": "162"
+                "2011": 157.0,
+                "2014": 146.0,
+                "2018": 113.0,
+                "2003": 187.0,
+                "2005": 206.0,
+                "2008": 162.0
               },
               "Dataran": {
-                "2011": "1176",
-                "2014": "1385",
-                "2018": "1403",
-                "2003": "801",
-                "2005": "703",
-                "2008": "878"
+                "2011": 1176.0,
+                "2014": 1385.0,
+                "2018": 1403.0,
+                "2003": 801.0,
+                "2005": 703.0,
+                "2008": 878.0
               }
             }
           },
@@ -2216,28 +2216,28 @@
             "Provinsi": "SUMATERA SELATAN",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "69",
-                "2014": "27",
-                "2018": "30",
-                "2003": "431",
-                "2005": "496",
-                "2008": "325"
+                "2011": 69.0,
+                "2014": 27.0,
+                "2018": 30.0,
+                "2003": 431.0,
+                "2005": 496.0,
+                "2008": 325.0
               },
               "Lereng": {
-                "2011": "68",
-                "2014": "112",
-                "2018": "83",
-                "2003": "302",
-                "2005": "262",
-                "2008": "253"
+                "2011": 68.0,
+                "2014": 112.0,
+                "2018": 83.0,
+                "2003": 302.0,
+                "2005": 262.0,
+                "2008": 253.0
               },
               "Dataran": {
-                "2011": "3049",
-                "2014": "3098",
-                "2018": "3149",
-                "2003": "1958",
-                "2005": "2001",
-                "2008": "2479"
+                "2011": 3049.0,
+                "2014": 3098.0,
+                "2018": 3149.0,
+                "2003": 1958.0,
+                "2005": 2001.0,
+                "2008": 2479.0
               }
             }
           },
@@ -2245,28 +2245,28 @@
             "Provinsi": "BENGKULU",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "87",
-                "2014": "30",
-                "2018": "7",
-                "2003": "101",
-                "2005": "102",
-                "2008": "114"
+                "2011": 87.0,
+                "2014": 30.0,
+                "2018": 7.0,
+                "2003": 101.0,
+                "2005": 102.0,
+                "2008": 114.0
               },
               "Lereng": {
-                "2011": "309",
-                "2014": "106",
-                "2018": "86",
-                "2003": "288",
-                "2005": "326",
-                "2008": "304"
+                "2011": 309.0,
+                "2014": 106.0,
+                "2018": 86.0,
+                "2003": 288.0,
+                "2005": 326.0,
+                "2008": 304.0
               },
               "Dataran": {
-                "2011": "1113",
-                "2014": "1396",
-                "2018": "1421",
-                "2003": "640",
-                "2005": "639",
-                "2008": "767"
+                "2011": 1113.0,
+                "2014": 1396.0,
+                "2018": 1421.0,
+                "2003": 640.0,
+                "2005": 639.0,
+                "2008": 767.0
               }
             }
           },
@@ -2274,28 +2274,28 @@
             "Provinsi": "LAMPUNG",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "65",
-                "2014": "60",
-                "2018": "23",
-                "2003": "84",
-                "2005": "74",
-                "2008": "71"
+                "2011": 65.0,
+                "2014": 60.0,
+                "2018": 23.0,
+                "2003": 84.0,
+                "2005": 74.0,
+                "2008": 71.0
               },
               "Lereng": {
-                "2011": "270",
-                "2014": "244",
-                "2018": "255",
-                "2003": "292",
-                "2005": "280",
-                "2008": "293"
+                "2011": 270.0,
+                "2014": 244.0,
+                "2018": 255.0,
+                "2003": 292.0,
+                "2005": 280.0,
+                "2008": 293.0
               },
               "Dataran": {
-                "2011": "2129",
-                "2014": "2328",
-                "2018": "2376",
-                "2003": "1582",
-                "2005": "1651",
-                "2008": "1772"
+                "2011": 2129.0,
+                "2014": 2328.0,
+                "2018": 2376.0,
+                "2003": 1582.0,
+                "2005": 1651.0,
+                "2008": 1772.0
               }
             }
           },
@@ -2306,25 +2306,25 @@
                 "2011": "-",
                 "2014": "-",
                 "2018": "-",
-                "2003": "3",
-                "2005": "4",
-                "2008": "2"
+                "2003": 3.0,
+                "2005": 4.0,
+                "2008": 2.0
               },
               "Lereng": {
                 "2011": "-",
                 "2014": "-",
                 "2018": "-",
-                "2003": "10",
-                "2005": "2",
-                "2008": "11"
+                "2003": 10.0,
+                "2005": 2.0,
+                "2008": 11.0
               },
               "Dataran": {
-                "2011": "361",
-                "2014": "381",
-                "2018": "391",
-                "2003": "182",
-                "2005": "210",
-                "2008": "194"
+                "2011": 361.0,
+                "2014": 381.0,
+                "2018": 391.0,
+                "2003": 182.0,
+                "2005": 210.0,
+                "2008": 194.0
               }
             }
           },
@@ -2332,28 +2332,28 @@
             "Provinsi": "KEP. RIAU",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "13",
-                "2014": "8",
-                "2018": "2",
+                "2011": 13.0,
+                "2014": 8.0,
+                "2018": 2.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "2"
+                "2008": 2.0
               },
               "Lereng": {
-                "2011": "55",
-                "2014": "74",
-                "2018": "32",
+                "2011": 55.0,
+                "2014": 74.0,
+                "2018": 32.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "11"
+                "2008": 11.0
               },
               "Dataran": {
-                "2011": "285",
-                "2014": "333",
-                "2018": "382",
+                "2011": 285.0,
+                "2014": 333.0,
+                "2018": 382.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "46"
+                "2008": 46.0
               }
             }
           },
@@ -2364,7 +2364,7 @@
                 "2011": "-",
                 "2014": "-",
                 "2018": "-",
-                "2003": "7",
+                "2003": 7.0,
                 "2005": "-",
                 "2008": "-"
               },
@@ -2372,17 +2372,17 @@
                 "2011": "-",
                 "2014": "-",
                 "2018": "-",
-                "2003": "6",
+                "2003": 6.0,
                 "2005": "-",
                 "2008": "-"
               },
               "Dataran": {
-                "2011": "267",
-                "2014": "267",
-                "2018": "267",
-                "2003": "238",
-                "2005": "251",
-                "2008": "252"
+                "2011": 267.0,
+                "2014": 267.0,
+                "2018": 267.0,
+                "2003": 238.0,
+                "2005": 251.0,
+                "2008": 252.0
               }
             }
           },
@@ -2390,28 +2390,28 @@
             "Provinsi": "JAWA BARAT",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "181",
-                "2014": "190",
-                "2018": "181",
-                "2003": "140",
-                "2005": "110",
-                "2008": "79"
+                "2011": 181.0,
+                "2014": 190.0,
+                "2018": 181.0,
+                "2003": 140.0,
+                "2005": 110.0,
+                "2008": 79.0
               },
               "Lereng": {
-                "2011": "1569",
-                "2014": "1559",
-                "2018": "1128",
-                "2003": "1650",
-                "2005": "1715",
-                "2008": "1749"
+                "2011": 1569.0,
+                "2014": 1559.0,
+                "2018": 1128.0,
+                "2003": 1650.0,
+                "2005": 1715.0,
+                "2008": 1749.0
               },
               "Dataran": {
-                "2011": "4155",
-                "2014": "4213",
-                "2018": "4648",
-                "2003": "3749",
-                "2005": "3790",
-                "2008": "3826"
+                "2011": 4155.0,
+                "2014": 4213.0,
+                "2018": 4648.0,
+                "2003": 3749.0,
+                "2005": 3790.0,
+                "2008": 3826.0
               }
             }
           },
@@ -2419,28 +2419,28 @@
             "Provinsi": "JAWA TENGAH",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "181",
-                "2014": "124",
-                "2018": "80",
-                "2003": "209",
-                "2005": "88",
-                "2008": "56"
+                "2011": 181.0,
+                "2014": 124.0,
+                "2018": 80.0,
+                "2003": 209.0,
+                "2005": 88.0,
+                "2008": 56.0
               },
               "Lereng": {
-                "2011": "2069",
-                "2014": "1848",
-                "2018": "1726",
-                "2003": "2272",
-                "2005": "2166",
-                "2008": "2132"
+                "2011": 2069.0,
+                "2014": 1848.0,
+                "2018": 1726.0,
+                "2003": 2272.0,
+                "2005": 2166.0,
+                "2008": 2132.0
               },
               "Dataran": {
-                "2011": "6327",
-                "2014": "6606",
-                "2018": "6753",
-                "2003": "5740",
-                "2005": "5976",
-                "2008": "6057"
+                "2011": 6327.0,
+                "2014": 6606.0,
+                "2018": 6753.0,
+                "2003": 5740.0,
+                "2005": 5976.0,
+                "2008": 6057.0
               }
             }
           },
@@ -2448,28 +2448,28 @@
             "Provinsi": "DI YOGYAKARTA",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "5",
-                "2014": "2",
+                "2011": 5.0,
+                "2014": 2.0,
                 "2018": "-",
-                "2003": "8",
+                "2003": 8.0,
                 "2005": "-",
                 "2008": "-"
               },
               "Lereng": {
-                "2011": "118",
-                "2014": "105",
-                "2018": "88",
-                "2003": "93",
-                "2005": "97",
-                "2008": "100"
+                "2011": 118.0,
+                "2014": 105.0,
+                "2018": 88.0,
+                "2003": 93.0,
+                "2005": 97.0,
+                "2008": 100.0
               },
               "Dataran": {
-                "2011": "315",
-                "2014": "331",
-                "2018": "350",
-                "2003": "307",
-                "2005": "309",
-                "2008": "305"
+                "2011": 315.0,
+                "2014": 331.0,
+                "2018": 350.0,
+                "2003": 307.0,
+                "2005": 309.0,
+                "2008": 305.0
               }
             }
           },
@@ -2477,28 +2477,28 @@
             "Provinsi": "JAWA TIMUR",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "159",
-                "2014": "104",
-                "2018": "85",
-                "2003": "190",
-                "2005": "106",
-                "2008": "81"
+                "2011": 159.0,
+                "2014": 104.0,
+                "2018": 85.0,
+                "2003": 190.0,
+                "2005": 106.0,
+                "2008": 81.0
               },
               "Lereng": {
-                "2011": "1392",
-                "2014": "1089",
-                "2018": "962",
-                "2003": "1377",
-                "2005": "1323",
-                "2008": "1287"
+                "2011": 1392.0,
+                "2014": 1089.0,
+                "2018": 962.0,
+                "2003": 1377.0,
+                "2005": 1323.0,
+                "2008": 1287.0
               },
               "Dataran": {
-                "2011": "6951",
-                "2014": "7309",
-                "2018": "7449",
-                "2003": "6331",
-                "2005": "6477",
-                "2008": "6526"
+                "2011": 6951.0,
+                "2014": 7309.0,
+                "2018": 7449.0,
+                "2003": 6331.0,
+                "2005": 6477.0,
+                "2008": 6526.0
               }
             }
           },
@@ -2506,28 +2506,28 @@
             "Provinsi": "BANTEN",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "37",
-                "2014": "70",
-                "2018": "52",
-                "2003": "68",
-                "2005": "41",
-                "2008": "28"
+                "2011": 37.0,
+                "2014": 70.0,
+                "2018": 52.0,
+                "2003": 68.0,
+                "2005": 41.0,
+                "2008": 28.0
               },
               "Lereng": {
-                "2011": "248",
-                "2014": "171",
-                "2018": "134",
-                "2003": "252",
-                "2005": "243",
-                "2008": "243"
+                "2011": 248.0,
+                "2014": 171.0,
+                "2018": 134.0,
+                "2003": 252.0,
+                "2005": 243.0,
+                "2008": 243.0
               },
               "Dataran": {
-                "2011": "1250",
-                "2014": "1310",
-                "2018": "1366",
-                "2003": "1045",
-                "2005": "1075",
-                "2008": "1109"
+                "2011": 1250.0,
+                "2014": 1310.0,
+                "2018": 1366.0,
+                "2003": 1045.0,
+                "2005": 1075.0,
+                "2008": 1109.0
               }
             }
           },
@@ -2535,28 +2535,28 @@
             "Provinsi": "BALI",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "20",
-                "2014": "14",
-                "2018": "11",
-                "2003": "7",
-                "2005": "3",
-                "2008": "1"
+                "2011": 20.0,
+                "2014": 14.0,
+                "2018": 11.0,
+                "2003": 7.0,
+                "2005": 3.0,
+                "2008": 1.0
               },
               "Lereng": {
-                "2011": "138",
-                "2014": "123",
-                "2018": "108",
-                "2003": "115",
-                "2005": "98",
-                "2008": "90"
+                "2011": 138.0,
+                "2014": 123.0,
+                "2018": 108.0,
+                "2003": 115.0,
+                "2005": 98.0,
+                "2008": 90.0
               },
               "Dataran": {
-                "2011": "558",
-                "2014": "579",
-                "2018": "597",
-                "2003": "414",
-                "2005": "444",
-                "2008": "454"
+                "2011": 558.0,
+                "2014": 579.0,
+                "2018": 597.0,
+                "2003": 414.0,
+                "2005": 444.0,
+                "2008": 454.0
               }
             }
           },
@@ -2564,28 +2564,28 @@
             "Provinsi": "NUSA TENGGARA BARAT",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "63",
-                "2014": "39",
-                "2018": "49",
-                "2003": "29",
-                "2005": "19",
-                "2008": "15"
+                "2011": 63.0,
+                "2014": 39.0,
+                "2018": 49.0,
+                "2003": 29.0,
+                "2005": 19.0,
+                "2008": 15.0
               },
               "Lereng": {
-                "2011": "169",
-                "2014": "149",
-                "2018": "95",
-                "2003": "92",
-                "2005": "129",
-                "2008": "144"
+                "2011": 169.0,
+                "2014": 149.0,
+                "2018": 95.0,
+                "2003": 92.0,
+                "2005": 129.0,
+                "2008": 144.0
               },
               "Dataran": {
-                "2011": "852",
-                "2014": "953",
-                "2018": "999",
-                "2003": "434",
-                "2005": "488",
-                "2008": "513"
+                "2011": 852.0,
+                "2014": 953.0,
+                "2018": 999.0,
+                "2003": 434.0,
+                "2005": 488.0,
+                "2008": 513.0
               }
             }
           },
@@ -2593,28 +2593,28 @@
             "Provinsi": "NUSA TENGGARA TIMUR",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "317",
-                "2014": "274",
-                "2018": "246",
-                "2003": "86",
-                "2005": "117",
-                "2008": "112"
+                "2011": 317.0,
+                "2014": 274.0,
+                "2018": 246.0,
+                "2003": 86.0,
+                "2005": 117.0,
+                "2008": 112.0
               },
               "Lereng": {
-                "2011": "1385",
-                "2014": "1399",
-                "2018": "1439",
-                "2003": "1325",
-                "2005": "1296",
-                "2008": "1333"
+                "2011": 1385.0,
+                "2014": 1399.0,
+                "2018": 1439.0,
+                "2003": 1325.0,
+                "2005": 1296.0,
+                "2008": 1333.0
               },
               "Dataran": {
-                "2011": "1264",
-                "2014": "1597",
-                "2018": "1668",
-                "2003": "371",
-                "2005": "510",
-                "2008": "517"
+                "2011": 1264.0,
+                "2014": 1597.0,
+                "2018": 1668.0,
+                "2003": 371.0,
+                "2005": 510.0,
+                "2008": 517.0
               }
             }
           },
@@ -2622,28 +2622,28 @@
             "Provinsi": "KALIMANTAN BARAT",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "151",
-                "2014": "86",
-                "2018": "67",
-                "2003": "294",
-                "2005": "456",
-                "2008": "466"
+                "2011": 151.0,
+                "2014": 86.0,
+                "2018": 67.0,
+                "2003": 294.0,
+                "2005": 456.0,
+                "2008": 466.0
               },
               "Lereng": {
-                "2011": "250",
-                "2014": "167",
-                "2018": "111",
-                "2003": "368",
-                "2005": "308",
-                "2008": "394"
+                "2011": 250.0,
+                "2014": 167.0,
+                "2018": 111.0,
+                "2003": 368.0,
+                "2005": 308.0,
+                "2008": 394.0
               },
               "Dataran": {
-                "2011": "1566",
-                "2014": "1856",
-                "2018": "1959",
-                "2003": "647",
-                "2005": "628",
-                "2008": "778"
+                "2011": 1566.0,
+                "2014": 1856.0,
+                "2018": 1959.0,
+                "2003": 647.0,
+                "2005": 628.0,
+                "2008": 778.0
               }
             }
           },
@@ -2651,28 +2651,28 @@
             "Provinsi": "KALIMANTAN TENGAH",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "49",
-                "2014": "49",
-                "2018": "26",
-                "2003": "607",
-                "2005": "789",
-                "2008": "768"
+                "2011": 49.0,
+                "2014": 49.0,
+                "2018": 26.0,
+                "2003": 607.0,
+                "2005": 789.0,
+                "2008": 768.0
               },
               "Lereng": {
-                "2011": "95",
-                "2014": "208",
-                "2018": "94",
-                "2003": "230",
-                "2005": "133",
-                "2008": "151"
+                "2011": 95.0,
+                "2014": 208.0,
+                "2018": 94.0,
+                "2003": 230.0,
+                "2005": 133.0,
+                "2008": 151.0
               },
               "Dataran": {
-                "2011": "1384",
-                "2014": "1312",
-                "2018": "1456",
-                "2003": "453",
-                "2005": "395",
-                "2008": "488"
+                "2011": 1384.0,
+                "2014": 1312.0,
+                "2018": 1456.0,
+                "2003": 453.0,
+                "2005": 395.0,
+                "2008": 488.0
               }
             }
           },
@@ -2680,28 +2680,28 @@
             "Provinsi": "KALIMANTAN SELATAN",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "42",
-                "2014": "16",
-                "2018": "4",
-                "2003": "258",
-                "2005": "172",
-                "2008": "102"
+                "2011": 42.0,
+                "2014": 16.0,
+                "2018": 4.0,
+                "2003": 258.0,
+                "2005": 172.0,
+                "2008": 102.0
               },
               "Lereng": {
-                "2011": "181",
-                "2014": "169",
-                "2018": "122",
-                "2003": "207",
-                "2005": "193",
-                "2008": "207"
+                "2011": 181.0,
+                "2014": 169.0,
+                "2018": 122.0,
+                "2003": 207.0,
+                "2005": 193.0,
+                "2008": 207.0
               },
               "Dataran": {
-                "2011": "1777",
-                "2014": "1823",
-                "2018": "1882",
-                "2003": "1349",
-                "2005": "1463",
-                "2008": "1530"
+                "2011": 1777.0,
+                "2014": 1823.0,
+                "2018": 1882.0,
+                "2003": 1349.0,
+                "2005": 1463.0,
+                "2008": 1530.0
               }
             }
           },
@@ -2709,28 +2709,28 @@
             "Provinsi": "KALIMANTAN TIMUR",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "180",
-                "2014": "48",
-                "2018": "23",
-                "2003": "429",
-                "2005": "409",
-                "2008": "424"
+                "2011": 180.0,
+                "2014": 48.0,
+                "2018": 23.0,
+                "2003": 429.0,
+                "2005": 409.0,
+                "2008": 424.0
               },
               "Lereng": {
-                "2011": "218",
-                "2014": "56",
-                "2018": "38",
-                "2003": "333",
-                "2005": "289",
-                "2008": "278"
+                "2011": 218.0,
+                "2014": 56.0,
+                "2018": 38.0,
+                "2003": 333.0,
+                "2005": 289.0,
+                "2008": 278.0
               },
               "Dataran": {
-                "2011": "1067",
-                "2014": "922",
-                "2018": "977",
-                "2003": "406",
-                "2005": "478",
-                "2008": "536"
+                "2011": 1067.0,
+                "2014": 922.0,
+                "2018": 977.0,
+                "2003": 406.0,
+                "2005": 478.0,
+                "2008": 536.0
               }
             }
           },
@@ -2739,24 +2739,24 @@
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
                 "2011": "-",
-                "2014": "90",
-                "2018": "99",
+                "2014": 90.0,
+                "2018": 99.0,
                 "2003": "-",
                 "2005": "-",
                 "2008": "-"
               },
               "Lereng": {
                 "2011": "-",
-                "2014": "51",
-                "2018": "51",
+                "2014": 51.0,
+                "2018": 51.0,
                 "2003": "-",
                 "2005": "-",
                 "2008": "-"
               },
               "Dataran": {
                 "2011": "-",
-                "2014": "338",
-                "2018": "332",
+                "2014": 338.0,
+                "2018": 332.0,
                 "2003": "-",
                 "2005": "-",
                 "2008": "-"
@@ -2767,28 +2767,28 @@
             "Provinsi": "SULAWESI UTARA",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "110",
-                "2014": "164",
-                "2018": "78",
-                "2003": "45",
-                "2005": "57",
-                "2008": "71"
+                "2011": 110.0,
+                "2014": 164.0,
+                "2018": 78.0,
+                "2003": 45.0,
+                "2005": 57.0,
+                "2008": 71.0
               },
               "Lereng": {
-                "2011": "560",
-                "2014": "427",
-                "2018": "385",
-                "2003": "311",
-                "2005": "263",
-                "2008": "323"
+                "2011": 560.0,
+                "2014": 427.0,
+                "2018": 385.0,
+                "2003": 311.0,
+                "2005": 263.0,
+                "2008": 323.0
               },
               "Dataran": {
-                "2011": "1023",
-                "2014": "1245",
-                "2018": "1375",
-                "2003": "384",
-                "2005": "440",
-                "2008": "473"
+                "2011": 1023.0,
+                "2014": 1245.0,
+                "2018": 1375.0,
+                "2003": 384.0,
+                "2005": 440.0,
+                "2008": 473.0
               }
             }
           },
@@ -2796,28 +2796,28 @@
             "Provinsi": "SULAWESI TENGAH",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "184",
-                "2014": "156",
-                "2018": "137",
-                "2003": "128",
-                "2005": "113",
-                "2008": "84"
+                "2011": 184.0,
+                "2014": 156.0,
+                "2018": 137.0,
+                "2003": 128.0,
+                "2005": 113.0,
+                "2008": 84.0
               },
               "Lereng": {
-                "2011": "332",
-                "2014": "336",
-                "2018": "262",
-                "2003": "223",
-                "2005": "208",
-                "2008": "259"
+                "2011": 332.0,
+                "2014": 336.0,
+                "2018": 262.0,
+                "2003": 223.0,
+                "2005": 208.0,
+                "2008": 259.0
               },
               "Dataran": {
-                "2011": "1299",
-                "2014": "1494",
-                "2018": "1621",
-                "2003": "405",
-                "2005": "439",
-                "2008": "504"
+                "2011": 1299.0,
+                "2014": 1494.0,
+                "2018": 1621.0,
+                "2003": 405.0,
+                "2005": 439.0,
+                "2008": 504.0
               }
             }
           },
@@ -2825,28 +2825,28 @@
             "Provinsi": "SULAWESI SELATAN",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "109",
-                "2014": "118",
-                "2018": "99",
-                "2003": "165",
-                "2005": "192",
-                "2008": "107"
+                "2011": 109.0,
+                "2014": 118.0,
+                "2018": 99.0,
+                "2003": 165.0,
+                "2005": 192.0,
+                "2008": 107.0
               },
               "Lereng": {
-                "2011": "870",
-                "2014": "756",
-                "2018": "678",
-                "2003": "832",
-                "2005": "933",
-                "2008": "802"
+                "2011": 870.0,
+                "2014": 756.0,
+                "2018": 678.0,
+                "2003": 832.0,
+                "2005": 933.0,
+                "2008": 802.0
               },
               "Dataran": {
-                "2011": "2003",
-                "2014": "2156",
-                "2018": "2272",
-                "2003": "1540",
-                "2005": "1614",
-                "2008": "1552"
+                "2011": 2003.0,
+                "2014": 2156.0,
+                "2018": 2272.0,
+                "2003": 1540.0,
+                "2005": 1614.0,
+                "2008": 1552.0
               }
             }
           },
@@ -2854,28 +2854,28 @@
             "Provinsi": "SULAWESI TENGGARA",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "127",
-                "2014": "80",
-                "2018": "88",
-                "2003": "81",
-                "2005": "53",
-                "2008": "94"
+                "2011": 127.0,
+                "2014": 80.0,
+                "2018": 88.0,
+                "2003": 81.0,
+                "2005": 53.0,
+                "2008": 94.0
               },
               "Lereng": {
-                "2011": "358",
-                "2014": "238",
-                "2018": "195",
-                "2003": "269",
-                "2005": "264",
-                "2008": "284"
+                "2011": 358.0,
+                "2014": 238.0,
+                "2018": 195.0,
+                "2003": 269.0,
+                "2005": 264.0,
+                "2008": 284.0
               },
               "Dataran": {
-                "2011": "1636",
-                "2014": "1954",
-                "2018": "2071",
-                "2003": "624",
-                "2005": "710",
-                "2008": "879"
+                "2011": 1636.0,
+                "2014": 1954.0,
+                "2018": 2071.0,
+                "2003": 624.0,
+                "2005": 710.0,
+                "2008": 879.0
               }
             }
           },
@@ -2883,28 +2883,28 @@
             "Provinsi": "GORONTALO",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "39",
-                "2014": "13",
-                "2018": "30",
-                "2003": "10",
-                "2005": "25",
-                "2008": "10"
+                "2011": 39.0,
+                "2014": 13.0,
+                "2018": 30.0,
+                "2003": 10.0,
+                "2005": 25.0,
+                "2008": 10.0
               },
               "Lereng": {
-                "2011": "194",
-                "2014": "209",
-                "2018": "147",
-                "2003": "89",
-                "2005": "89",
-                "2008": "128"
+                "2011": 194.0,
+                "2014": 209.0,
+                "2018": 147.0,
+                "2003": 89.0,
+                "2005": 89.0,
+                "2008": 128.0
               },
               "Dataran": {
-                "2011": "498",
-                "2014": "514",
-                "2018": "557",
-                "2003": "195",
-                "2005": "226",
-                "2008": "310"
+                "2011": 498.0,
+                "2014": 514.0,
+                "2018": 557.0,
+                "2003": 195.0,
+                "2005": 226.0,
+                "2008": 310.0
               }
             }
           },
@@ -2912,28 +2912,28 @@
             "Provinsi": "SULAWESI BARAT",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "63",
-                "2014": "93",
-                "2018": "40",
+                "2011": 63.0,
+                "2014": 93.0,
+                "2018": 40.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "66"
+                "2008": 66.0
               },
               "Lereng": {
-                "2011": "275",
-                "2014": "242",
-                "2018": "282",
+                "2011": 275.0,
+                "2014": 242.0,
+                "2018": 282.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "215"
+                "2008": 215.0
               },
               "Dataran": {
-                "2011": "300",
-                "2014": "313",
-                "2018": "328",
+                "2011": 300.0,
+                "2014": 313.0,
+                "2018": 328.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "133"
+                "2008": 133.0
               }
             }
           },
@@ -2941,28 +2941,28 @@
             "Provinsi": "MALUKU",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "37",
-                "2014": "33",
-                "2018": "21",
-                "2003": "5",
-                "2005": "12",
-                "2008": "3"
+                "2011": 37.0,
+                "2014": 33.0,
+                "2018": 21.0,
+                "2003": 5.0,
+                "2005": 12.0,
+                "2008": 3.0
               },
               "Lereng": {
-                "2011": "239",
-                "2014": "130",
-                "2018": "132",
-                "2003": "47",
-                "2005": "52",
-                "2008": "54"
+                "2011": 239.0,
+                "2014": 130.0,
+                "2018": 132.0,
+                "2003": 47.0,
+                "2005": 52.0,
+                "2008": 54.0
               },
               "Dataran": {
-                "2011": "748",
-                "2014": "925",
-                "2018": "1087",
-                "2003": "76",
-                "2005": "76",
-                "2008": "77"
+                "2011": 748.0,
+                "2014": 925.0,
+                "2018": 1087.0,
+                "2003": 76.0,
+                "2005": 76.0,
+                "2008": 77.0
               }
             }
           },
@@ -2970,28 +2970,28 @@
             "Provinsi": "MALUKU UTARA",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "48",
-                "2014": "12",
-                "2018": "30",
-                "2003": "17",
-                "2005": "23",
-                "2008": "15"
+                "2011": 48.0,
+                "2014": 12.0,
+                "2018": 30.0,
+                "2003": 17.0,
+                "2005": 23.0,
+                "2008": 15.0
               },
               "Lereng": {
-                "2011": "596",
-                "2014": "234",
-                "2018": "239",
-                "2003": "30",
-                "2005": "33",
-                "2008": "50"
+                "2011": 596.0,
+                "2014": 234.0,
+                "2018": 239.0,
+                "2003": 30.0,
+                "2005": 33.0,
+                "2008": 50.0
               },
               "Dataran": {
-                "2011": "435",
-                "2014": "950",
-                "2018": "927",
-                "2003": "143",
-                "2005": "157",
-                "2008": "199"
+                "2011": 435.0,
+                "2014": 950.0,
+                "2018": 927.0,
+                "2003": 143.0,
+                "2005": 157.0,
+                "2008": 199.0
               }
             }
           },
@@ -2999,28 +2999,28 @@
             "Provinsi": "PAPUA BARAT",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "232",
-                "2014": "155",
-                "2018": "201",
+                "2011": 232.0,
+                "2014": 155.0,
+                "2018": 201.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "188"
+                "2008": 188.0
               },
               "Lereng": {
-                "2011": "383",
-                "2014": "441",
-                "2018": "419",
+                "2011": 383.0,
+                "2014": 441.0,
+                "2018": 419.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "249"
+                "2008": 249.0
               },
               "Dataran": {
-                "2011": "824",
-                "2014": "971",
-                "2018": "1367",
+                "2011": 824.0,
+                "2014": 971.0,
+                "2018": 1367.0,
                 "2003": "-",
                 "2005": "-",
-                "2008": "352"
+                "2008": 352.0
               }
             }
           },
@@ -3028,28 +3028,28 @@
             "Provinsi": "PAPUA",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "591",
-                "2014": "551",
-                "2018": "644",
-                "2003": "371",
-                "2005": "370",
-                "2008": "317"
+                "2011": 591.0,
+                "2014": 551.0,
+                "2018": 644.0,
+                "2003": 371.0,
+                "2005": 370.0,
+                "2008": 317.0
               },
               "Lereng": {
-                "2011": "1969",
-                "2014": "2452",
-                "2018": "2638",
-                "2003": "1412",
-                "2005": "1230",
-                "2008": "1631"
+                "2011": 1969.0,
+                "2014": 2452.0,
+                "2018": 2638.0,
+                "2003": 1412.0,
+                "2005": 1230.0,
+                "2008": 1631.0
               },
               "Dataran": {
-                "2011": "1364",
-                "2014": "1868",
-                "2018": "2270",
-                "2003": "878",
-                "2005": "912",
-                "2008": "889"
+                "2011": 1364.0,
+                "2014": 1868.0,
+                "2018": 2270.0,
+                "2003": 878.0,
+                "2005": 912.0,
+                "2008": 889.0
               }
             }
           },
@@ -3057,28 +3057,28 @@
             "Provinsi": "INDONESIA",
             "Jumlah Desa Menurut Provinsi dan Topografi Wilayah": {
               "Lembah": {
-                "2011": "3745",
-                "2014": "3630",
-                "2018": "3187",
-                "2003": "4749",
-                "2005": "5168",
-                "2008": "4845"
+                "2011": 3745.0,
+                "2014": 3630.0,
+                "2018": 3187.0,
+                "2003": 4749.0,
+                "2005": 5168.0,
+                "2008": 4845.0
               },
               "Lereng": {
-                "2011": "17355",
-                "2014": "16043",
-                "2018": "14696",
-                "2003": "15843",
-                "2005": "14824",
-                "2008": "16221"
+                "2011": 17355.0,
+                "2014": 16043.0,
+                "2018": 14696.0,
+                "2003": 15843.0,
+                "2005": 14824.0,
+                "2008": 16221.0
               },
               "Dataran": {
-                "2011": "57509",
-                "2014": "62517",
-                "2018": "66048",
-                "2003": "39204",
-                "2005": "40513",
-                "2008": "43680"
+                "2011": 57509.0,
+                "2014": 62517.0,
+                "2018": 66048.0,
+                "2003": 39204.0,
+                "2005": 40513.0,
+                "2008": 43680.0
               }
             }
           }
@@ -3096,61 +3096,61 @@
           {
             "Kawasan Daerah Tertinggal": "Sumatera",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "13"
+              "2015": 13.0
             }
           },
           {
             "Kawasan Daerah Tertinggal": "Jawa dan Bali",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "6"
+              "2015": 6.0
             }
           },
           {
             "Kawasan Daerah Tertinggal": "Nusa Tenggara",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "26"
+              "2015": 26.0
             }
           },
           {
             "Kawasan Daerah Tertinggal": "Kalimantan",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "12"
+              "2015": 12.0
             }
           },
           {
             "Kawasan Daerah Tertinggal": "Sulawesi",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "18"
+              "2015": 18.0
             }
           },
           {
             "Kawasan Daerah Tertinggal": "Maluku",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "14"
+              "2015": 14.0
             }
           },
           {
             "Kawasan Daerah Tertinggal": "Papua",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "33"
+              "2015": 33.0
             }
           },
           {
             "Kawasan Daerah Tertinggal": "Kawasan Barat Indonesia (KBI)",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "19"
+              "2015": 19.0
             }
           },
           {
             "Kawasan Daerah Tertinggal": "Kawasan Timur Indonesia (KTI)",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "103"
+              "2015": 103.0
             }
           },
           {
             "Kawasan Daerah Tertinggal": "Indonesia",
             "Jumlah daerah tertinggal yang terentaskan": {
-              "2015": "122"
+              "2015": 122.0
             }
           }
         ]
@@ -3171,37 +3171,37 @@
               "2013": "-",
               "2014": "-",
               "2015": "-",
-              "2011": "1",
-              "2012": "1"
+              "2011": 1.0,
+              "2012": 1.0
             }
           },
           {
             "Provinsi": "SUMATERA UTARA",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "7",
-              "2014": "3",
+              "2013": 7.0,
+              "2014": 3.0,
               "2015": "-",
-              "2011": "3",
-              "2012": "3"
+              "2011": 3.0,
+              "2012": 3.0
             }
           },
           {
             "Provinsi": "SUMATERA BARAT",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "3",
+              "2013": 3.0,
               "2014": "-",
               "2015": "-",
               "2011": "-",
-              "2012": "2"
+              "2012": 2.0
             }
           },
           {
             "Provinsi": "RIAU",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "3",
+              "2013": 3.0,
               "2014": "-",
               "2015": "-",
-              "2011": "3",
+              "2011": 3.0,
               "2012": "-"
             }
           },
@@ -3211,35 +3211,35 @@
               "2013": "-",
               "2014": "-",
               "2015": "-",
-              "2011": "8",
+              "2011": 8.0,
               "2012": "-"
             }
           },
           {
             "Provinsi": "SUMATERA SELATAN",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "1",
-              "2014": "1",
+              "2013": 1.0,
+              "2014": 1.0,
               "2015": "-",
               "2011": "-",
-              "2012": "1"
+              "2012": 1.0
             }
           },
           {
             "Provinsi": "BENGKULU",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "2",
-              "2014": "6",
+              "2013": 2.0,
+              "2014": 6.0,
               "2015": "-",
               "2011": "-",
-              "2012": "3"
+              "2012": 3.0
             }
           },
           {
             "Provinsi": "LAMPUNG",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "1",
-              "2014": "2",
+              "2013": 1.0,
+              "2014": 2.0,
               "2015": "-",
               "2011": "-",
               "2012": "-"
@@ -3278,21 +3278,21 @@
           {
             "Provinsi": "JAWA BARAT",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "7",
-              "2014": "40",
-              "2015": "2",
-              "2011": "19",
-              "2012": "7"
+              "2013": 7.0,
+              "2014": 40.0,
+              "2015": 2.0,
+              "2011": 19.0,
+              "2012": 7.0
             }
           },
           {
             "Provinsi": "JAWA TENGAH",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "22",
-              "2014": "13",
+              "2013": 22.0,
+              "2014": 13.0,
               "2015": "-",
-              "2011": "1",
-              "2012": "35"
+              "2011": 1.0,
+              "2012": 35.0
             }
           },
           {
@@ -3308,11 +3308,11 @@
           {
             "Provinsi": "JAWA TIMUR",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "7",
-              "2014": "5",
+              "2013": 7.0,
+              "2014": 5.0,
               "2015": "-",
-              "2011": "2",
-              "2012": "3"
+              "2011": 2.0,
+              "2012": 3.0
             }
           },
           {
@@ -3341,18 +3341,18 @@
               "2013": "-",
               "2014": "-",
               "2015": "-",
-              "2011": "2",
-              "2012": "4"
+              "2011": 2.0,
+              "2012": 4.0
             }
           },
           {
             "Provinsi": "NUSA TENGGARA TIMUR",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "2",
-              "2014": "2",
+              "2013": 2.0,
+              "2014": 2.0,
               "2015": "-",
-              "2011": "1",
-              "2012": "3"
+              "2011": 1.0,
+              "2012": 3.0
             }
           },
           {
@@ -3382,7 +3382,7 @@
               "2014": "-",
               "2015": "-",
               "2011": "-",
-              "2012": "1"
+              "2012": 1.0
             }
           },
           {
@@ -3418,8 +3418,8 @@
           {
             "Provinsi": "SULAWESI TENGAH",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "1",
-              "2014": "1",
+              "2013": 1.0,
+              "2014": 1.0,
               "2015": "-",
               "2011": "-",
               "2012": "-"
@@ -3429,10 +3429,10 @@
             "Provinsi": "SULAWESI SELATAN",
             "Jumlah Bangunan DAM Pengendali": {
               "2013": "-",
-              "2014": "2",
+              "2014": 2.0,
               "2015": "-",
-              "2011": "4",
-              "2012": "4"
+              "2011": 4.0,
+              "2012": 4.0
             }
           },
           {
@@ -3508,11 +3508,11 @@
           {
             "Provinsi": "INDONESIA",
             "Jumlah Bangunan DAM Pengendali": {
-              "2013": "56",
-              "2014": "75",
-              "2015": "2",
-              "2011": "44",
-              "2012": "67"
+              "2013": 56.0,
+              "2014": 75.0,
+              "2015": 2.0,
+              "2011": 44.0,
+              "2012": 67.0
             }
           }
         ]
@@ -3530,21 +3530,21 @@
           {
             "Provinsi": "ACEH",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "9",
-              "2014": "3",
-              "2015": "100",
-              "2011": "16",
-              "2012": "4"
+              "2013": 9.0,
+              "2014": 3.0,
+              "2015": 100.0,
+              "2011": 16.0,
+              "2012": 4.0
             }
           },
           {
             "Provinsi": "SUMATERA UTARA",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "31",
-              "2014": "12",
-              "2015": "6",
-              "2011": "32",
-              "2012": "29"
+              "2013": 31.0,
+              "2014": 12.0,
+              "2015": 6.0,
+              "2011": 32.0,
+              "2012": 29.0
             }
           },
           {
@@ -3553,7 +3553,7 @@
               "2013": "-",
               "2014": "-",
               "2015": "-",
-              "2011": "1",
+              "2011": 1.0,
               "2012": "-"
             }
           },
@@ -3563,7 +3563,7 @@
               "2013": "-",
               "2014": "-",
               "2015": "-",
-              "2011": "4",
+              "2011": 4.0,
               "2012": "-"
             }
           },
@@ -3580,31 +3580,31 @@
           {
             "Provinsi": "SUMATERA SELATAN",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "2",
-              "2014": "1",
+              "2013": 2.0,
+              "2014": 1.0,
               "2015": "-",
               "2011": "-",
-              "2012": "1"
+              "2012": 1.0
             }
           },
           {
             "Provinsi": "BENGKULU",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "4",
-              "2014": "3",
+              "2013": 4.0,
+              "2014": 3.0,
               "2015": "-",
-              "2011": "2",
-              "2012": "11"
+              "2011": 2.0,
+              "2012": 11.0
             }
           },
           {
             "Provinsi": "LAMPUNG",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "12",
-              "2014": "4",
+              "2013": 12.0,
+              "2014": 4.0,
               "2015": "-",
               "2011": "-",
-              "2012": "9"
+              "2012": 9.0
             }
           },
           {
@@ -3640,41 +3640,41 @@
           {
             "Provinsi": "JAWA BARAT",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "70",
-              "2014": "34",
-              "2015": "726",
-              "2011": "28",
-              "2012": "32"
+              "2013": 70.0,
+              "2014": 34.0,
+              "2015": 726.0,
+              "2011": 28.0,
+              "2012": 32.0
             }
           },
           {
             "Provinsi": "JAWA TENGAH",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "170",
-              "2014": "148",
-              "2015": "217",
-              "2011": "33",
-              "2012": "145"
+              "2013": 170.0,
+              "2014": 148.0,
+              "2015": 217.0,
+              "2011": 33.0,
+              "2012": 145.0
             }
           },
           {
             "Provinsi": "DI YOGYAKARTA",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "11",
-              "2014": "13",
+              "2013": 11.0,
+              "2014": 13.0,
               "2015": "-",
               "2011": "-",
-              "2012": "12"
+              "2012": 12.0
             }
           },
           {
             "Provinsi": "JAWA TIMUR",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "138",
-              "2014": "188",
-              "2015": "526",
-              "2011": "188",
-              "2012": "164"
+              "2013": 138.0,
+              "2014": 188.0,
+              "2015": 526.0,
+              "2011": 188.0,
+              "2012": 164.0
             }
           },
           {
@@ -3691,29 +3691,29 @@
             "Provinsi": "BALI",
             "Jumlah Bangunan DAM Penahan": {
               "2013": "-",
-              "2014": "3",
-              "2015": "50",
-              "2011": "4",
-              "2012": "3"
+              "2014": 3.0,
+              "2015": 50.0,
+              "2011": 4.0,
+              "2012": 3.0
             }
           },
           {
             "Provinsi": "NUSA TENGGARA BARAT",
             "Jumlah Bangunan DAM Penahan": {
               "2013": "-",
-              "2014": "20",
-              "2015": "7",
-              "2011": "31",
-              "2012": "24"
+              "2014": 20.0,
+              "2015": 7.0,
+              "2011": 31.0,
+              "2012": 24.0
             }
           },
           {
             "Provinsi": "NUSA TENGGARA TIMUR",
             "Jumlah Bangunan DAM Penahan": {
               "2013": "-",
-              "2014": "1",
+              "2014": 1.0,
               "2015": "-",
-              "2011": "5",
+              "2011": 5.0,
               "2012": "-"
             }
           },
@@ -3744,7 +3744,7 @@
               "2014": "-",
               "2015": "-",
               "2011": "-",
-              "2012": "1"
+              "2012": 1.0
             }
           },
           {
@@ -3752,7 +3752,7 @@
             "Jumlah Bangunan DAM Penahan": {
               "2013": "-",
               "2014": "-",
-              "2015": "105",
+              "2015": 105.0,
               "2011": "-",
               "2012": "-"
             }
@@ -3770,20 +3770,20 @@
           {
             "Provinsi": "SULAWESI UTARA",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "19",
+              "2013": 19.0,
               "2014": "-",
-              "2015": "5",
-              "2011": "35",
-              "2012": "47"
+              "2015": 5.0,
+              "2011": 35.0,
+              "2012": 47.0
             }
           },
           {
             "Provinsi": "SULAWESI TENGAH",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "10",
-              "2014": "1",
-              "2015": "5",
-              "2011": "3",
+              "2013": 10.0,
+              "2014": 1.0,
+              "2015": 5.0,
+              "2011": 3.0,
               "2012": "-"
             }
           },
@@ -3791,10 +3791,10 @@
             "Provinsi": "SULAWESI SELATAN",
             "Jumlah Bangunan DAM Penahan": {
               "2013": "-",
-              "2014": "43",
-              "2015": "160",
-              "2011": "22",
-              "2012": "51"
+              "2014": 43.0,
+              "2015": 160.0,
+              "2011": 22.0,
+              "2012": 51.0
             }
           },
           {
@@ -3803,7 +3803,7 @@
               "2013": "-",
               "2014": "-",
               "2015": "-",
-              "2011": "2",
+              "2011": 2.0,
               "2012": "-"
             }
           },
@@ -3812,7 +3812,7 @@
             "Jumlah Bangunan DAM Penahan": {
               "2013": "-",
               "2014": "-",
-              "2015": "14",
+              "2015": 14.0,
               "2011": "-",
               "2012": "-"
             }
@@ -3843,7 +3843,7 @@
               "2013": "-",
               "2014": "-",
               "2015": "-",
-              "2011": "1",
+              "2011": 1.0,
               "2012": "-"
             }
           },
@@ -3860,21 +3860,21 @@
           {
             "Provinsi": "PAPUA",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "169",
+              "2013": 169.0,
               "2014": "-",
               "2015": "-",
               "2011": "-",
-              "2012": "8"
+              "2012": 8.0
             }
           },
           {
             "Provinsi": "INDONESIA",
             "Jumlah Bangunan DAM Penahan": {
-              "2013": "645",
-              "2014": "474",
-              "2015": "1921",
-              "2011": "407",
-              "2012": "541"
+              "2013": 645.0,
+              "2014": 474.0,
+              "2015": 1921.0,
+              "2011": 407.0,
+              "2012": 541.0
             }
           }
         ]
@@ -3892,351 +3892,351 @@
           {
             "Provinsi": "ACEH",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "2",
-              "2014": "2",
-              "2015": "2",
-              "2011": "1",
-              "2012": "2"
+              "2013": 2.0,
+              "2014": 2.0,
+              "2015": 2.0,
+              "2011": 1.0,
+              "2012": 2.0
             }
           },
           {
             "Provinsi": "SUMATERA UTARA",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "13",
-              "2014": "16",
-              "2015": "16",
-              "2011": "3",
-              "2012": "6"
+              "2013": 13.0,
+              "2014": 16.0,
+              "2015": 16.0,
+              "2011": 3.0,
+              "2012": 6.0
             }
           },
           {
             "Provinsi": "SUMATERA BARAT",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "5",
-              "2014": "5",
-              "2015": "5",
-              "2011": "0",
-              "2012": "2"
+              "2013": 5.0,
+              "2014": 5.0,
+              "2015": 5.0,
+              "2011": 0.0,
+              "2012": 2.0
             }
           },
           {
             "Provinsi": "RIAU",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "6",
-              "2014": "6",
-              "2015": "6",
-              "2011": "3",
-              "2012": "3"
+              "2013": 6.0,
+              "2014": 6.0,
+              "2015": 6.0,
+              "2011": 3.0,
+              "2012": 3.0
             }
           },
           {
             "Provinsi": "JAMBI",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "8",
-              "2014": "8",
-              "2015": "8",
-              "2011": "8",
-              "2012": "8"
+              "2013": 8.0,
+              "2014": 8.0,
+              "2015": 8.0,
+              "2011": 8.0,
+              "2012": 8.0
             }
           },
           {
             "Provinsi": "SUMATERA SELATAN",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "2",
-              "2014": "3",
-              "2015": "3",
-              "2011": "0",
-              "2012": "1"
+              "2013": 2.0,
+              "2014": 3.0,
+              "2015": 3.0,
+              "2011": 0.0,
+              "2012": 1.0
             }
           },
           {
             "Provinsi": "BENGKULU",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "5",
-              "2014": "11",
-              "2015": "11",
-              "2011": "0",
-              "2012": "3"
+              "2013": 5.0,
+              "2014": 11.0,
+              "2015": 11.0,
+              "2011": 0.0,
+              "2012": 3.0
             }
           },
           {
             "Provinsi": "LAMPUNG",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "1",
-              "2014": "3",
-              "2015": "3",
-              "2011": "0",
-              "2012": "0"
+              "2013": 1.0,
+              "2014": 3.0,
+              "2015": 3.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "KEP. BANGKA BELITUNG",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "KEP. RIAU",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "DKI JAKARTA",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "JAWA BARAT",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "33",
-              "2014": "73",
-              "2015": "75",
-              "2011": "19",
-              "2012": "26"
+              "2013": 33.0,
+              "2014": 73.0,
+              "2015": 75.0,
+              "2011": 19.0,
+              "2012": 26.0
             }
           },
           {
             "Provinsi": "JAWA TENGAH",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "58",
-              "2014": "71",
-              "2015": "71",
-              "2011": "1",
-              "2012": "36"
+              "2013": 58.0,
+              "2014": 71.0,
+              "2015": 71.0,
+              "2011": 1.0,
+              "2012": 36.0
             }
           },
           {
             "Provinsi": "DI YOGYAKARTA",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "JAWA TIMUR",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "12",
-              "2014": "17",
-              "2015": "17",
-              "2011": "2",
-              "2012": "5"
+              "2013": 12.0,
+              "2014": 17.0,
+              "2015": 17.0,
+              "2011": 2.0,
+              "2012": 5.0
             }
           },
           {
             "Provinsi": "BANTEN",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "BALI",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "NUSA TENGGARA BARAT",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "6",
-              "2014": "6",
-              "2015": "6",
-              "2011": "2",
-              "2012": "6"
+              "2013": 6.0,
+              "2014": 6.0,
+              "2015": 6.0,
+              "2011": 2.0,
+              "2012": 6.0
             }
           },
           {
             "Provinsi": "NUSA TENGGARA TIMUR",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "6",
-              "2014": "8",
-              "2015": "8",
-              "2011": "1",
-              "2012": "4"
+              "2013": 6.0,
+              "2014": 8.0,
+              "2015": 8.0,
+              "2011": 1.0,
+              "2012": 4.0
             }
           },
           {
             "Provinsi": "KALIMANTAN BARAT",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "KALIMANTAN TENGAH",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "KALIMANTAN SELATAN",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "1",
-              "2014": "1",
-              "2015": "1",
-              "2011": "0",
-              "2012": "1"
+              "2013": 1.0,
+              "2014": 1.0,
+              "2015": 1.0,
+              "2011": 0.0,
+              "2012": 1.0
             }
           },
           {
             "Provinsi": "KALIMANTAN TIMUR",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "KALIMANTAN UTARA",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "SULAWESI UTARA",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "SULAWESI TENGAH",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "1",
-              "2014": "2",
-              "2015": "2",
-              "2011": "0",
-              "2012": "0"
+              "2013": 1.0,
+              "2014": 2.0,
+              "2015": 2.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "SULAWESI SELATAN",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "8",
-              "2014": "10",
-              "2015": "10",
-              "2011": "4",
-              "2012": "8"
+              "2013": 8.0,
+              "2014": 10.0,
+              "2015": 10.0,
+              "2011": 4.0,
+              "2012": 8.0
             }
           },
           {
             "Provinsi": "SULAWESI TENGGARA",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "GORONTALO",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "SULAWESI BARAT",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "MALUKU",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "MALUKU UTARA",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "PAPUA BARAT",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "PAPUA",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "INDONESIA",
             "Jumlah Pembangunan DAM Pengendali": {
-              "2013": "167",
-              "2014": "242",
-              "2015": "244",
-              "2011": "44",
-              "2012": "111"
+              "2013": 167.0,
+              "2014": 242.0,
+              "2015": 244.0,
+              "2011": 44.0,
+              "2012": 111.0
             }
           }
         ]
@@ -4254,351 +4254,351 @@
           {
             "Provinsi": "ACEH",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "29",
-              "2014": "32",
-              "2015": "132",
-              "2011": "16",
-              "2012": "20"
+              "2013": 29.0,
+              "2014": 32.0,
+              "2015": 132.0,
+              "2011": 16.0,
+              "2012": 20.0
             }
           },
           {
             "Provinsi": "SUMATERA UTARA",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "92",
-              "2014": "104",
-              "2015": "110",
-              "2011": "32",
-              "2012": "61"
+              "2013": 92.0,
+              "2014": 104.0,
+              "2015": 110.0,
+              "2011": 32.0,
+              "2012": 61.0
             }
           },
           {
             "Provinsi": "SUMATERA BARAT",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "1",
-              "2014": "1",
-              "2015": "1",
-              "2011": "1",
-              "2012": "1"
+              "2013": 1.0,
+              "2014": 1.0,
+              "2015": 1.0,
+              "2011": 1.0,
+              "2012": 1.0
             }
           },
           {
             "Provinsi": "RIAU",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "4",
-              "2014": "4",
-              "2015": "4",
-              "2011": "4",
-              "2012": "4"
+              "2013": 4.0,
+              "2014": 4.0,
+              "2015": 4.0,
+              "2011": 4.0,
+              "2012": 4.0
             }
           },
           {
             "Provinsi": "JAMBI",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "SUMATERA SELATAN",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "3",
-              "2014": "4",
-              "2015": "4",
-              "2011": "0",
-              "2012": "1"
+              "2013": 3.0,
+              "2014": 4.0,
+              "2015": 4.0,
+              "2011": 0.0,
+              "2012": 1.0
             }
           },
           {
             "Provinsi": "BENGKULU",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "17",
-              "2014": "20",
-              "2015": "20",
-              "2011": "2",
-              "2012": "13"
+              "2013": 17.0,
+              "2014": 20.0,
+              "2015": 20.0,
+              "2011": 2.0,
+              "2012": 13.0
             }
           },
           {
             "Provinsi": "LAMPUNG",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "21",
-              "2014": "25",
-              "2015": "25",
-              "2011": "0",
-              "2012": "9"
+              "2013": 21.0,
+              "2014": 25.0,
+              "2015": 25.0,
+              "2011": 0.0,
+              "2012": 9.0
             }
           },
           {
             "Provinsi": "KEP. BANGKA BELITUNG",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "KEP. RIAU",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "DKI JAKARTA",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "JAWA BARAT",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "130",
-              "2014": "164",
-              "2015": "890",
-              "2011": "28",
-              "2012": "60"
+              "2013": 130.0,
+              "2014": 164.0,
+              "2015": 890.0,
+              "2011": 28.0,
+              "2012": 60.0
             }
           },
           {
             "Provinsi": "JAWA TENGAH",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "348",
-              "2014": "496",
-              "2015": "713",
-              "2011": "33",
-              "2012": "178"
+              "2013": 348.0,
+              "2014": 496.0,
+              "2015": 713.0,
+              "2011": 33.0,
+              "2012": 178.0
             }
           },
           {
             "Provinsi": "DI YOGYAKARTA",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "23",
-              "2014": "36",
-              "2015": "36",
-              "2011": "0",
-              "2012": "12"
+              "2013": 23.0,
+              "2014": 36.0,
+              "2015": 36.0,
+              "2011": 0.0,
+              "2012": 12.0
             }
           },
           {
             "Provinsi": "JAWA TIMUR",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "490",
-              "2014": "678",
-              "2015": "1204",
-              "2011": "188",
-              "2012": "352"
+              "2013": 490.0,
+              "2014": 678.0,
+              "2015": 1204.0,
+              "2011": 188.0,
+              "2012": 352.0
             }
           },
           {
             "Provinsi": "BANTEN",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "BALI",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "7",
-              "2014": "10",
-              "2015": "60",
-              "2011": "4",
-              "2012": "7"
+              "2013": 7.0,
+              "2014": 10.0,
+              "2015": 60.0,
+              "2011": 4.0,
+              "2012": 7.0
             }
           },
           {
             "Provinsi": "NUSA TENGGARA BARAT",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "55",
-              "2014": "75",
-              "2015": "82",
-              "2011": "31",
-              "2012": "55"
+              "2013": 55.0,
+              "2014": 75.0,
+              "2015": 82.0,
+              "2011": 31.0,
+              "2012": 55.0
             }
           },
           {
             "Provinsi": "NUSA TENGGARA TIMUR",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "5",
-              "2014": "6",
-              "2015": "6",
-              "2011": "5",
-              "2012": "5"
+              "2013": 5.0,
+              "2014": 6.0,
+              "2015": 6.0,
+              "2011": 5.0,
+              "2012": 5.0
             }
           },
           {
             "Provinsi": "KALIMANTAN BARAT",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "KALIMANTAN TENGAH",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "KALIMANTAN SELATAN",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "1",
-              "2014": "1",
-              "2015": "1",
-              "2011": "0",
-              "2012": "1"
+              "2013": 1.0,
+              "2014": 1.0,
+              "2015": 1.0,
+              "2011": 0.0,
+              "2012": 1.0
             }
           },
           {
             "Provinsi": "KALIMANTAN TIMUR",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "105",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 105.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "KALIMANTAN UTARA",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "SULAWESI UTARA",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "101",
-              "2014": "101",
-              "2015": "106",
-              "2011": "35",
-              "2012": "82"
+              "2013": 101.0,
+              "2014": 101.0,
+              "2015": 106.0,
+              "2011": 35.0,
+              "2012": 82.0
             }
           },
           {
             "Provinsi": "SULAWESI TENGAH",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "13",
-              "2014": "14",
-              "2015": "19",
-              "2011": "3",
-              "2012": "3"
+              "2013": 13.0,
+              "2014": 14.0,
+              "2015": 19.0,
+              "2011": 3.0,
+              "2012": 3.0
             }
           },
           {
             "Provinsi": "SULAWESI SELATAN",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "73",
-              "2014": "116",
-              "2015": "276",
-              "2011": "22",
-              "2012": "73"
+              "2013": 73.0,
+              "2014": 116.0,
+              "2015": 276.0,
+              "2011": 22.0,
+              "2012": 73.0
             }
           },
           {
             "Provinsi": "SULAWESI TENGGARA",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "2",
-              "2014": "2",
-              "2015": "2",
-              "2011": "2",
-              "2012": "2"
+              "2013": 2.0,
+              "2014": 2.0,
+              "2015": 2.0,
+              "2011": 2.0,
+              "2012": 2.0
             }
           },
           {
             "Provinsi": "GORONTALO",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "14",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 14.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "SULAWESI BARAT",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "MALUKU",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "MALUKU UTARA",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "1",
-              "2014": "1",
-              "2015": "1",
-              "2011": "1",
-              "2012": "1"
+              "2013": 1.0,
+              "2014": 1.0,
+              "2015": 1.0,
+              "2011": 1.0,
+              "2012": 1.0
             }
           },
           {
             "Provinsi": "PAPUA BARAT",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "0",
-              "2014": "0",
-              "2015": "0",
-              "2011": "0",
-              "2012": "0"
+              "2013": 0.0,
+              "2014": 0.0,
+              "2015": 0.0,
+              "2011": 0.0,
+              "2012": 0.0
             }
           },
           {
             "Provinsi": "PAPUA",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "177",
-              "2014": "177",
-              "2015": "177",
-              "2011": "0",
-              "2012": "8"
+              "2013": 177.0,
+              "2014": 177.0,
+              "2015": 177.0,
+              "2011": 0.0,
+              "2012": 8.0
             }
           },
           {
             "Provinsi": "INDONESIA",
             "Jumlah Pembangunan DAM Penahan": {
-              "2013": "1593",
-              "2014": "2067",
-              "2015": "3988",
-              "2011": "407",
-              "2012": "948"
+              "2013": 1593.0,
+              "2014": 2067.0,
+              "2015": 3988.0,
+              "2011": 407.0,
+              "2012": 948.0
             }
           }
         ]
