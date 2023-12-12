@@ -1,0 +1,979 @@
+{
+  "Type": "EKONOMI",
+  "times": "2023-12-07 18:49:30.113304",
+  "datas": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Proporsi Kredit UMKM Terhadap Total Kredit, 2011-2019",
+        "update": "18 May 2018",
+        "keterangan": "Statistik Dasar",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/35/1192/1/proporsi-kredit-umkm-terhadap-total-kredit.html",
+          "https://www.archive.bps.go.id/indicator/35/1192/2/proporsi-kredit-umkm-terhadap-total-kredit.html",
+          "https://www.archive.bps.go.id/indicator/35/1192/3/proporsi-kredit-umkm-terhadap-total-kredit.html"
+        ],
+        "data_tables": [
+          {
+            "Posisi Kredit": "Mikro",
+            "Proporsi Kredit UMKM Terhadap Total Kredit                        (Triliun Rupiah)": {
+              "2017": 221.41,
+              "2018": 251.34,
+              "2019": 277.23,
+              "2014": 140.27,
+              "2015": 164.87,
+              "2016": 195.62,
+              "2011": 88.02,
+              "2012": 97.18,
+              "2013": 118.77
+            }
+          },
+          {
+            "Posisi Kredit": "Kecil",
+            "Proporsi Kredit UMKM Terhadap Total Kredit                        (Triliun Rupiah)": {
+              "2017": 282.78,
+              "2018": 312.07,
+              "2019": 332.12,
+              "2014": 201.98,
+              "2015": 215.92,
+              "2016": 255.5,
+              "2011": 146.53,
+              "2012": 164.27,
+              "2013": 187.73
+            }
+          },
+          {
+            "Posisi Kredit": "Menengah",
+            "Proporsi Kredit UMKM Terhadap Total Kredit                        (Triliun Rupiah)": {
+              "2017": 438.2,
+              "2018": 469.24,
+              "2019": 488.79,
+              "2014": 329.47,
+              "2015": 359.01,
+              "2016": 405.84,
+              "2011": 223.61,
+              "2012": 264.95,
+              "2013": 303.53
+            }
+          },
+          {
+            "Posisi Kredit": "Total UMKM",
+            "Proporsi Kredit UMKM Terhadap Total Kredit                        (Triliun Rupiah)": {
+              "2017": 942.39,
+              "2018": 1032.64,
+              "2019": 1098.14,
+              "2014": 671.72,
+              "2015": 739.8,
+              "2016": 856.96,
+              "2011": 458.16,
+              "2012": 526.4,
+              "2013": 610.03
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Jumlah Usaha yang Tidak Berbadan Hukum Menurut Lapangan Usaha, 1996-2004",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/35/48/1/jumlah-usaha-yang-tidak-berbadan-hukum-menurut-lapangan-usaha.html",
+          "https://www.archive.bps.go.id/indicator/35/48/2/jumlah-usaha-yang-tidak-berbadan-hukum-menurut-lapangan-usaha.html",
+          "https://www.archive.bps.go.id/indicator/35/48/3/jumlah-usaha-yang-tidak-berbadan-hukum-menurut-lapangan-usaha.html"
+        ],
+        "data_tables": [
+          {
+            "Lapangan Usaha UMK": "Pertambangan dan Penggalian; Listrik, Gas, dan Penyediaan air; Konstruksi",
+            "Jumlah Usaha yang Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 255824.0,
+                "2003": 253146.0,
+                "2004": 256959.0,
+                "1999": 214334.0,
+                "2000": 248842.0,
+                "2001": 287657.0,
+                "1996": 357426.0,
+                "1998": 237037.0
+              },
+              "Distribusi (%)": {
+                "2002": 1.63,
+                "2003": 1.6,
+                "2004": 1.5,
+                "1999": 1.48,
+                "2000": 1.96,
+                "2001": 1.96,
+                "1996": 2.13,
+                "1998": 1.7
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Industri Pengolahan",
+            "Jumlah Usaha yang Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 2728700.0,
+                "2003": 2641909.0,
+                "2004": 2671660.0,
+                "1999": 2514816.0,
+                "2000": 2598704.0,
+                "2001": 2538283.0,
+                "1996": 2859304.0,
+                "1998": 2179064.0
+              },
+              "Distribusi (%)": {
+                "2002": 17.38,
+                "2003": 16.74,
+                "2004": 15.58,
+                "1999": 17.32,
+                "2000": 14.72,
+                "2001": 17.31,
+                "1996": 17.04,
+                "1998": 15.59
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Perdagangan Besar dan Eceran, Restoran dan Penyediaan Akomodasi",
+            "Jumlah Usaha yang Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 9232631.0,
+                "2003": 9228487.0,
+                "2004": 10485974.0,
+                "1999": 8666569.0,
+                "2000": 8650713.0,
+                "2001": 8450211.0,
+                "1996": 9772431.0,
+                "1998": 8547130.0
+              },
+              "Distribusi (%)": {
+                "2002": 58.79,
+                "2003": 58.47,
+                "2004": 61.16,
+                "1999": 59.69,
+                "2000": 61.15,
+                "2001": 57.64,
+                "1996": 58.24,
+                "1998": 61.16
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Transportasi, Pergudangan dan Komunikasi",
+            "Jumlah Usaha yang Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 1926668.0,
+                "2003": 2170291.0,
+                "2004": 2307423.0,
+                "1999": 1695933.0,
+                "2000": 1855149.0,
+                "2001": 1765050.0,
+                "1996": 1833648.0,
+                "1998": 1595110.0
+              },
+              "Distribusi (%)": {
+                "2002": 12.27,
+                "2003": 13.75,
+                "2004": 13.46,
+                "1999": 11.68,
+                "2000": 11.01,
+                "2001": 12.04,
+                "1996": 10.93,
+                "1998": 11.42
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Perantara Keuangan; Real Estate, Usaha Persewaan dan Jasa Lainnya",
+            "Jumlah Usaha yang Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 1559743.0,
+                "2003": 1490226.0,
+                "2004": 1423228.0,
+                "1999": 1428389.0,
+                "2000": 1627030.0,
+                "2001": 1619444.0,
+                "1996": 1957822.0,
+                "1998": 1415914.0
+              },
+              "Distribusi (%)": {
+                "2002": 9.93,
+                "2003": 9.44,
+                "2004": 8.3,
+                "1999": 9.84,
+                "2000": 11.15,
+                "2001": 11.05,
+                "1996": 11.67,
+                "1998": 10.13
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Semua Sektor kecuali Sektor Pertanian",
+            "Jumlah Usaha yang Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 15703566.0,
+                "2003": 15784059.0,
+                "2004": 17145244.0,
+                "1999": 14520041.0,
+                "2000": 14980438.0,
+                "2001": 14660645.0,
+                "1996": 16780631.0,
+                "1998": 13975255.0
+              },
+              "Distribusi (%)": {
+                "2002": 100.0,
+                "2003": 100.0,
+                "2004": 100.0,
+                "1999": 100.0,
+                "2000": 100.0,
+                "2001": 100.0,
+                "1996": 100.0,
+                "1998": 100.0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Lapangan Usaha, 1996-2004",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/35/49/1/banyaknya-pekerja-usaha-tidak-berbadan-hukum-menurut-lapangan-usaha.html",
+          "https://www.archive.bps.go.id/indicator/35/49/2/banyaknya-pekerja-usaha-tidak-berbadan-hukum-menurut-lapangan-usaha.html",
+          "https://www.archive.bps.go.id/indicator/35/49/3/banyaknya-pekerja-usaha-tidak-berbadan-hukum-menurut-lapangan-usaha.html"
+        ],
+        "data_tables": [
+          {
+            "Lapangan Usaha UMK": "Pertambangan dan Penggalian; Listrik, Gas, dan Penyediaan air; Konstruksi",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 583457.0,
+                "2003": 592253.0,
+                "2004": 589869.0,
+                "1999": 513027.0,
+                "2000": 601478.0,
+                "2001": 699243.0,
+                "1996": 981365.0,
+                "1998": 655311.0
+              },
+              "Distribusi (%)": {
+                "2002": 2.01,
+                "2003": 2.04,
+                "2004": 1.93,
+                "1999": 2.0,
+                "2000": 2.17,
+                "2001": 2.57,
+                "1996": 3.4,
+                "1998": 2.52
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Industri Pengolahan",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 6566232.0,
+                "2003": 6363565.0,
+                "2004": 6547855.0,
+                "1999": 6116269.0,
+                "2000": 6291441.0,
+                "2001": 6110058.0,
+                "1996": 6598136.0,
+                "1998": 5287418.0
+              },
+              "Distribusi (%)": {
+                "2002": 20.6,
+                "2003": 21.92,
+                "2004": 21.44,
+                "1999": 23.0,
+                "2000": 22.74,
+                "2001": 22.46,
+                "1996": 22.85,
+                "1998": 20.32
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Perdagangan Besar dan Eceran, Restoran dan Penyediaan Akomodasi",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 16834815.0,
+                "2003": 16800343.0,
+                "2004": 17797199.0,
+                "1999": 15523324.0,
+                "2000": 15735642.0,
+                "2001": 15417018.0,
+                "1996": 15821781.0,
+                "1998": 15626299.0
+              },
+              "Distribusi (%)": {
+                "2002": 57.95,
+                "2003": 57.87,
+                "2004": 58.26,
+                "1999": 58.0,
+                "2000": 56.88,
+                "2001": 56.67,
+                "1996": 54.79,
+                "1998": 60.06
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Transportasi, Pergudangan dan Komunikasi",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 2342679.0,
+                "2003": 2634758.0,
+                "2004": 2811456.0,
+                "1999": 2109176.0,
+                "2000": 2281481.0,
+                "2001": 2184697.0,
+                "1996": 2307338.0,
+                "1998": 1993332.0
+              },
+              "Distribusi (%)": {
+                "2002": 8.06,
+                "2003": 9.07,
+                "2004": 9.2,
+                "1999": 8.0,
+                "2000": 8.25,
+                "2001": 8.03,
+                "1996": 7.99,
+                "1998": 7.66
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Perantara Keuangan; Real Estate, Usaha Persewaan dan Jasa Lainnya",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 2723492.0,
+                "2003": 2642736.0,
+                "2004": 2800753.0,
+                "1999": 2454062.0,
+                "2000": 2754648.0,
+                "2001": 2793640.0,
+                "1996": 3167802.0,
+                "1998": 2457816.0
+              },
+              "Distribusi (%)": {
+                "2002": 9.37,
+                "2003": 9.1,
+                "2004": 9.17,
+                "1999": 9.0,
+                "2000": 9.96,
+                "2001": 10.27,
+                "1996": 10.97,
+                "1998": 9.45
+              }
+            }
+          },
+          {
+            "Lapangan Usaha UMK": "Semua Sektor kecuali Sektor Pertanian",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Lapangan Usaha": {
+              "Jumlah": {
+                "2002": 29050672.0,
+                "2003": 29033655.0,
+                "2004": 30547132.0,
+                "1999": 26715858.0,
+                "2000": 27664690.0,
+                "2001": 27204656.0,
+                "1996": 28876422.0,
+                "1998": 26020176.0
+              },
+              "Distribusi (%)": {
+                "2002": 100.0,
+                "2003": 100.0,
+                "2004": 100.0,
+                "1999": 100.0,
+                "2000": 100.0,
+                "2001": 100.0,
+                "1996": 100.0,
+                "1998": 100.0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi, 1996-2004",
+        "update": "13 May 2009",
+        "keterangan": "Statistik Sektoral",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/35/749/1/banyaknya-usaha-yang-tidak-berbadan-hukum-menurut-pulau-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/35/749/2/banyaknya-usaha-yang-tidak-berbadan-hukum-menurut-pulau-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/35/749/3/banyaknya-usaha-yang-tidak-berbadan-hukum-menurut-pulau-provinsi.html"
+        ],
+        "data_tables": [
+          {
+            "Pulau/Provinsi [UMK]": "Sumatera",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 2171116.0,
+                "2003": 2342815.0,
+                "2004": 2522561.0,
+                "1999": 2182568.0,
+                "2000": 2228518.0,
+                "2001": 2208110.0,
+                "1996": 2744345.0,
+                "1998": 2285053.0
+              },
+              "Distribusi (%)": {
+                "2002": 13.83,
+                "2003": 14.84,
+                "2004": 14.71,
+                "1999": 15.03,
+                "2000": 14.88,
+                "2001": 15.06,
+                "1996": 16.35,
+                "1998": 16.35
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Jakarta, Ibukota",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 1057765.0,
+                "2003": 893623.0,
+                "2004": 1053427.0,
+                "1999": 675923.0,
+                "2000": 719941.0,
+                "2001": 696963.0,
+                "1996": 852073.0,
+                "1998": 711020.0
+              },
+              "Distribusi (%)": {
+                "2002": 6.74,
+                "2003": 5.66,
+                "2004": 6.14,
+                "1999": 4.66,
+                "2000": 4.81,
+                "2001": 4.75,
+                "1996": 5.08,
+                "1998": 5.09
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Jawa Barat",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 3059558.0,
+                "2003": 3216567.0,
+                "2004": 2908228.0,
+                "1999": 3035152.0,
+                "2000": 2969114.0,
+                "2001": 2886209.0,
+                "1996": 3472506.0,
+                "1998": 2901883.0
+              },
+              "Distribusi (%)": {
+                "2002": 19.48,
+                "2003": 20.38,
+                "2004": 16.96,
+                "1999": 20.9,
+                "2000": 19.82,
+                "2001": 19.69,
+                "1996": 20.69,
+                "1998": 18.0
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Jawa Tengah",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 3351931.0,
+                "2003": 3080105.0,
+                "2004": 3508577.0,
+                "1999": 2781586.0,
+                "2000": 2893016.0,
+                "2001": 2891273.0,
+                "1996": 2899288.0,
+                "1998": 2515013.0
+              },
+              "Distribusi (%)": {
+                "2002": 21.35,
+                "2003": 19.51,
+                "2004": 20.46,
+                "1999": 19.16,
+                "2000": 19.31,
+                "2001": 19.72,
+                "1996": 17.28,
+                "1998": 18.0
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Yogyakarta",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 509176.0,
+                "2003": 469898.0,
+                "2004": 409814.0,
+                "1999": 354285.0,
+                "2000": 366855.0,
+                "2001": 404742.0,
+                "1996": 364386.0,
+                "1998": 304583.0
+              },
+              "Distribusi (%)": {
+                "2002": 3.24,
+                "2003": 2.98,
+                "2004": 2.39,
+                "1999": 2.44,
+                "2000": 2.45,
+                "2001": 2.76,
+                "1996": 2.17,
+                "1998": 2.18
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Jawa Timur",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 3118640.0,
+                "2003": 3272845.0,
+                "2004": 3551777.0,
+                "1999": 3012492.0,
+                "2000": 3199556.0,
+                "2001": 3074286.0,
+                "1996": 3470711.0,
+                "1998": 2879439.0
+              },
+              "Distribusi (%)": {
+                "2002": 19.86,
+                "2003": 20.74,
+                "2004": 20.72,
+                "1999": 20.75,
+                "2000": 21.36,
+                "2001": 20.97,
+                "1996": 20.68,
+                "1998": 20.6
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Bali dan Nusa Tenggara",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 857380.0,
+                "2003": 824742.0,
+                "2004": 804689.0,
+                "1999": 752255.0,
+                "2000": 864204.0,
+                "2001": 763561.0,
+                "1996": 827649.0,
+                "1998": 707673.0
+              },
+              "Distribusi (%)": {
+                "2002": 5.45,
+                "2003": 5.22,
+                "2004": 7.7,
+                "1999": 5.18,
+                "2000": 5.77,
+                "2001": 5.25,
+                "1996": 4.93,
+                "1998": 5.06
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Kalimantan",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 812960.0,
+                "2003": 860481.0,
+                "2004": 969107.0,
+                "1999": 741054.0,
+                "2000": 715337.0,
+                "2001": 712957.0,
+                "1996": 838110.0,
+                "1998": 700646.0
+              },
+              "Distribusi (%)": {
+                "2002": 5.18,
+                "2003": 5.45,
+                "2004": 5.65,
+                "1999": 5.1,
+                "2000": 4.78,
+                "2001": 4.86,
+                "1996": 5.0,
+                "1998": 5.01
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Sulawesi",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 622011.0,
+                "2003": 671821.0,
+                "2004": 745.0,
+                "1999": 933509.0,
+                "2000": 979055.0,
+                "2001": 849198.0,
+                "1996": 1129005.0,
+                "1998": 912370.0
+              },
+              "Distribusi (%)": {
+                "2002": 3.96,
+                "2003": 4.26,
+                "2004": 4.35,
+                "1999": 6.43,
+                "2000": 6.54,
+                "2001": 5.76,
+                "1996": 6.73,
+                "1998": 6.53
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Maluku dan Irian Jaya",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 143029.0,
+                "2003": 151162.0,
+                "2004": 158525.0,
+                "1999": 51217.0,
+                "2000": 44842.0,
+                "2001": 173346.0,
+                "1996": 182558.0,
+                "1998": 56575.0
+              },
+              "Distribusi (%)": {
+                "2002": 0.91,
+                "2003": 0.96,
+                "2004": 0.92,
+                "1999": 0.35,
+                "2000": 0.3,
+                "2001": 1.18,
+                "1996": 1.09,
+                "1998": 0.41
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Indonesia",
+            "Banyaknya Usaha yang Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 15703560.0,
+                "2003": 15784059.0,
+                "2004": 17145244.0,
+                "1999": 14520041.0,
+                "2000": 14980438.0,
+                "2001": 14660640.0,
+                "1996": 16780631.0,
+                "1998": 13975255.0
+              },
+              "Distribusi (%)": {
+                "2002": 100.0,
+                "2003": 100.0,
+                "2004": 100.0,
+                "1999": 100.0,
+                "2000": 100.0,
+                "2001": 100.0,
+                "1996": 100.0,
+                "1998": 100.0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi, 1996-2004",
+        "update": "13 May 2009",
+        "keterangan": "Statistik Sektoral",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/35/792/1/banyaknya-pekerja-usaha-tidak-berbadan-hukum-menurut-pulau-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/35/792/2/banyaknya-pekerja-usaha-tidak-berbadan-hukum-menurut-pulau-provinsi.html",
+          "https://www.archive.bps.go.id/indicator/35/792/3/banyaknya-pekerja-usaha-tidak-berbadan-hukum-menurut-pulau-provinsi.html"
+        ],
+        "data_tables": [
+          {
+            "Pulau/Provinsi [UMK]": "Sumatera",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 4199287.0,
+                "2003": 4567761.0,
+                "2004": 4679187.0,
+                "1999": 4274659.0,
+                "2000": 4304381.0,
+                "2001": 4169481.0,
+                "1996": 4921289.0,
+                "1998": 4512467.0
+              },
+              "Distribusi (%)": {
+                "2002": 14.46,
+                "2003": 15.73,
+                "2004": 15.32,
+                "1999": 16.0,
+                "2000": 15.56,
+                "2001": 15.33,
+                "1996": 17.04,
+                "1998": 17.34
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Jakarta, Ibukota",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 2191955.0,
+                "2003": 1897858.0,
+                "2004": 2073623.0,
+                "1999": 1354297.0,
+                "2000": 1416453.0,
+                "2001": 1422523.0,
+                "1996": 1575571.0,
+                "1998": 1475955.0
+              },
+              "Distribusi (%)": {
+                "2002": 7.55,
+                "2003": 6.54,
+                "2004": 6.79,
+                "1999": 5.07,
+                "2000": 5.12,
+                "2001": 5.23,
+                "1996": 5.46,
+                "1998": 5.67
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Jawa Barat",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 5265638.0,
+                "2003": 5456515.0,
+                "2004": 4719813.0,
+                "1999": 5178661.0,
+                "2000": 5330645.0,
+                "2001": 5299525.0,
+                "1996": 5620031.0,
+                "1998": 5114130.0
+              },
+              "Distribusi (%)": {
+                "2002": 18.13,
+                "2003": 18.79,
+                "2004": 15.45,
+                "1999": 19.38,
+                "2000": 19.27,
+                "2001": 19.48,
+                "1996": 19.46,
+                "1998": 19.66
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Jawa Tengah",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 6198697.0,
+                "2003": 5587594.0,
+                "2004": 6251797.0,
+                "1999": 5086584.0,
+                "2000": 5284228.0,
+                "2001": 5228412.0,
+                "1996": 5002881.0,
+                "1998": 4520048.0
+              },
+              "Distribusi (%)": {
+                "2002": 21.34,
+                "2003": 19.25,
+                "2004": 20.47,
+                "1999": 9.04,
+                "2000": 19.1,
+                "2001": 19.22,
+                "1996": 17.33,
+                "1998": 17.37
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Yogyakarta",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 962661.0,
+                "2003": 919378.0,
+                "2004": 802597.0,
+                "1999": 623776.0,
+                "2000": 661964.0,
+                "2001": 744396.0,
+                "1996": 643167.0,
+                "1998": 556731.0
+              },
+              "Distribusi (%)": {
+                "2002": 3.31,
+                "2003": 3.17,
+                "2004": 2.63,
+                "1999": 2.34,
+                "2000": 2.39,
+                "2001": 2.74,
+                "1996": 2.23,
+                "1998": 2.14
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Jawa Timur",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 5456738.0,
+                "2003": 5693486.0,
+                "2004": 6156908.0,
+                "1999": 5422836.0,
+                "2000": 5569464.0,
+                "2001": 5492120.0,
+                "1996": 5804185.0,
+                "1998": 5106646.0
+              },
+              "Distribusi (%)": {
+                "2002": 18.78,
+                "2003": 19.61,
+                "2004": 20.16,
+                "1999": 20.3,
+                "2000": 20.13,
+                "2001": 20.19,
+                "1996": 20.1,
+                "1998": 19.63
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Bali dan Nusa Tenggara",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 1620136.0,
+                "2003": 1496201.0,
+                "2004": 1517189.0,
+                "1999": 1415579.0,
+                "2000": 1687284.0,
+                "2001": 1389436.0,
+                "1996": 1484531.0,
+                "1998": 1351494.0
+              },
+              "Distribusi (%)": {
+                "2002": 5.57,
+                "2003": 5.15,
+                "2004": 7.69,
+                "1999": 5.3,
+                "2000": 6.1,
+                "2001": 5.1,
+                "1996": 5.14,
+                "1998": 5.19
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Kalimantan",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 1690586.0,
+                "2003": 1811355.0,
+                "2004": 1796132.0,
+                "1999": 1496588.0,
+                "2000": 1507297.0,
+                "2001": 1462591.0,
+                "1996": 1513481.0,
+                "1998": 1356565.0
+              },
+              "Distribusi (%)": {
+                "2002": 5.82,
+                "2003": 6.24,
+                "2004": 5.88,
+                "1999": 5.6,
+                "2000": 5.45,
+                "2001": 5.38,
+                "1996": 5.24,
+                "1998": 5.21
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Sulawesi",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 1180762.0,
+                "2003": 1300310.0,
+                "2004": 1340036.0,
+                "1999": 1752840.0,
+                "2000": 1800091.0,
+                "2001": 1605868.0,
+                "1996": 1949624.0,
+                "1998": 1697103.0
+              },
+              "Distribusi (%)": {
+                "2002": 4.06,
+                "2003": 4.48,
+                "2004": 4.39,
+                "1999": 6.56,
+                "2000": 6.51,
+                "2001": 5.9,
+                "1996": 6.75,
+                "1998": 6.52
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Maluku dan Irian Jaya",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 284212.0,
+                "2003": 303197.0,
+                "2004": 373540.0,
+                "1999": 110038.0,
+                "2000": 102883.0,
+                "2001": 390304.0,
+                "1996": 361662.0,
+                "1998": 329037.0
+              },
+              "Distribusi (%)": {
+                "2002": 0.98,
+                "2003": 1.04,
+                "2004": 1.22,
+                "1999": 0.41,
+                "2000": 0.37,
+                "2001": 1.43,
+                "1996": 1.25,
+                "1998": 1.27
+              }
+            }
+          },
+          {
+            "Pulau/Provinsi [UMK]": "Indonesia",
+            "Banyaknya Pekerja Usaha Tidak Berbadan Hukum Menurut Pulau/Provinsi": {
+              "Jumlah": {
+                "2002": 29050672.0,
+                "2003": 29033655.0,
+                "2004": 30547132.0,
+                "1999": 26715858.0,
+                "2000": 27664690.0,
+                "2001": 27204656.0,
+                "1996": 28876422.0,
+                "1998": 26020176.0
+              },
+              "Distribusi (%)": {
+                "2002": 100.0,
+                "2003": 100.0,
+                "2004": 100.0,
+                "1999": 100.0,
+                "2000": 100.0,
+                "2001": 100.0,
+                "1996": 100.0,
+                "1998": 100.0
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

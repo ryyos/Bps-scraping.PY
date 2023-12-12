@@ -36,7 +36,7 @@ class Main:
 
         for type in self.__types:
 
-            os.mkdir(f'data/{type.upper()}')
+            # os.mkdir(f'data/{type.upper()}')
             print(type)
             for p in sideBar.find(f'#{type} p'):
                 __scrapper = Scrapper()
@@ -56,8 +56,8 @@ class Main:
                 }
                 
 
-                with open(f'data/{type.upper()}/{name_file.upper()}.json', 'w') as file:
-                    json.dump(__result, file, indent=2)
+                # with open(f'data/{type.upper()}/{name_file.upper()}.json', 'w') as file:
+                #     json.dump(__result, file, indent=2)
 
 
     def ex(self, main_url) -> None:

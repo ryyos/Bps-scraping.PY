@@ -21,7 +21,9 @@ class Scrapper:
 
 
     def filter_data(self, data: str) -> any:
-        data = data.replace(',', '.').replace('\u2009', '').replace(' ', '')
+        data = data.replace(',', '.') \
+                    .replace('\u2009', '') \
+                    .replace(' ', '')
         try:
             return float(data)
         except:
@@ -79,8 +81,21 @@ class Scrapper:
             url_val += 1
     
             urls_tables.append(url)
-    
+            exp_prov = []
+            exp_val = []
+
             tables = self.__parser.ex(html=html, selector='#tablex')
+            for value in tables.find(selector='tbody tr td:nth-child(1)'):
+                exp_prov.append(value.text)
+            for value in tables.find(selector='tbody tr td:nth-child(2)'):
+                exp_val.append(value.text)
+
+            print(exp_prov)
+            print(exp_val)
+            print(len(exp_prov))
+            print(len(exp_val))
+            sleep(10)
+
             if len(tables.find(selector='thead tr')) > 2:
                 
                 headers = [re.sub(r'\s', ' ', head.text.strip()) for head in tables.find(selector='thead tr:first-child th')]

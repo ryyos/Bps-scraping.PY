@@ -1,0 +1,752 @@
+{
+  "Type": "EKONOMI",
+  "times": "2023-12-07 18:24:53.895580",
+  "datas": {
+    "data": [
+      {
+        "id": 1,
+        "title": "Upah dan Gaji Menurut Klasifikasi Tenaga Kerja, 2000-2008",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/104/45/1/upah-dan-gaji-menurut-klasifikasi-tenaga-kerja.html"
+        ],
+        "data_tables": [
+          {
+            "Klasifikasi Tenaga Kerja": "Pertanian penerima upah dan gaji",
+            "Upah dan Gaji Menurut Klasifikasi Tenaga Kerja                        (Milyar Rupiah)": {
+              "2000": 48402.1,
+              "2005": 76488.8,
+              "2008": 166135.0
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Pertanian bukan penerima upah dan gaji",
+            "Upah dan Gaji Menurut Klasifikasi Tenaga Kerja                        (Milyar Rupiah)": {
+              "2000": 97320.7,
+              "2005": 207859.3,
+              "2008": 428377.0
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Produksi, operator, manual penerima upah dan gaji",
+            "Upah dan Gaji Menurut Klasifikasi Tenaga Kerja                        (Milyar Rupiah)": {
+              "2000": 142000.3,
+              "2005": 332433.7,
+              "2008": 633907.1
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Produksi, operator, manual bukan penerima upah dan gaji",
+            "Upah dan Gaji Menurut Klasifikasi Tenaga Kerja                        (Milyar Rupiah)": {
+              "2000": 40969.8,
+              "2005": 145635.8,
+              "2008": 252311.2
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Tata usaha, penjualan, dan jasa penerima upah dan gaji",
+            "Upah dan Gaji Menurut Klasifikasi Tenaga Kerja                        (Milyar Rupiah)": {
+              "2000": 136698.7,
+              "2005": 316555.9,
+              "2008": 526744.4
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Tata usaha, penjualan, dan jasa bukan penerima upah dan gaji",
+            "Upah dan Gaji Menurut Klasifikasi Tenaga Kerja                        (Milyar Rupiah)": {
+              "2000": 99644.9,
+              "2005": 224946.3,
+              "2008": 376973.6
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Profesional, teknisi, manager, militer penerima upah dan gaji",
+            "Upah dan Gaji Menurut Klasifikasi Tenaga Kerja                        (Milyar Rupiah)": {
+              "2000": 70477.5,
+              "2005": 156739.6,
+              "2008": 261707.4
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Profesional, teknisi, manager, militer bukan penerima upah dan gaji",
+            "Upah dan Gaji Menurut Klasifikasi Tenaga Kerja                        (Milyar Rupiah)": {
+              "2000": 6560.1,
+              "2005": 25519.2,
+              "2008": 46463.1
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja, 2000-2008",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/104/52/1/rata-rata-upah-dan-gaji-per-ekuivalen-tenaga-kerja-etk-menurut-klasifikasi-tenaga-kerja.html"
+        ],
+        "data_tables": [
+          {
+            "Klasifikasi Tenaga Kerja": "Pertanian penerima upah dan gaji",
+            "Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja                        (Ribu Rupiah)": {
+              "2000": 5132.0,
+              "2005": 9409.5,
+              "2008": 20656.1
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Pertanian bukan penerima upah dan gaji",
+            "Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja                        (Ribu Rupiah)": {
+              "2000": 4139.0,
+              "2005": 7948.1,
+              "2008": 15949.6
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Produksi, operator, manual penerima upah dan gaji",
+            "Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja                        (Ribu Rupiah)": {
+              "2000": 8498.3,
+              "2005": 21066.1,
+              "2008": 35127.9
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Produksi, operator, manual bukan penerima upah dan gaji",
+            "Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja                        (Ribu Rupiah)": {
+              "2000": 4567.1,
+              "2005": 12458.0,
+              "2008": 17669.7
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Tata usaha, penjualan, dan jasa penerima upah dan gaji",
+            "Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja                        (Ribu Rupiah)": {
+              "2000": 10053.7,
+              "2005": 25558.3,
+              "2008": 39468.0
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Tata usaha, penjualan, dan jasa bukan penerima upah dan gaji",
+            "Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja                        (Ribu Rupiah)": {
+              "2000": 6251.2,
+              "2005": 12754.8,
+              "2008": 17960.6
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Profesional, teknisi, manager, militer penerima upah dan gaji",
+            "Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja                        (Ribu Rupiah)": {
+              "2000": 14028.7,
+              "2005": 36926.4,
+              "2008": 46555.2
+            }
+          },
+          {
+            "Klasifikasi Tenaga Kerja": "Profesional, teknisi, manager, militer bukan penerima upah dan gaji",
+            "Rata-Rata Upah dan Gaji per Ekuivalen Tenaga Kerja (ETK) Menurut Klasifikasi Tenaga Kerja                        (Ribu Rupiah)": {
+              "2000": 9273.5,
+              "2005": 25383.5,
+              "2008": 36367.8
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga, 2000-2008",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/104/676/1/rata-rata-upah-dan-gaji-per-kapita-menurut-golongan-rumah-tangga.html"
+        ],
+        "data_tables": [
+          {
+            "Golongan Rumah Tangga": "Rumah tangga buruh tani",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 1022.0,
+              "2005": 2735.2,
+              "2008": 3569.7
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 2182.2,
+              "2005": 4616.5,
+              "2008": 8092.9
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga petani gurem",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 1740.8,
+              "2005": 3710.7,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan 0,5\u20131 ha",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 2786.1,
+              "2005": 5867.5,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan lebih dari 1 ha",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 3111.8,
+              "2005": 6296.5,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di desa",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 2373.9,
+              "2005": 5686.4,
+              "2008": 9062.1
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di desa",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 2651.8,
+              "2005": 6015.0,
+              "2008": 9699.9
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di desa",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 4901.8,
+              "2005": 10313.2,
+              "2008": 19491.7
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di kota",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 4195.9,
+              "2005": 7963.4,
+              "2008": 13675.6
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di kota",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 4490.8,
+              "2005": 8113.9,
+              "2008": 13699.5
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di kota",
+            "Rata-Rata Upah dan Gaji per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 7667.6,
+              "2005": 16683.2,
+              "2008": 30557.5
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga, 2000-2008",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/104/678/1/nilai-pengeluaran-konsumsi-menurut-golongan-rumah-tangga.html"
+        ],
+        "data_tables": [
+          {
+            "Golongan Rumah Tangga": "Rumah tangga buruh tani",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 64495.5,
+              "2005": 120971.5,
+              "2008": 162021.4
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 179924.3,
+              "2005": 371515.5,
+              "2008": 642327.2
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga petani gurem",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 88314.4,
+              "2005": 178211.9,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan 0,5\u20131 ha",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 44093.6,
+              "2005": 99722.9,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan lebih dari 1 ha",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 47516.3,
+              "2005": 93580.7,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di desa",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 103697.7,
+              "2005": 267961.0,
+              "2008": 450508.3
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di desa",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 48508.6,
+              "2005": 87766.0,
+              "2008": 158015.3
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di desa",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 91424.0,
+              "2005": 199810.4,
+              "2008": 385337.0
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di kota",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 160897.1,
+              "2005": 343911.0,
+              "2008": 633498.9
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di kota",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 68413.4,
+              "2005": 115875.3,
+              "2008": 213768.1
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di kota",
+            "Nilai Pengeluaran Konsumsi Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 156139.5,
+              "2005": 361730.4,
+              "2008": 672628.6
+            }
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa, 2000-2008",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/104/680/1/jumlah-pendapatan-menurut-golongan-rumah-tanggaa.html"
+        ],
+        "data_tables": [
+          {
+            "Golongan Rumah Tangga": "Rumah tangga buruh tani",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 71632.2,
+              "2005": 136485.9,
+              "2008": 176756.7
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 1118384.4,
+              "2005": 435362.4,
+              "2008": 731562.8
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga petani gurem",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 1011984.2,
+              "2005": 205435.8,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan 0,5\u20131 ha",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 51548.4,
+              "2005": 116075.9,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan lebih dari 1 ha",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 54851.8,
+              "2005": 113850.7,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di desa",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 113332.8,
+              "2005": 298378.5,
+              "2008": 494234.2
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di desa",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 51178.7,
+              "2005": 99183.2,
+              "2008": 173151.9
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di desa",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 103792.6,
+              "2005": 250123.8,
+              "2008": 468454.5
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di kota",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 180850.4,
+              "2005": 387982.1,
+              "2008": 710495.5
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di kota",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 72474.4,
+              "2005": 136523.0,
+              "2008": 243905.5
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di kota",
+            "Jumlah Pendapatan Menurut Golongan Rumah Tanggaa                        (Milyar Rupiah)": {
+              "2000": 186838.0,
+              "2005": 447269.8,
+              "2008": 827883.5
+            }
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga, 2000-2008",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/104/681/1/jumlah-pendapatan-setelah-pajak-menurut-golongan-rumah-tangga.html"
+        ],
+        "data_tables": [
+          {
+            "Golongan Rumah Tangga": "Rumah tangga buruh tani",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 70901.1,
+              "2005": 132889.4,
+              "2008": 172960.6
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 206272.5,
+              "2005": 424610.0,
+              "2008": 719609.2
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga petani gurem",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 100919.0,
+              "2005": 200404.1,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan 0,5\u20131 ha",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 51056.4,
+              "2005": 113467.2,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan lebih dari 1 ha",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 54297.1,
+              "2005": 110738.7,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di desa",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 112179.3,
+              "2005": 291277.5,
+              "2008": 484747.3
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di desa",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 50720.7,
+              "2005": 96895.7,
+              "2008": 170082.2
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di desa",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 102570.7,
+              "2005": 240517.0,
+              "2008": 454694.0
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di kota",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 178276.6,
+              "2005": 375931.0,
+              "2008": 691978.0
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di kota",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 71893.2,
+              "2005": 131296.5,
+              "2008": 238054.6
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di kota",
+            "Jumlah Pendapatan Setelah Pajak Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 184306.8,
+              "2005": 430692.2,
+              "2008": 809245.2
+            }
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga, 2000-2008",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/104/683/1/nilai-upah-dan-gaji-menurut-golongan-rumah-tangga.html"
+        ],
+        "data_tables": [
+          {
+            "Golongan Rumah Tangga": "Rumah tangga buruh tani",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 31943.9,
+              "2005": 80559.1,
+              "2008": 105406.5
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 135449.5,
+              "2005": 292285.1,
+              "2008": 518425.7
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga petani gurem",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 67823.9,
+              "2005": 143715.5,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan 0,5\u20131 ha",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 36618.2,
+              "2005": 85015.5,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan lebih dari 1 ha",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 31007.4,
+              "2005": 63554.0,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di desa",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 71309.0,
+              "2005": 196326.8,
+              "2008": 333694.9
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di desa",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 28019.2,
+              "2005": 62608.2,
+              "2008": 111674.3
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di desa",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 65221.1,
+              "2005": 155452.2,
+              "2008": 312663.7
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di kota",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 127986.5,
+              "2005": 278771.7,
+              "2008": 517690.7
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di kota",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 47479.6,
+              "2005": 95302.6,
+              "2008": 170650.1
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di kota",
+            "Nilai Upah dan Gaji Menurut Golongan Rumah Tangga                        (Milyar Rupiah)": {
+              "2000": 134428.2,
+              "2005": 322718.0,
+              "2008": 618699.4
+            }
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga, 2000-2008",
+        "update": "01 Dec 2019",
+        "keterangan": "",
+        "url_tables": [
+          "https://www.archive.bps.go.id/indicator/104/684/1/rata-rata-jumlah-pendapatan-per-kapita-menurut-golongan-rumah-tangga.html"
+        ],
+        "data_tables": [
+          {
+            "Golongan Rumah Tangga": "Rumah tangga buruh tani",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 2291.7,
+              "2005": 4634.0,
+              "2008": 5986.0
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 18018.3,
+              "2005": 6876.4,
+              "2008": 11420.1
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga petani gurem",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 2617.6,
+              "2005": 5304.3,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan 0,5\u20131 ha",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 3922.0,
+              "2005": 8011.2,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga pengusaha pertanian yang memiliki lahan lebih dari 1 ha",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 5504.7,
+              "2005": 11279.5,
+              "2008": "-"
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di desa",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 3772.9,
+              "2005": 8642.3,
+              "2008": 13421.8
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di desa",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 4843.7,
+              "2005": 9528.8,
+              "2008": 15039.8
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di desa",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 7800.7,
+              "2005": 16594.1,
+              "2008": 29203.8
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan rendah di kota",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 5929.0,
+              "2005": 11083.2,
+              "2008": 18768.9
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan angkatan kerja di kota",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 6854.9,
+              "2005": 11623.4,
+              "2008": 19580.4
+            }
+          },
+          {
+            "Golongan Rumah Tangga": "Rumah tangga bukan pertanian golongan atas di kota",
+            "Rata-Rata Jumlah Pendapatan per Kapita Menurut Golongan Rumah Tangga                        (Ribu Rupiah)": {
+              "2000": 10657.0,
+              "2005": 23122.0,
+              "2008": 40889.1
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
